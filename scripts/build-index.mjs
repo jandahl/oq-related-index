@@ -1,0 +1,70 @@
+import { mkdir, writeFile } from "node:fs/promises";
+
+const LEXICON_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/lexicon.json";
+const SEMANTIC_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/semantic_classes.json";
+
+function entries(raw) {
+  if (Array.isArray(raw)) return raw;
+  return raw?.lexemes ?? raw?.entries ?? raw?.dictionary_entries ?? [];
+}
+
+function add(map, key, id) {
+  if (!key) return;
+  const list = map[key] ??= [];
+  if (!list.includes(id)) list.push(id);
+}
+
+function tokens(value) {
+  return String(value ?? "").toLowerCase().normalize("NFKC")
+    .match(/[\p{L}\p{N}]+/gu) ?? [];
+}
+
+const [lexiconResponse, semanticResponse] = await Promise.all([
+  fetch(LEXICON_URL),
+  fetch(SEMANTIC_URL),
+]);
+if (!lexiconResponse.ok || !semanticResponse.ok) {
+  throw new Error(`Source fetch failed: lexicon=${lexiconResponse.status}, semantic=${semanticResponse.status}`);
+}
+
+const lexicon = entries(await lexiconResponse.json());
+const semantic = await semanticResponse.json();
+const bySemanticClass = {};
+const byDomain = {};
+const byGlossToken = {};
+const records = [];
+
+for (const entry of lexicon) {
+  const id = String(entry?.id ?? "").trim();
+  const headword = String(entry?.kalaallisut ?? "").trim();
+  if (!id || !headword) continue;
+  records.push({ id, headword, word_class: entry.word_class ?? "" });
+  for (const classId of entry.semantic_classes ?? []) add(bySemanticClass, classId, id);
+  if (entry.domain?.id) add(byDomain, entry.domain.id, id);
+  for (const gloss of [...(entry.english ?? []), ...(entry.danish ?? [])]) {
+    for (const token of tokens(gloss)) add(byGlossToken, token, id);
+  }
+}
+
+for (const index of [bySemanticClass, byDomain, byGlossToken]) {
+  for (const ids of Object.values(index)) ids.sort();
+}
+records.sort((a, b) => a.headword.localeCompare(b.headword) || a.id.localeCompare(b.id));
+
+await mkdir("dist", { recursive: true });
+await writeFile("dist/related-index.json", JSON.stringify({
+  meta: {
+    schema: "oq-related-index/0.1",
+    generated_at: new Date().toISOString(),
+    attribution: "Oqaasileriffik / Greenland Language Secretariat",
+    license: "CC-BY-SA-4.0",
+    sources: { lexicon: LEXICON_URL, semantic_classes: SEMANTIC_URL },
+  },
+  records,
+  bySemanticClass,
+  byDomain,
+  byGlossToken,
+  semantic_classes: semantic.semantic_classes ?? [],
+}, null, 2));
+
+console.log(`Wrote ${records.length} records to dist/related-index.json`);

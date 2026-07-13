@@ -1,0 +1,8 @@
+{
+  "name": "oq-related-index",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "build": "node scripts/build-index.mjs"
+  }
+}
