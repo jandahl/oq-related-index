@@ -38,7 +38,12 @@ for (const entry of lexicon) {
   const id = String(entry?.id ?? "").trim();
   const headword = String(entry?.kalaallisut ?? "").trim();
   if (!id || !headword) continue;
-  records.push({ id, headword, word_class: entry.word_class ?? "" });
+  records.push({
+    id, headword, word_class: entry.word_class ?? "",
+    gloss_en: entry.english ?? [], gloss_da: entry.danish ?? [],
+    semantic_classes: entry.semantic_classes ?? [],
+    domain: entry.domain ?? null,
+  });
   for (const classId of entry.semantic_classes ?? []) add(bySemanticClass, classId, id);
   if (entry.domain?.id) add(byDomain, entry.domain.id, id);
   for (const gloss of [...(entry.english ?? []), ...(entry.danish ?? [])]) {
