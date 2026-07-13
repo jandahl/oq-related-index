@@ -52,6 +52,18 @@ for (const index of [bySemanticClass, byDomain, byGlossToken]) {
 records.sort((a, b) => a.headword.localeCompare(b.headword) || a.id.localeCompare(b.id));
 
 await mkdir("dist", { recursive: true });
+await writeFile("dist/index.html", `<!doctype html>
+<html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>OQ! related-word index</title></head><body>
+<h1>OQ! related-word index</h1>
+<p>Derived, experimental indexes for discovering semantically related Kalaallisut words.</p>
+<ul>
+<li><a href="https://github.com/jandahl/oq-related-index">Source repository</a></li>
+<li><a href="related-index.json">Generated JSON index</a></li>
+</ul>
+<p>Derived from public Oqaasileriffik / Greenlandic Language Secretariat data;
+see the <a href="https://github.com/jandahl/oq-related-index/blob/master/NOTICE.md">data notice</a>.</p>
+</body></html>\n`);
 await writeFile("dist/related-index.json", JSON.stringify({
   meta: {
     schema: "oq-related-index/0.1",
