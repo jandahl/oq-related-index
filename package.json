@@ -3,6 +3,7 @@
   "private": true,
   "type": "module",
   "scripts": {
-    "build": "node scripts/build-index.mjs"
+    "build": "node scripts/build-index.mjs",
+    "validate": "node scripts/validate-index.mjs"
   }
 }
