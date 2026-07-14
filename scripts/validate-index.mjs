@@ -6,9 +6,15 @@ const fail = (message) => {
   process.exit(1);
 };
 const isStringArray = (value) => Array.isArray(value) && value.every((item) => typeof item === "string");
+let content;
+try {
+  content = await readFile(file, "utf8");
+} catch (error) {
+  fail(`failed to read file: ${error.message}`);
+}
 let index;
 try {
-  index = JSON.parse(await readFile(file, "utf8"));
+  index = JSON.parse(content);
 } catch (error) {
   fail(`failed to parse JSON: ${error.message}`);
 }
@@ -47,7 +53,7 @@ for (const record of index.records) {
 
 for (const field of ["bySemanticClass", "byDomain", "byGlossToken"]) {
   for (const [key, refs] of Object.entries(index[field])) {
-    if (!key || !isStringArray(refs)) fail(`${field}.${key} must contain a string array`);
+    if (!key || !isStringArray(refs) || refs.length === 0) fail(`${field}.${key} must contain a non-empty string array`);
     const seenRefs = new Set();
     for (const id of refs) {
       if (!ids.has(id)) fail(`${field}.${key} references missing record ${id}`);
