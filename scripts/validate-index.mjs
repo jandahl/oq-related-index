@@ -23,8 +23,8 @@ if (!index || typeof index !== "object" || Array.isArray(index)) fail("root must
 if (index.meta !== undefined) {
   if (!index.meta || typeof index.meta !== "object" || Array.isArray(index.meta)) fail("meta must be an object when present");
   if (index.meta.schema !== undefined && index.meta.schema !== "oq-related-index/0.1") fail("meta.schema must be oq-related-index/0.1 when present");
-  if (index.meta.generated_at !== undefined && (typeof index.meta.generated_at !== "string" || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{3})?Z$/.test(index.meta.generated_at))) {
-    fail("meta.generated_at must be an ISO date when present");
+  if (index.meta.generated_at !== undefined && (typeof index.meta.generated_at !== "string" || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{3})?Z$/.test(index.meta.generated_at) || Number.isNaN(Date.parse(index.meta.generated_at)))) {
+    fail("meta.generated_at must be a valid ISO date when present");
   }
 }
 if (!Array.isArray(index.records)) fail("records must be an array");
@@ -65,10 +65,13 @@ for (const field of ["bySemanticClass", "byDomain", "byGlossToken"]) {
 
 if (index.semantic_classes !== undefined) {
   if (!Array.isArray(index.semantic_classes)) fail("semantic_classes must be an array when present");
+  const seenClassIds = new Set();
   for (const entry of index.semantic_classes) {
     if (!entry || typeof entry !== "object" || Array.isArray(entry) || typeof entry.id !== "string" || !entry.id) {
       fail("semantic_classes entries must be objects with non-empty string ids");
     }
+    if (seenClassIds.has(entry.id)) fail(`duplicate semantic class id: ${entry.id}`);
+    seenClassIds.add(entry.id);
   }
 }
 console.log(`Validated ${index.records.length} records in ${file}`);
