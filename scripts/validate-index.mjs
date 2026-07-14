@@ -10,9 +10,12 @@ try {
   fail(`failed to parse JSON: ${error.message}`);
 }
 
-if (!index || typeof index !== "object") fail("root must be an object");
-if (index.meta?.schema !== "oq-related-index/0.1") fail("meta.schema must be oq-related-index/0.1");
-if (!index.meta?.generated_at || Number.isNaN(Date.parse(index.meta.generated_at))) fail("meta.generated_at must be an ISO date");
+if (!index || typeof index !== "object" || Array.isArray(index)) fail("root must be an object");
+if (!index.meta || typeof index.meta !== "object" || Array.isArray(index.meta)) fail("meta must be an object");
+if (index.meta.schema !== "oq-related-index/0.1") fail("meta.schema must be oq-related-index/0.1");
+if (index.meta.generated_at !== undefined && (typeof index.meta.generated_at !== "string" || Number.isNaN(Date.parse(index.meta.generated_at)))) {
+  fail("meta.generated_at must be an ISO date when present");
+}
 if (!Array.isArray(index.records)) fail("records must be an array");
 for (const field of ["bySemanticClass", "byDomain", "byGlossToken"]) {
   if (!index[field] || typeof index[field] !== "object" || Array.isArray(index[field])) fail(`${field} must be an object`);
@@ -20,13 +23,16 @@ for (const field of ["bySemanticClass", "byDomain", "byGlossToken"]) {
 
 const ids = new Set();
 for (const record of index.records) {
-  if (!record || typeof record !== "object") fail("records must contain objects");
+  if (!record || typeof record !== "object" || Array.isArray(record)) fail("records must contain objects");
   if (typeof record.id !== "string" || !record.id) fail("every record needs a non-empty string id");
   if (ids.has(record.id)) fail(`duplicate record id: ${record.id}`);
   ids.add(record.id);
   if (typeof record.headword !== "string" || !record.headword) fail(`record ${record.id} needs a headword`);
-  for (const field of ["gloss_en", "gloss_da", "semantic_classes"]) {
+  for (const field of ["gloss_en", "gloss_da"]) {
     if (!isStringArray(record[field])) fail(`record ${record.id}: ${field} must be a string array`);
+  }
+  if (record.semantic_classes !== undefined && !isStringArray(record.semantic_classes)) {
+    fail(`record ${record.id}: semantic_classes must be a string array when present`);
   }
   if (typeof record.word_class !== "string") fail(`record ${record.id}: word_class must be a string`);
   if (record.domain !== null && (typeof record.domain !== "object" || typeof record.domain.id !== "string" || !record.domain.id)) {
@@ -46,5 +52,5 @@ for (const field of ["bySemanticClass", "byDomain", "byGlossToken"]) {
   }
 }
 
-if (!Array.isArray(index.semantic_classes)) fail("semantic_classes must be an array");
+if (index.semantic_classes !== undefined && !Array.isArray(index.semantic_classes)) fail("semantic_classes must be an array when present");
 console.log(`Validated ${index.records.length} records in ${file}`);
