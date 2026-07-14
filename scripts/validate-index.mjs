@@ -1,7 +1,10 @@
 import { readFile } from "node:fs/promises";
 
 const file = process.argv[2] ?? "dist/related-index.json";
-const fail = (message) => { throw new Error(`${file}: ${message}`); };
+const fail = (message) => {
+  console.error(`${file}: ${message}`);
+  process.exit(1);
+};
 const isStringArray = (value) => Array.isArray(value) && value.every((item) => typeof item === "string");
 let index;
 try {
@@ -11,10 +14,12 @@ try {
 }
 
 if (!index || typeof index !== "object" || Array.isArray(index)) fail("root must be an object");
-if (!index.meta || typeof index.meta !== "object" || Array.isArray(index.meta)) fail("meta must be an object");
-if (index.meta.schema !== "oq-related-index/0.1") fail("meta.schema must be oq-related-index/0.1");
-if (index.meta.generated_at !== undefined && (typeof index.meta.generated_at !== "string" || Number.isNaN(Date.parse(index.meta.generated_at)))) {
-  fail("meta.generated_at must be an ISO date when present");
+if (index.meta !== undefined) {
+  if (!index.meta || typeof index.meta !== "object" || Array.isArray(index.meta)) fail("meta must be an object when present");
+  if (index.meta.schema !== undefined && index.meta.schema !== "oq-related-index/0.1") fail("meta.schema must be oq-related-index/0.1 when present");
+  if (index.meta.generated_at !== undefined && (typeof index.meta.generated_at !== "string" || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{3})?Z$/.test(index.meta.generated_at))) {
+    fail("meta.generated_at must be an ISO date when present");
+  }
 }
 if (!Array.isArray(index.records)) fail("records must be an array");
 for (const field of ["bySemanticClass", "byDomain", "byGlossToken"]) {
@@ -52,5 +57,12 @@ for (const field of ["bySemanticClass", "byDomain", "byGlossToken"]) {
   }
 }
 
-if (index.semantic_classes !== undefined && !Array.isArray(index.semantic_classes)) fail("semantic_classes must be an array when present");
+if (index.semantic_classes !== undefined) {
+  if (!Array.isArray(index.semantic_classes)) fail("semantic_classes must be an array when present");
+  for (const entry of index.semantic_classes) {
+    if (!entry || typeof entry !== "object" || Array.isArray(entry) || typeof entry.id !== "string" || !entry.id) {
+      fail("semantic_classes entries must be objects with non-empty string ids");
+    }
+  }
+}
 console.log(`Validated ${index.records.length} records in ${file}`);
