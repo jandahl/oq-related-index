@@ -1,9 +1,14 @@
 import { readFile } from "node:fs/promises";
 
 const file = process.argv[2] ?? "dist/related-index.json";
-const index = JSON.parse(await readFile(file, "utf8"));
 const fail = (message) => { throw new Error(`${file}: ${message}`); };
 const isStringArray = (value) => Array.isArray(value) && value.every((item) => typeof item === "string");
+let index;
+try {
+  index = JSON.parse(await readFile(file, "utf8"));
+} catch (error) {
+  fail(`failed to parse JSON: ${error.message}`);
+}
 
 if (!index || typeof index !== "object") fail("root must be an object");
 if (index.meta?.schema !== "oq-related-index/0.1") fail("meta.schema must be oq-related-index/0.1");
@@ -23,12 +28,21 @@ for (const record of index.records) {
   for (const field of ["gloss_en", "gloss_da", "semantic_classes"]) {
     if (!isStringArray(record[field])) fail(`record ${record.id}: ${field} must be a string array`);
   }
+  if (typeof record.word_class !== "string") fail(`record ${record.id}: word_class must be a string`);
+  if (record.domain !== null && (typeof record.domain !== "object" || typeof record.domain.id !== "string" || !record.domain.id)) {
+    fail(`record ${record.id}: domain must be null or an object with a non-empty string id`);
+  }
 }
 
 for (const field of ["bySemanticClass", "byDomain", "byGlossToken"]) {
   for (const [key, refs] of Object.entries(index[field])) {
     if (!key || !isStringArray(refs)) fail(`${field}.${key} must contain a string array`);
-    for (const id of refs) if (!ids.has(id)) fail(`${field}.${key} references missing record ${id}`);
+    const seenRefs = new Set();
+    for (const id of refs) {
+      if (!ids.has(id)) fail(`${field}.${key} references missing record ${id}`);
+      if (seenRefs.has(id)) fail(`${field}.${key} contains duplicate reference ${id}`);
+      seenRefs.add(id);
+    }
   }
 }
 
