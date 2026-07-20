@@ -22,7 +22,7 @@ try {
 if (!index || typeof index !== "object" || Array.isArray(index)) fail("root must be an object");
 if (index.meta !== undefined) {
   if (!index.meta || typeof index.meta !== "object" || Array.isArray(index.meta)) fail("meta must be an object when present");
-  if (index.meta.schema !== undefined && index.meta.schema !== "oq-related-index/0.1") fail("meta.schema must be oq-related-index/0.1 when present");
+  if (index.meta.schema !== undefined && index.meta.schema !== "oq-related-index/0.2") fail("meta.schema must be oq-related-index/0.2 when present");
   if (index.meta.generated_at !== undefined && (typeof index.meta.generated_at !== "string" || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{3})?Z$/.test(index.meta.generated_at) || Number.isNaN(Date.parse(index.meta.generated_at)))) {
     fail("meta.generated_at must be a valid ISO date when present");
   }
@@ -48,6 +48,16 @@ for (const record of index.records) {
   if (record.word_class !== undefined && typeof record.word_class !== "string") fail(`record ${record.id}: word_class must be a string when present`);
   if (record.domain !== undefined && record.domain !== null && (typeof record.domain !== "object" || Array.isArray(record.domain) || typeof record.domain.id !== "string" || !record.domain.id)) {
     fail(`record ${record.id}: domain must be null or an object with a non-empty string id when present`);
+  }
+}
+
+for (const record of index.records) {
+  if (record.related === undefined) continue;
+  if (!Array.isArray(record.related)) fail(`record ${record.id}: related must be an array when present`);
+  if (!isStringArray(record.related.map((item) => item?.id))) fail(`record ${record.id}: related ids must be strings`);
+  for (const item of record.related) {
+    if (!item || typeof item !== "object" || !ids.has(item.id) || typeof item.headword !== "string" || !Number.isFinite(item.score) || !isStringArray(item.reasons)) fail(`record ${record.id}: malformed related item`);
+    if (item.id === record.id) fail(`record ${record.id}: related list contains itself`);
   }
 }
 

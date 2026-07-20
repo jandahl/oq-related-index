@@ -6,6 +6,12 @@ The generated data is built from the public Oqaasileriffik/Katersat exports. It
 is intended to support explainable semantic neighborhoods, not to assert that
 any two entries are synonyms.
 
+The published records include a bounded `related` array compiled from
+semantic-class, domain, and bilingual-gloss signals. Broad matches and weak
+single signals are filtered out; reciprocal relationships receive a small
+ranking bonus. Each item includes its source record id, score, and reasons so
+consumers can present or audit the result without reproducing the algorithm.
+
 ## Build
 
 ```sh
