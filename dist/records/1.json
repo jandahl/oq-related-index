@@ -1,0 +1,2026 @@
+{
+  "records": [
+    {
+      "id": "lex_187370",
+      "headword": "1-inik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 1 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187378",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "17-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_163804",
+      "headword": "1. assistenti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "1. assistent"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_187401",
+      "headword": "1. klassinut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 1. klasse"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187402",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187403",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187404",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187405",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "2. klassinut",
+          "shard": "2"
+        },
+        {
+          "id": "lex_187406",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "3. klassinut",
+          "shard": "3"
+        },
+        {
+          "id": "lex_187407",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "4. klassinut",
+          "shard": "4"
+        },
+        {
+          "id": "lex_187408",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "5. klassinut",
+          "shard": "5"
+        }
+      ]
+    },
+    {
+      "id": "lex_187371",
+      "headword": "10-nik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 10 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187402",
+          "score": 9,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_190682",
+      "headword": "10-p akimornera",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "tierovergang"
+      ],
+      "semantic_classes": [
+        "geom-line"
+      ],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_244915",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-p akimornera",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_244915",
+      "headword": "10-p akimornera",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "tierovergang"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_190682",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-p akimornera",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_187402",
+      "headword": "10. klassinut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 10. klasse"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187371",
+          "score": 9,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187401",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187403",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187404",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187405",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "2. klassinut",
+          "shard": "2"
+        },
+        {
+          "id": "lex_187406",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "3. klassinut",
+          "shard": "3"
+        },
+        {
+          "id": "lex_187407",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "4. klassinut",
+          "shard": "4"
+        },
+        {
+          "id": "lex_187408",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "5. klassinut",
+          "shard": "5"
+        }
+      ]
+    },
+    {
+      "id": "lex_187372",
+      "headword": "11-nik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 11 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187403",
+          "score": 9,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_187403",
+      "headword": "11. klassinut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 11. klasse"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187372",
+          "score": 9,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187401",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187402",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187404",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187405",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "2. klassinut",
+          "shard": "2"
+        },
+        {
+          "id": "lex_187406",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "3. klassinut",
+          "shard": "3"
+        },
+        {
+          "id": "lex_187407",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "4. klassinut",
+          "shard": "4"
+        },
+        {
+          "id": "lex_187408",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "5. klassinut",
+          "shard": "5"
+        }
+      ]
+    },
+    {
+      "id": "lex_187373",
+      "headword": "12-inik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 12 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187404",
+          "score": 9,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_187404",
+      "headword": "12. klassinut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 12. klasse"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187373",
+          "score": 9,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187401",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187402",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187403",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187405",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "2. klassinut",
+          "shard": "2"
+        },
+        {
+          "id": "lex_187406",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "3. klassinut",
+          "shard": "3"
+        },
+        {
+          "id": "lex_187407",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "4. klassinut",
+          "shard": "4"
+        },
+        {
+          "id": "lex_187408",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "5. klassinut",
+          "shard": "5"
+        }
+      ]
+    },
+    {
+      "id": "lex_187374",
+      "headword": "13-inik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 13 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187378",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "17-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_187375",
+      "headword": "14-inik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 14 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187378",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "17-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_187376",
+      "headword": "15-inik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 15 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187378",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "17-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_254126",
+      "headword": "16-inik ukiulik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "-årig"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_187377",
+      "headword": "16-inik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 16 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187378",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "17-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_187378",
+      "headword": "17-inik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 17 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_187379",
+      "headword": "18-inik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 18 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_187380",
+      "headword": "19-inik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 19 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_254137",
+      "headword": "1900-kkunni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "århundrede"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_230461",
+      "headword": "1984 1988 1988 1988 1988 198",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "pålydende"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_12",
+        "code": "3.0.0",
+        "english": "ØK ECONOMY & TRADE",
+        "danish": "ØK ØKONOMI og HANDEL",
+        "kalaallisut": "ØK ANINGAASAQARNEQ NIUERNERLU"
+      },
+      "related": []
+    }
+  ]
+}

@@ -1,0 +1,470 @@
+{
+  "records": [
+    {
+      "id": "lex_142760",
+      "headword": "æ",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æ"
+      ],
+      "semantic_classes": [
+        "ac-sign"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_142764",
+      "headword": "æblejuice",
+      "word_class": "t",
+      "gloss_en": [
+        "apple juice"
+      ],
+      "gloss_da": [
+        "æblejuice"
+      ],
+      "semantic_classes": [
+        "drink-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_142765",
+          "score": 5.915037499278844,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "iipilit isserat",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_255005",
+      "headword": "æblejuice",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æblejuice"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255003",
+      "headword": "æblekage",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æblekage"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255000",
+      "headword": "æblemosti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æblemost"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_142765",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "iipilit isserat",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_254998",
+      "headword": "æbleskive",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æbleskive"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_31831",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "æbleskive",
+          "shard": "æ"
+        }
+      ]
+    },
+    {
+      "id": "lex_31831",
+      "headword": "æbleskive",
+      "word_class": "t",
+      "gloss_en": [
+        "pancake ball"
+      ],
+      "gloss_da": [
+        "æbleskive"
+      ],
+      "semantic_classes": [
+        "food-c-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_254998",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "æbleskive",
+          "shard": "æ"
+        }
+      ]
+    },
+    {
+      "id": "lex_254983",
+      "headword": "ædelgrani",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ædelgran"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_184380",
+      "headword": "æggehvidestoffi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æggehvidestof",
+        "protein"
+      ],
+      "semantic_classes": [
+        "cm"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_184379",
+          "score": 6.356143810225276,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "proteini",
+          "shard": "p"
+        }
+      ]
+    },
+    {
+      "id": "lex_254955",
+      "headword": "æggehvidestoffi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æggehvidestof"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_182856",
+      "headword": "æggesnapsi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æggesnaps"
+      ],
+      "semantic_classes": [
+        "drink-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_254941",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "æggesnapsi",
+          "shard": "æ"
+        }
+      ]
+    },
+    {
+      "id": "lex_254941",
+      "headword": "æggesnapsi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æggesnaps"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_182856",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "æggesnapsi",
+          "shard": "æ"
+        }
+      ]
+    },
+    {
+      "id": "lex_132781",
+      "headword": "Ægyptenimiu",
+      "word_class": "t",
+      "gloss_en": [
+        "Egyptian"
+      ],
+      "gloss_da": [
+        "egypter",
+        "ægypter"
+      ],
+      "semantic_classes": [
+        "Hnat"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_132782",
+          "score": 10.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Igitsinimiu",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_254908",
+      "headword": "ækvatori",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ækvator"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_31832",
+      "headword": "ærkebiskop",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ærkebisp"
+      ],
+      "semantic_classes": [
+        "Hideo"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_254801",
+      "headword": "ærkebiskoppi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ærkebiskop"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_148520",
+      "headword": "Æskulapip ajaappiaa",
+      "word_class": "t",
+      "gloss_en": [
+        "Rod of Asclepius"
+      ],
+      "gloss_da": [
+        "æskulapstav"
+      ],
+      "semantic_classes": [
+        "cc-stick"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_161645",
+      "headword": "æteri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æter"
+      ],
+      "semantic_classes": [
+        "cm-liq-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_161648",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ilisimajunnaarsaat",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_254763",
+      "headword": "æteri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "æter"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_146615",
+      "headword": "ætserpaa",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [
+        "ætse"
+      ],
+      "semantic_classes": [
+        "V.45.10"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_17695",
+          "score": 7.912537158749661,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "neriorpaa",
+          "shard": "n"
+        }
+      ]
+    },
+    {
+      "id": "lex_254761",
+      "headword": "ætyleni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ætylen"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    }
+  ]
+}

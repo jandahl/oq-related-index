@@ -1,0 +1,466 @@
+{
+  "records": [
+    {
+      "id": "lex_255150",
+      "headword": "-lersuisuuvoq",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [
+        "yde"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_236929",
+      "headword": "-livik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "beholder"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_236928",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "pooq",
+          "shard": "p"
+        }
+      ]
+    },
+    {
+      "id": "lex_250063",
+      "headword": "-mik ilisimasaqalerpoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "tilegner sig kundskab om"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": [
+        {
+          "id": "lex_247303",
+          "score": 6,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ilikkarpaa, pigiliuppaa, pissarsiaraa",
+          "shard": "i"
+        },
+        {
+          "id": "lex_251216",
+          "score": 6,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "pigiliuppaa, ilikkarpaa, pissarsiaraa",
+          "shard": "p"
+        },
+        {
+          "id": "lex_251344",
+          "score": 6,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "pissarsiaraa, ilikkarpaa, pigiliuppaa",
+          "shard": "p"
+        }
+      ]
+    },
+    {
+      "id": "lex_255901",
+      "headword": "-mik nuannarisalik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "entusiast"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256679",
+      "headword": "-mut kuussaanngitsoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "fanatiker"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_256678",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ilungersornertooq",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_186033",
+      "headword": "-nngornianik ilinniartitsisoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "professionsfaglærer"
+      ],
+      "semantic_classes": [
+        "ac"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_254325",
+      "headword": "-nnguatsiarpoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "åbenbart"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_260761",
+      "headword": "-palaannguakasik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "kasse"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255461",
+      "headword": "-passuit",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "væld"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_255462",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "puilasoq",
+          "shard": "p"
+        }
+      ]
+    },
+    {
+      "id": "lex_254748",
+      "headword": "-rnisaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "årgang"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255729",
+      "headword": "-ssaq",
+      "word_class": "adj",
+      "gloss_en": [],
+      "gloss_da": [
+        "vordende"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257211",
+      "headword": "-vissuaq",
+      "word_class": "adj",
+      "gloss_en": [],
+      "gloss_da": [
+        "veritabel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_246001",
+      "headword": "”anillaqqinnissaq”",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "stille sig udenfor igen"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254370",
+      "headword": "[atuagaq] sungiusaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "øvebog"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_244768",
+      "headword": "[ilisarnaat pineqartoq: / ]",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "skråstreg"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_244771",
+      "headword": "[ilisarnaat pineqartoq: \\ ]",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "skråstreg"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_244765",
+      "headword": "[ilisarnaatit pineqartut: \\ aamma / ]",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "skråstreg"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_238999",
+      "headword": "[naalagaaffiup inuisa] imminnut sorsuunnerat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "borgerkrig"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_238502",
+      "headword": "[uumasoq] qimerloqanngitsoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "bløddyr"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_178351",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qituttoq",
+          "shard": "q"
+        }
+      ]
+    },
+    {
+      "id": "lex_243272",
+      "headword": "∨",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "disjunktion",
+        "∨"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_220482",
+      "headword": "≈",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "cirkategn"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_75",
+        "code": "7.1.0",
+        "english": "MAT Mathematic",
+        "danish": "MAT Matematik",
+        "kalaallisut": "MAT Matematikki"
+      },
+      "related": []
+    }
+  ]
+}

@@ -1,0 +1,167 @@
+{
+  "schema": "oq-related-index-shards/0.1",
+  "generated_at": "2026-07-21T05:30:23.558Z",
+  "record_count": 91348,
+  "shards": {
+    "1": {
+      "url": "records/1.json",
+      "records": 21
+    },
+    "2": {
+      "url": "records/2.json",
+      "records": 7
+    },
+    "3": {
+      "url": "records/3.json",
+      "records": 2
+    },
+    "4": {
+      "url": "records/4.json",
+      "records": 2
+    },
+    "5": {
+      "url": "records/5.json",
+      "records": 2
+    },
+    "6": {
+      "url": "records/6.json",
+      "records": 3
+    },
+    "7": {
+      "url": "records/7.json",
+      "records": 3
+    },
+    "8": {
+      "url": "records/8.json",
+      "records": 2
+    },
+    "9": {
+      "url": "records/9.json",
+      "records": 3
+    },
+    "_": {
+      "url": "records/_.json",
+      "records": 21
+    },
+    "a": {
+      "url": "records/a.json",
+      "records": 14371
+    },
+    "å": {
+      "url": "records/%C3%A5.json",
+      "records": 12
+    },
+    "æ": {
+      "url": "records/%C3%A6.json",
+      "records": 21
+    },
+    "b": {
+      "url": "records/b.json",
+      "records": 616
+    },
+    "c": {
+      "url": "records/c.json",
+      "records": 288
+    },
+    "d": {
+      "url": "records/d.json",
+      "records": 344
+    },
+    "e": {
+      "url": "records/e.json",
+      "records": 1986
+    },
+    "ə": {
+      "url": "records/%C9%99.json",
+      "records": 1
+    },
+    "f": {
+      "url": "records/f.json",
+      "records": 267
+    },
+    "g": {
+      "url": "records/g.json",
+      "records": 577
+    },
+    "h": {
+      "url": "records/h.json",
+      "records": 131
+    },
+    "i": {
+      "url": "records/i.json",
+      "records": 10635
+    },
+    "j": {
+      "url": "records/j.json",
+      "records": 284
+    },
+    "k": {
+      "url": "records/k.json",
+      "records": 6899
+    },
+    "l": {
+      "url": "records/l.json",
+      "records": 562
+    },
+    "m": {
+      "url": "records/m.json",
+      "records": 4160
+    },
+    "n": {
+      "url": "records/n.json",
+      "records": 11281
+    },
+    "o": {
+      "url": "records/o.json",
+      "records": 2043
+    },
+    "ø": {
+      "url": "records/%C3%B8.json",
+      "records": 26
+    },
+    "p": {
+      "url": "records/p.json",
+      "records": 7769
+    },
+    "q": {
+      "url": "records/q.json",
+      "records": 7042
+    },
+    "r": {
+      "url": "records/r.json",
+      "records": 393
+    },
+    "s": {
+      "url": "records/s.json",
+      "records": 8747
+    },
+    "t": {
+      "url": "records/t.json",
+      "records": 7754
+    },
+    "u": {
+      "url": "records/u.json",
+      "records": 4747
+    },
+    "v": {
+      "url": "records/v.json",
+      "records": 262
+    },
+    "w": {
+      "url": "records/w.json",
+      "records": 34
+    },
+    "x": {
+      "url": "records/x.json",
+      "records": 4
+    },
+    "y": {
+      "url": "records/y.json",
+      "records": 12
+    },
+    "z": {
+      "url": "records/z.json",
+      "records": 14
+    }
+  }
+}

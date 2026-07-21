@@ -1,0 +1,243 @@
+{
+  "records": [
+    {
+      "id": "lex_245086",
+      "headword": "y-p nalinga",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "y-værdi"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255158",
+      "headword": "yachti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "yacht"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255156",
+      "headword": "yakokse",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "yakokse"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255152",
+      "headword": "yalelåsi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "yalelås"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255113",
+      "headword": "ymeri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ymer"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_247543",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "immummik seernarsiaq",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_174813",
+      "headword": "yogartitsisoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "yogainstruktør"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_181604",
+      "headword": "yoghurti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "yoghurt"
+      ],
+      "semantic_classes": [
+        "food-h"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_255063",
+      "headword": "yoghurti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "yoghurt el. jogurt"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255061",
+      "headword": "yogi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "yogi"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243082",
+      "headword": "youghurti imerpalasoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "drikkeyougurt"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243084",
+      "headword": "youghurti imerpalasoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "drikkejogurt"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_181616",
+      "headword": "yoyo",
+      "word_class": "t",
+      "gloss_en": [
+        "yo-yo"
+      ],
+      "gloss_da": [
+        "yo-yo",
+        "yoyo"
+      ],
+      "semantic_classes": [
+        "cc-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_8615",
+          "score": 7.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "juujooq",
+          "shard": "j"
+        },
+        {
+          "id": "lex_255059",
+          "score": 5.830074998557688,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "juujooq",
+          "shard": "j"
+        }
+      ]
+    }
+  ]
+}

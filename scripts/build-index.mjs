@@ -1,5 +1,6 @@
 import { mkdir, writeFile } from "node:fs/promises";
 import { compileRelatedness } from "./relatedness.mjs";
+import { addRelationShards, groupRecords, shardManifest } from "./shards.mjs";
 
 const LEXICON_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/lexicon.json";
 const SEMANTIC_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/semantic_classes.json";
@@ -56,9 +57,20 @@ for (const index of [bySemanticClass, byDomain, byGlossToken]) {
   for (const ids of Object.values(index)) ids.sort();
 }
 records.sort((a, b) => a.headword.localeCompare(b.headword) || a.id.localeCompare(b.id));
-const compiledRecords = compileRelatedness(records, { bySemanticClass, byDomain, byGlossToken });
+const compiledRecords = addRelationShards(compileRelatedness(records, { bySemanticClass, byDomain, byGlossToken }));
+const recordShards = groupRecords(compiledRecords);
 
 await mkdir("dist", { recursive: true });
+await mkdir("dist/records", { recursive: true });
+for (const [key, shardRecords] of recordShards) {
+  await writeFile(`dist/records/${encodeURIComponent(key)}.json`, JSON.stringify({ records: shardRecords }, null, 2));
+}
+await writeFile("dist/manifest.json", JSON.stringify({
+  schema: "oq-related-index-shards/0.1",
+  generated_at: new Date().toISOString(),
+  record_count: compiledRecords.length,
+  shards: shardManifest(recordShards),
+}, null, 2));
 await writeFile("dist/index.html", `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>OQ! related-word index</title></head><body>
@@ -67,6 +79,7 @@ await writeFile("dist/index.html", `<!doctype html>
 <ul>
 <li><a href="https://github.com/jandahl/oq-related-index">Source repository</a></li>
 <li><a href="related-index.json">Generated JSON index</a></li>
+<li><a href="manifest.json">Sharded index manifest</a></li>
 </ul>
 <p>Derived from public Oqaasileriffik / Greenlandic Language Secretariat data;
 see the <a href="https://github.com/jandahl/oq-related-index/blob/master/NOTICE.md">data notice</a>.</p>

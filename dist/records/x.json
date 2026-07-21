@@ -1,0 +1,79 @@
+{
+  "records": [
+    {
+      "id": "lex_31829",
+      "headword": "X-400",
+      "word_class": "num",
+      "gloss_en": [],
+      "gloss_da": [
+        "X-400"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_184543",
+      "headword": "x-iliineq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "afkrydsning"
+      ],
+      "semantic_classes": [
+        "act"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_11677",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "krydsiliineq",
+          "shard": "k"
+        }
+      ]
+    },
+    {
+      "id": "lex_245084",
+      "headword": "x-ip nalinga",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "x- værdi"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255160",
+      "headword": "xylofoni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "xylofon"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    }
+  ]
+}

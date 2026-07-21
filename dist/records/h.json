@@ -1,0 +1,4806 @@
+{
+  "records": [
+    {
+      "id": "lex_7339",
+      "headword": "ha'",
+      "word_class": "intj",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_7361",
+      "headword": "haa",
+      "word_class": "intj",
+      "gloss_en": [],
+      "gloss_da": [
+        "ah",
+        "se"
+      ],
+      "semantic_classes": [
+        "f-phys-h"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_181210",
+      "headword": "hækkeløbi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hæk",
+        "hækkeløb"
+      ],
+      "semantic_classes": [
+        "occ"
+      ],
+      "domain": {
+        "id": "dom_64",
+        "code": "6.2.2",
+        "english": "FRITID Football",
+        "danish": "FRITID Fodbold",
+        "kalaallisut": "FRITID Arsaanneq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_181208",
+      "headword": "hækki",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hæk"
+      ],
+      "semantic_classes": [
+        "Lbar"
+      ],
+      "domain": {
+        "id": "dom_64",
+        "code": "6.2.2",
+        "english": "FRITID Football",
+        "danish": "FRITID Fodbold",
+        "kalaallisut": "FRITID Arsaanneq"
+      },
+      "related": [
+        {
+          "id": "lex_153940",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "quassunngorlugu ungaluliaq",
+          "shard": "q"
+        },
+        {
+          "id": "lex_162524",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "sumiiffik assigaq",
+          "shard": "s"
+        },
+        {
+          "id": "lex_180324",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "sallilikkanit ungaluliaq",
+          "shard": "s"
+        },
+        {
+          "id": "lex_180327",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "issumit qarmaliaq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_266087",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "illersuutitut akunniliussaq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_3726",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "ippiliugaq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_3727",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "ungaluliaq",
+          "shard": "u"
+        },
+        {
+          "id": "lex_6225",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "ungaloq",
+          "shard": "u"
+        }
+      ]
+    },
+    {
+      "id": "lex_192111",
+      "headword": "hæmoridip sinnikua",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "marisk"
+      ],
+      "semantic_classes": [
+        "sick-c"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_192110",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "marisk",
+          "shard": "m"
+        }
+      ]
+    },
+    {
+      "id": "lex_189243",
+      "headword": "hæmorrhoide",
+      "word_class": "t",
+      "gloss_en": [
+        "haemorrhoids"
+      ],
+      "gloss_da": [
+        "hæmoride",
+        "hæmorroide"
+      ],
+      "semantic_classes": [
+        "sick-c"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_161853",
+          "score": 10,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "itermi taqaq suanngarsimasoq",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_241",
+      "headword": "hai",
+      "word_class": "intj",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_180777",
+      "headword": "haitimiu",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "haitiansk"
+      ],
+      "semantic_classes": [
+        "f",
+        "Hnat"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_167155",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Palæstinamiu",
+          "shard": "p"
+        },
+        {
+          "id": "lex_170101",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiu",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170159",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170371",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiu",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170466",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Kurdistanimiu",
+          "shard": "k"
+        },
+        {
+          "id": "lex_170494",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170502",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Albaniamiu",
+          "shard": "a"
+        },
+        {
+          "id": "lex_170524",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubamiu",
+          "shard": "c"
+        }
+      ]
+    },
+    {
+      "id": "lex_207022",
+      "headword": "hajja",
+      "word_class": "intj",
+      "gloss_en": [
+        "oh no",
+        "boo"
+      ],
+      "gloss_da": [
+        "øv",
+        "puh"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_254374",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "puha, ajoq",
+          "shard": "p"
+        }
+      ]
+    },
+    {
+      "id": "lex_241278",
+      "headword": "halfbacki qiterleq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "centerhalf[back]"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_238584",
+      "headword": "halli pullattagaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "boblehal"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_191677",
+      "headword": "hallo",
+      "word_class": "intj",
+      "gloss_en": [
+        "hello"
+      ],
+      "gloss_da": [
+        "hallo"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_3104",
+          "score": 5.830074998557688,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "aluu",
+          "shard": "a"
+        },
+        {
+          "id": "lex_36041",
+          "score": 5.830074998557688,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hej",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_217835",
+      "headword": "halogen",
+      "word_class": "t",
+      "gloss_en": [
+        "halogen"
+      ],
+      "gloss_da": [
+        "halogen"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_81",
+        "code": "8.5.0",
+        "english": "NATUR Chemistry",
+        "danish": "NATUR Kemi",
+        "kalaallisut": "NATUR Kemii"
+      },
+      "related": [
+        {
+          "id": "lex_161507",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "halogeni",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_161507",
+      "headword": "halogeni",
+      "word_class": "t",
+      "gloss_en": [
+        "halogen"
+      ],
+      "gloss_da": [
+        "halogen"
+      ],
+      "semantic_classes": [
+        "cm-chem"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_217835",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "halogen",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_162127",
+      "headword": "halogenit",
+      "word_class": "t",
+      "gloss_en": [
+        "halogens"
+      ],
+      "gloss_da": [
+        "halogener"
+      ],
+      "semantic_classes": [
+        "cm-chem"
+      ],
+      "domain": {
+        "id": "dom_125",
+        "code": "11.0.0",
+        "english": "MILJØ ECOLOGY and ENVIRONMENT",
+        "danish": "MILJØ ØKOLOGI OG MILJØ",
+        "kalaallisut": "MILJØ ØKOLOGII AVATANGIISILLU"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_205670",
+      "headword": "haloorpoq",
+      "word_class": "v",
+      "gloss_en": [
+        "say hi"
+      ],
+      "gloss_da": [
+        "sige hej"
+      ],
+      "semantic_classes": [
+        "V.40.3.3",
+        "V.33.4"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_12001",
+          "score": 7.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "kumoorpoq",
+          "shard": "k"
+        },
+        {
+          "id": "lex_175504",
+          "score": 7.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "inuulluaqquaa",
+          "shard": "i"
+        },
+        {
+          "id": "lex_191764",
+          "score": 7.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "baajeerpoq",
+          "shard": "b"
+        },
+        {
+          "id": "lex_33743",
+          "score": 7.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "inuulluaqqusivoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_121482",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aquiimivoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_29689",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "sikiffigaa",
+          "shard": "s"
+        },
+        {
+          "id": "lex_29698",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "sikippoq",
+          "shard": "s"
+        },
+        {
+          "id": "lex_29701",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "sikisaarpoq",
+          "shard": "s"
+        }
+      ]
+    },
+    {
+      "id": "lex_169352",
+      "headword": "hamas",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hamas"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_36045",
+      "headword": "håndboldi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "håndbold"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_7340",
+      "headword": "Handeli",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "Handelen",
+        "KGH",
+        "Den Kongelige Grønlandske Handel"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_188257",
+          "score": 5.5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Den Kongelige Grønlandske Handel, KGH",
+          "shard": "d"
+        }
+      ]
+    },
+    {
+      "id": "lex_176619",
+      "headword": "handelsstandsforeningi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "handelsstandsforening"
+      ],
+      "semantic_classes": [
+        "HH"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_146853",
+      "headword": "håndværkeri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "håndværker"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_5117",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "assassortoq",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_163213",
+      "headword": "handymandi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "handymand"
+      ],
+      "semantic_classes": [
+        "Htit"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_240149",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "handymandi",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_240149",
+      "headword": "handymandi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "handymand"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_22",
+        "code": "3.11.0",
+        "english": "ØK Labour market",
+        "danish": "ØK Arbejdsmarked",
+        "kalaallisut": "ØK Suliffeqarneq"
+      },
+      "related": [
+        {
+          "id": "lex_163213",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "handymandi",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_36044",
+      "headword": "hangari",
+      "word_class": "t",
+      "gloss_en": [
+        "hangar"
+      ],
+      "gloss_da": [
+        "hangar"
+      ],
+      "semantic_classes": [
+        "build"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_185441",
+      "headword": "Hansikulak",
+      "word_class": "prop",
+      "gloss_en": [],
+      "gloss_da": [
+        "den klodsede Hans",
+        "den grimme Hans"
+      ],
+      "semantic_classes": [
+        "talk"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_251733",
+      "headword": "har febergysninger",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_4768",
+      "headword": "harraa",
+      "word_class": "intj",
+      "gloss_en": [],
+      "gloss_da": [
+        "hovsa"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_36043",
+      "headword": "hash",
+      "word_class": "t",
+      "gloss_en": [
+        "hash"
+      ],
+      "gloss_da": [
+        "hash"
+      ],
+      "semantic_classes": [
+        "cm-rem"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_188562",
+      "headword": "hashi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hash"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "domain"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187470",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "pissuseq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_187472",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tamanut najugassianik inissiaatileqatigiiffiit",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187473",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "atuakkat naalagiartitsinermi najoqqutassiat",
+          "shard": "a"
+        },
+        {
+          "id": "lex_187476",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "toqqorsivimmiititat",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187477",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "issittumi pinngortitaq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_187480",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tusarnaagassianik takusassianillu allattuiffik",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187481",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "saanernik sanalukkat",
+          "shard": "s"
+        },
+        {
+          "id": "lex_187484",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "biibilimut nassuiaatit",
+          "shard": "b"
+        }
+      ]
+    },
+    {
+      "id": "lex_181927",
+      "headword": "hashi pillugu suliaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hashsag"
+      ],
+      "semantic_classes": [
+        "ac"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_172903",
+      "headword": "hashimik atornerluineq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hashmisbrug"
+      ],
+      "semantic_classes": [
+        "activity"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_179606",
+      "headword": "hashitorpoq",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [
+        "ryge hash"
+      ],
+      "semantic_classes": [
+        "V.43.4"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_142144",
+          "score": 6.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "iserpoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_24271",
+          "score": 6.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "pujorpoq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_12121",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "kuserfigaa",
+          "shard": "k"
+        },
+        {
+          "id": "lex_124910",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aallerpoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_143152",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aalarpoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_151726",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "pujortaapput",
+          "shard": "p"
+        },
+        {
+          "id": "lex_15712",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "nakkaalavoq",
+          "shard": "n"
+        },
+        {
+          "id": "lex_183968",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aalanngorluni tissorpoq",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_131203",
+      "headword": "havlamret",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "havlampret"
+      ],
+      "semantic_classes": [
+        "Aich"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_207014",
+      "headword": "havtaske",
+      "word_class": "t",
+      "gloss_en": [
+        "monkfish"
+      ],
+      "gloss_da": [
+        "havtaske",
+        "bredflab"
+      ],
+      "semantic_classes": [
+        "Aich"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_36041",
+      "headword": "hej",
+      "word_class": "intj",
+      "gloss_en": [
+        "hi",
+        "hello"
+      ],
+      "gloss_da": [
+        "hej",
+        "hallo",
+        "goddag"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_3104",
+          "score": 8.330074998557688,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "aluu",
+          "shard": "a"
+        },
+        {
+          "id": "lex_191677",
+          "score": 5.830074998557688,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hallo",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_153833",
+      "headword": "heksehyl",
+      "word_class": "t",
+      "gloss_en": [
+        "whistler"
+      ],
+      "gloss_da": [
+        "heksehyl"
+      ],
+      "semantic_classes": [
+        "cc-fire"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_36033",
+      "headword": "hektoliteri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_36042",
+      "headword": "helikopter",
+      "word_class": "t",
+      "gloss_en": [
+        "helicopter"
+      ],
+      "gloss_da": [
+        "helikopter"
+      ],
+      "semantic_classes": [
+        "Vair"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_7341",
+          "score": 9.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qulimiguulik",
+          "shard": "q"
+        },
+        {
+          "id": "lex_142263",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "avataarsualiartaat",
+          "shard": "a"
+        },
+        {
+          "id": "lex_167587",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "airbus",
+          "shard": "a"
+        },
+        {
+          "id": "lex_167588",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "airbussi",
+          "shard": "a"
+        },
+        {
+          "id": "lex_170766",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "raketi eqquilluarniut",
+          "shard": "r"
+        },
+        {
+          "id": "lex_175615",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "qulimiguulik annaassiniut",
+          "shard": "q"
+        },
+        {
+          "id": "lex_176499",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "timmisartorsuaq",
+          "shard": "t"
+        },
+        {
+          "id": "lex_186972",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "drone",
+          "shard": "d"
+        }
+      ]
+    },
+    {
+      "id": "lex_7342",
+      "headword": "heliport",
+      "word_class": "t",
+      "gloss_en": [
+        "airport"
+      ],
+      "gloss_da": [
+        "heliport",
+        "landingsplads"
+      ],
+      "semantic_classes": [
+        "Lh"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_15016",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "mittarfik",
+          "shard": "m"
+        },
+        {
+          "id": "lex_35881",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "umiivik",
+          "shard": "u"
+        },
+        {
+          "id": "lex_36040",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "heliporti",
+          "shard": "h"
+        },
+        {
+          "id": "lex_15017",
+          "score": 5.5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nunnittarfik",
+          "shard": "n"
+        }
+      ]
+    },
+    {
+      "id": "lex_36040",
+      "headword": "heliporti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "heliport"
+      ],
+      "semantic_classes": [
+        "Lh"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_15016",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "mittarfik",
+          "shard": "m"
+        },
+        {
+          "id": "lex_7342",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "heliport",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_150373",
+      "headword": "heliumi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "helium",
+        "He"
+      ],
+      "semantic_classes": [
+        "cm-gas"
+      ],
+      "domain": {
+        "id": "dom_81",
+        "code": "8.5.0",
+        "english": "NATUR Chemistry",
+        "danish": "NATUR Kemi",
+        "kalaallisut": "NATUR Kemii"
+      },
+      "related": [
+        {
+          "id": "lex_147684",
+          "score": 6.330074998557688,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "kvælstoffi",
+          "shard": "k"
+        },
+        {
+          "id": "lex_150371",
+          "score": 6.330074998557688,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "brinti",
+          "shard": "b"
+        },
+        {
+          "id": "lex_150456",
+          "score": 6.330074998557688,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "fluori",
+          "shard": "f"
+        },
+        {
+          "id": "lex_150492",
+          "score": 6.330074998557688,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "neoni",
+          "shard": "n"
+        },
+        {
+          "id": "lex_152868",
+          "score": 6.330074998557688,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "ammoniakki",
+          "shard": "a"
+        },
+        {
+          "id": "lex_33698",
+          "score": 6.330074998557688,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "ilti",
+          "shard": "i"
+        },
+        {
+          "id": "lex_6266",
+          "score": 6.330074998557688,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "brint",
+          "shard": "b"
+        }
+      ]
+    },
+    {
+      "id": "lex_189863",
+      "headword": "heronip najoqqutassiaa",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "herons formel"
+      ],
+      "semantic_classes": [
+        "geom-line"
+      ],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_243494",
+          "score": 7,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "heronip najoqqutassiaa",
+          "shard": "h"
+        },
+        {
+          "id": "lex_189775",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "najoqqutassiaq",
+          "shard": "n"
+        }
+      ]
+    },
+    {
+      "id": "lex_243494",
+      "headword": "heronip najoqqutassiaa",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "herons formel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_189863",
+          "score": 7,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "heronip najoqqutassiaa",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_36039",
+      "headword": "hertugi",
+      "word_class": "t",
+      "gloss_en": [
+        "duke"
+      ],
+      "gloss_da": [
+        "hertug"
+      ],
+      "semantic_classes": [
+        "Htit"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_7343",
+      "headword": "hesterpoq",
+      "word_class": "v",
+      "gloss_en": [
+        "ride"
+      ],
+      "gloss_da": [
+        "ride"
+      ],
+      "semantic_classes": [
+        "V.51.4.2"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_147007",
+          "score": 6.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qimusserpoq",
+          "shard": "q"
+        },
+        {
+          "id": "lex_7344",
+          "score": 6.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hiisterpoq",
+          "shard": "h"
+        },
+        {
+          "id": "lex_12978",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "maligaarsiorpoq",
+          "shard": "m"
+        },
+        {
+          "id": "lex_143005",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "imarsioqqippoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_166650",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aquppaa",
+          "shard": "a"
+        },
+        {
+          "id": "lex_177149",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "kiiarput",
+          "shard": "k"
+        },
+        {
+          "id": "lex_177537",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "paartorpoq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_180471",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "uninngatitsivoq",
+          "shard": "u"
+        }
+      ]
+    },
+    {
+      "id": "lex_7345",
+      "headword": "hestersoq",
+      "word_class": "t",
+      "gloss_en": [
+        "rider"
+      ],
+      "gloss_da": [
+        "rytter"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_7346",
+          "score": 7.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hiistersoq",
+          "shard": "h"
+        },
+        {
+          "id": "lex_26701",
+          "score": 5.830074998557688,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qimutsilik",
+          "shard": "q"
+        }
+      ]
+    },
+    {
+      "id": "lex_132692",
+      "headword": "hesti",
+      "word_class": "t",
+      "gloss_en": [
+        "knight"
+      ],
+      "gloss_da": [
+        "hest",
+        "springer"
+      ],
+      "semantic_classes": [
+        "cc-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_28549",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "sakkutooqqinneq",
+          "shard": "s"
+        }
+      ]
+    },
+    {
+      "id": "lex_132696",
+      "headword": "hesti",
+      "word_class": "t",
+      "gloss_en": [
+        "horse"
+      ],
+      "gloss_da": [
+        "hest"
+      ],
+      "semantic_classes": [
+        "Adom"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_130869",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "labrador",
+          "shard": "l"
+        },
+        {
+          "id": "lex_147852",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "afghaneri",
+          "shard": "a"
+        },
+        {
+          "id": "lex_151172",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "milattooq",
+          "shard": "m"
+        },
+        {
+          "id": "lex_164016",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "uumasoq illumiutaq",
+          "shard": "u"
+        },
+        {
+          "id": "lex_167351",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "anguteralak issuigaq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_17921",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "nersuteeraq",
+          "shard": "n"
+        },
+        {
+          "id": "lex_184620",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aallaaniartup qimmia",
+          "shard": "a"
+        },
+        {
+          "id": "lex_187196",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "politiit qimmiat",
+          "shard": "p"
+        }
+      ]
+    },
+    {
+      "id": "lex_207829",
+      "headword": "hesti nassulik",
+      "word_class": "t",
+      "gloss_en": [
+        "unicorn"
+      ],
+      "gloss_da": [
+        "enhjørning"
+      ],
+      "semantic_classes": [
+        "Amyth"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_207830",
+          "score": 9.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qimuttuarsuk nassulik",
+          "shard": "q"
+        },
+        {
+          "id": "lex_120467",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "kuukkooriaasarsuaq",
+          "shard": "k"
+        },
+        {
+          "id": "lex_125279",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tupilak",
+          "shard": "t"
+        },
+        {
+          "id": "lex_147003",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aaffaffaarsuk",
+          "shard": "a"
+        },
+        {
+          "id": "lex_151430",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "kiliffak",
+          "shard": "k"
+        },
+        {
+          "id": "lex_31501",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "saagiarsuaq",
+          "shard": "s"
+        },
+        {
+          "id": "lex_31834",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aaffaffak",
+          "shard": "a"
+        },
+        {
+          "id": "lex_35574",
+          "score": 6.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "uumasorujuk",
+          "shard": "u"
+        }
+      ]
+    },
+    {
+      "id": "lex_187434",
+      "headword": "hf-imut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for hf"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187306",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "meeqqat atuarfianni atuartunut",
+          "shard": "m"
+        },
+        {
+          "id": "lex_187308",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "apersortittussanik atuartitsinermut",
+          "shard": "a"
+        },
+        {
+          "id": "lex_187310",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "filosofiimik ilinniartitsinermut",
+          "shard": "f"
+        },
+        {
+          "id": "lex_187312",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "inuiaqatigiinnut tunngasunik ilinniartitsinermut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_187314",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "atuffassinermut",
+          "shard": "a"
+        },
+        {
+          "id": "lex_187316",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "niuernermik ilinniarnertuunngorniarnermut",
+          "shard": "n"
+        },
+        {
+          "id": "lex_187318",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "kalaallisut ilinniartitsinermut",
+          "shard": "k"
+        },
+        {
+          "id": "lex_187320",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "biologiimik ilinniartitsinermut",
+          "shard": "b"
+        }
+      ]
+    },
+    {
+      "id": "lex_7349",
+      "headword": "hii",
+      "word_class": "intj",
+      "gloss_en": [],
+      "gloss_da": [
+        "Ihh"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_259661",
+      "headword": "hiisterluni sukkaniuttartoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "jockey"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_7344",
+      "headword": "hiisterpoq",
+      "word_class": "v",
+      "gloss_en": [
+        "ride"
+      ],
+      "gloss_da": [
+        "ride"
+      ],
+      "semantic_classes": [
+        "V.51.4.2"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_147007",
+          "score": 6.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qimusserpoq",
+          "shard": "q"
+        },
+        {
+          "id": "lex_7343",
+          "score": 6.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hesterpoq",
+          "shard": "h"
+        },
+        {
+          "id": "lex_12978",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "maligaarsiorpoq",
+          "shard": "m"
+        },
+        {
+          "id": "lex_143005",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "imarsioqqippoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_166650",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aquppaa",
+          "shard": "a"
+        },
+        {
+          "id": "lex_177149",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "kiiarput",
+          "shard": "k"
+        },
+        {
+          "id": "lex_177537",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "paartorpoq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_180471",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "uninngatitsivoq",
+          "shard": "u"
+        }
+      ]
+    },
+    {
+      "id": "lex_7346",
+      "headword": "hiistersoq",
+      "word_class": "t",
+      "gloss_en": [
+        "rider"
+      ],
+      "gloss_da": [
+        "rytter"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_7345",
+          "score": 7.830074998557688,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hestersoq",
+          "shard": "h"
+        },
+        {
+          "id": "lex_26701",
+          "score": 5.830074998557688,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qimutsilik",
+          "shard": "q"
+        }
+      ]
+    },
+    {
+      "id": "lex_152667",
+      "headword": "hiistersup isigammiffia",
+      "word_class": "t",
+      "gloss_en": [
+        "stirrup"
+      ],
+      "gloss_da": [
+        "stigbøjle"
+      ],
+      "semantic_classes": [
+        "cloA"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_10735",
+          "score": 7.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "kimmiaq",
+          "shard": "k"
+        },
+        {
+          "id": "lex_13268",
+          "score": 7.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "mamoqqaaq",
+          "shard": "m"
+        },
+        {
+          "id": "lex_151513",
+          "score": 7.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aloqut",
+          "shard": "a"
+        },
+        {
+          "id": "lex_161249",
+          "score": 7.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "qimmip qungasequtaa",
+          "shard": "q"
+        },
+        {
+          "id": "lex_41514",
+          "score": 7.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "issarut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_4170",
+          "score": 7.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "anu",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_4682",
+      "headword": "hiisti",
+      "word_class": "t",
+      "gloss_en": [
+        "horse"
+      ],
+      "gloss_da": [
+        "hest"
+      ],
+      "semantic_classes": [
+        "A"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_132689",
+          "score": 6.356143810225276,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qimuttuarsuk",
+          "shard": "q"
+        }
+      ]
+    },
+    {
+      "id": "lex_255544",
+      "headword": "hiisti oqilaniuttartoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "væddeløbshest"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_147745",
+      "headword": "hiisti piaraq",
+      "word_class": "t",
+      "gloss_en": [
+        "foal"
+      ],
+      "gloss_da": [
+        "føl",
+        "plag"
+      ],
+      "semantic_classes": [
+        "Azo"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_387",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ilinniartoq",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_254720",
+      "headword": "hiisti utoqqalisoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "øg"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_7350",
+      "headword": "hiistilik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_181311",
+      "headword": "hiistimik qimuttulerluni qimusserneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hestevognstur"
+      ],
+      "semantic_classes": [
+        "act"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_181309",
+      "headword": "hiistimik qimuttulerluni qimusserpoq",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [
+        "køre i kane"
+      ],
+      "semantic_classes": [
+        "V.51.4.1"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_26695",
+          "score": 7.356143810225275,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qimusserpoq",
+          "shard": "q"
+        },
+        {
+          "id": "lex_34963",
+          "score": 6.678071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "taxarpoq",
+          "shard": "t"
+        },
+        {
+          "id": "lex_149449",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "cykelerpoq",
+          "shard": "c"
+        },
+        {
+          "id": "lex_150917",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "paarpoq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_181232",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ingerlavoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_185218",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qamuteralassorpoq",
+          "shard": "q"
+        },
+        {
+          "id": "lex_25008",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qajartorpoq",
+          "shard": "q"
+        },
+        {
+          "id": "lex_26693",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qimusserarpoq",
+          "shard": "q"
+        }
+      ]
+    },
+    {
+      "id": "lex_132690",
+      "headword": "hiistiusaq",
+      "word_class": "t",
+      "gloss_en": [
+        "vaulting horse"
+      ],
+      "gloss_da": [
+        "hest"
+      ],
+      "semantic_classes": [
+        "cc-h"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_7351",
+      "headword": "hindbær",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_189865",
+      "headword": "histogrammi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "histogram"
+      ],
+      "semantic_classes": [
+        "geom-line"
+      ],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_243496",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "histogrammi",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_243496",
+      "headword": "histogrammi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "histogram"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_189865",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "histogrammi",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_36034",
+      "headword": "historia",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_188586",
+      "headword": "HIV",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "HIV (Human Immundefekt virus)"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "domain"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187470",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "pissuseq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_187472",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tamanut najugassianik inissiaatileqatigiiffiit",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187473",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "atuakkat naalagiartitsinermi najoqqutassiat",
+          "shard": "a"
+        },
+        {
+          "id": "lex_187476",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "toqqorsivimmiititat",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187477",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "issittumi pinngortitaq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_187480",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tusarnaagassianik takusassianillu allattuiffik",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187481",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "saanernik sanalukkat",
+          "shard": "s"
+        },
+        {
+          "id": "lex_187484",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "biibilimut nassuiaatit",
+          "shard": "b"
+        }
+      ]
+    },
+    {
+      "id": "lex_230318",
+      "headword": "HIV-imik tunillatsissimasoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "HIV-positiv"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_247197",
+      "headword": "HIV-mik tunillatsissimasoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "HIV-positiv"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_230320",
+      "headword": "HIV-p tunillaannartua",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "HIV-virus"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_107",
+        "code": "9.5.0",
+        "english": "MED Pathology",
+        "danish": "MED Patologi",
+        "kalaallisut": "MED Nappaatinik ilisimatusarneq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_247199",
+      "headword": "HIV-p tunillaannartua",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "HIV-virus"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_188596",
+      "headword": "hjemmestyrekommissioni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hjemmestyrekommission"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "domain"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187470",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "pissuseq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_187472",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tamanut najugassianik inissiaatileqatigiiffiit",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187473",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "atuakkat naalagiartitsinermi najoqqutassiat",
+          "shard": "a"
+        },
+        {
+          "id": "lex_187476",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "toqqorsivimmiititat",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187477",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "issittumi pinngortitaq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_187480",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tusarnaagassianik takusassianillu allattuiffik",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187481",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "saanernik sanalukkat",
+          "shard": "s"
+        },
+        {
+          "id": "lex_187484",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "biibilimut nassuiaatit",
+          "shard": "b"
+        }
+      ]
+    },
+    {
+      "id": "lex_36035",
+      "headword": "hjemmestyrekommissioni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hjemmestyrekommissionen"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_185761",
+      "headword": "hjerpe",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [
+        "Aorn"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_36036",
+      "headword": "hjerteri",
+      "word_class": "t",
+      "gloss_en": [
+        "hearts"
+      ],
+      "gloss_da": [
+        "hjerter"
+      ],
+      "semantic_classes": [
+        "ac-cat"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_179952",
+      "headword": "hockeymik unammisartoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hockeyspiller"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_166559",
+      "headword": "højeste dommeri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "højeste dommer"
+      ],
+      "semantic_classes": [
+        "inst"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_166395",
+      "headword": "højestereti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "højesteret"
+      ],
+      "semantic_classes": [
+        "inst"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_168612",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "eqqartuussiviit qullersaat",
+          "shard": "e"
+        }
+      ]
+    },
+    {
+      "id": "lex_169393",
+      "headword": "højesteretimi eqqartuussisoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "højesteretsdommer"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_166394",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "højesteretsdommeri",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_166394",
+      "headword": "højesteretsdommeri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "højesteretsdommer"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_169393",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "højesteretimi eqqartuussisoq",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_188630",
+      "headword": "højskolit",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "højskoler"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "domain"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187470",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "pissuseq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_187472",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tamanut najugassianik inissiaatileqatigiiffiit",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187473",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "atuakkat naalagiartitsinermi najoqqutassiat",
+          "shard": "a"
+        },
+        {
+          "id": "lex_187476",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "toqqorsivimmiititat",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187477",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "issittumi pinngortitaq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_187480",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tusarnaagassianik takusassianillu allattuiffik",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187481",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "saanernik sanalukkat",
+          "shard": "s"
+        },
+        {
+          "id": "lex_187484",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "biibilimut nassuiaatit",
+          "shard": "b"
+        }
+      ]
+    },
+    {
+      "id": "lex_36032",
+      "headword": "højtaleri",
+      "word_class": "t",
+      "gloss_en": [
+        "loud speaker"
+      ],
+      "gloss_da": [
+        "højtaler"
+      ],
+      "semantic_classes": [
+        "cc-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_18734",
+          "score": 7.593109404391482,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nipittorsaat",
+          "shard": "n"
+        },
+        {
+          "id": "lex_18735",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nipittortaat",
+          "shard": "n"
+        }
+      ]
+    },
+    {
+      "id": "lex_174254",
+      "headword": "holdip aqutsisua",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "holdleder"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_172546",
+      "headword": "Hollandimeersoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hollandsk"
+      ],
+      "semantic_classes": [
+        "f",
+        "am"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_170100",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimeersoq",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170162",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiameersoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170373",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romameersoq",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170496",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimeersoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170526",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubameersoq",
+          "shard": "c"
+        },
+        {
+          "id": "lex_170633",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Schweizimeersoq",
+          "shard": "s"
+        },
+        {
+          "id": "lex_170647",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Algeriameersoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_170662",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Kroatiameersoq",
+          "shard": "k"
+        }
+      ]
+    },
+    {
+      "id": "lex_172544",
+      "headword": "Hollandimioq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hollandsk"
+      ],
+      "semantic_classes": [
+        "f",
+        "Hnat"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_172543",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Hollandimiu",
+          "shard": "h"
+        },
+        {
+          "id": "lex_167155",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Palæstinamiu",
+          "shard": "p"
+        },
+        {
+          "id": "lex_170101",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiu",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170159",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170371",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiu",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170466",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Kurdistanimiu",
+          "shard": "k"
+        },
+        {
+          "id": "lex_170494",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170502",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Albaniamiu",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_172543",
+      "headword": "Hollandimiu",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hollandsk"
+      ],
+      "semantic_classes": [
+        "f",
+        "Hnat"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_172544",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Hollandimioq",
+          "shard": "h"
+        },
+        {
+          "id": "lex_167155",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Palæstinamiu",
+          "shard": "p"
+        },
+        {
+          "id": "lex_170101",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiu",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170159",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170371",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiu",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170466",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Kurdistanimiu",
+          "shard": "k"
+        },
+        {
+          "id": "lex_170494",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170502",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Albaniamiu",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_172545",
+      "headword": "Hollandimiusut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hollandsk"
+      ],
+      "semantic_classes": [
+        "f",
+        "ling"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_170102",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiusut",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170163",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiusut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170199",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tuluttut",
+          "shard": "t"
+        },
+        {
+          "id": "lex_170369",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiusut",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170495",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiusut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170525",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubamiusut",
+          "shard": "c"
+        },
+        {
+          "id": "lex_170632",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Schweizimiusut",
+          "shard": "s"
+        },
+        {
+          "id": "lex_170646",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Algeriamiusut",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_151226",
+      "headword": "homoluarneq",
+      "word_class": "t",
+      "gloss_en": [
+        "homophobia"
+      ],
+      "gloss_da": [
+        "homofobi"
+      ],
+      "semantic_classes": [
+        "sick"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_7352",
+      "headword": "horaa",
+      "word_class": "intj",
+      "gloss_en": [],
+      "gloss_da": [
+        "hurra"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_7355",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "huaa",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_7353",
+      "headword": "horaartorpoq",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_148514",
+      "headword": "horeunge",
+      "word_class": "t",
+      "gloss_en": [
+        "widow line"
+      ],
+      "gloss_da": [
+        "horeunge"
+      ],
+      "semantic_classes": [
+        "sem-r"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_153707",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "uersagarsuaq",
+          "shard": "u"
+        },
+        {
+          "id": "lex_33394",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "uillarneq",
+          "shard": "u"
+        }
+      ]
+    },
+    {
+      "id": "lex_182962",
+      "headword": "hormoni",
+      "word_class": "t",
+      "gloss_en": [
+        "hormone"
+      ],
+      "gloss_da": [
+        "hormon"
+      ],
+      "semantic_classes": [
+        "cm-rem"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_255466",
+      "headword": "hormoni alliartuut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "væksthormon"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_178122",
+      "headword": "hormoni allisaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [
+        "ac"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_247203",
+      "headword": "hormoni allisaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "væskthormon"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_247201",
+      "headword": "hormoni, qisuarianngitsoortitsisartoq, sananeqaat timimik qisuariartitsisartoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hormon"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257961",
+      "headword": "hormoninik nakorsartinneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hormonbehandling"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_199",
+        "code": "21.0.0",
+        "english": "LGBT+",
+        "danish": "LGBT+",
+        "kalaallisut": "LGBT+"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_175224",
+      "headword": "hormonip allanngornera",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hormonforstyrrelse"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_226858",
+      "headword": "hormonit uippakajaartitsisartut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "stresshormoner"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_35",
+        "code": "4.0.0",
+        "english": "SAMF SOCIAL SCIENCE",
+        "danish": "SAMF SAMFUNDSVIDENSKAB",
+        "kalaallisut": "SAMF INUIAQATIGIILERINEQ"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_131085",
+      "headword": "horsegøg",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "horsegøg"
+      ],
+      "semantic_classes": [
+        "Aorn"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_7354",
+      "headword": "hoteli",
+      "word_class": "t",
+      "gloss_en": [
+        "hotel"
+      ],
+      "gloss_da": [
+        "gæstgivergård",
+        "hotel",
+        "motel",
+        "hospits"
+      ],
+      "semantic_classes": [
+        "inst"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_2449",
+          "score": 8.856143810225277,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "akunnittarfik",
+          "shard": "a"
+        },
+        {
+          "id": "lex_172936",
+          "score": 6.856143810225276,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "akunnittarfik anngajaaq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_172937",
+          "score": 6.856143810225276,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "akunnittarfik qaqqartuuniikkajuttoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_2450",
+          "score": 6.856143810225276,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "inniffik",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_7360",
+      "headword": "høvding",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "landsfoged",
+        "boss",
+        "inspektør",
+        "overherre"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_20336",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qaffasinnerusoq",
+          "shard": "q"
+        },
+        {
+          "id": "lex_1759",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "naalagaq",
+          "shard": "n"
+        },
+        {
+          "id": "lex_166852",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "naalagaq",
+          "shard": "n"
+        },
+        {
+          "id": "lex_1761",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ittuusoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_1763",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "naalagaaneq",
+          "shard": "n"
+        },
+        {
+          "id": "lex_7359",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "pissartaq",
+          "shard": "p"
+        }
+      ]
+    },
+    {
+      "id": "lex_261868",
+      "headword": "HTR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_187437",
+      "headword": "htx-imut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for htx"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187306",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "meeqqat atuarfianni atuartunut",
+          "shard": "m"
+        },
+        {
+          "id": "lex_187308",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "apersortittussanik atuartitsinermut",
+          "shard": "a"
+        },
+        {
+          "id": "lex_187310",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "filosofiimik ilinniartitsinermut",
+          "shard": "f"
+        },
+        {
+          "id": "lex_187312",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "inuiaqatigiinnut tunngasunik ilinniartitsinermut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_187314",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "atuffassinermut",
+          "shard": "a"
+        },
+        {
+          "id": "lex_187316",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "niuernermik ilinniarnertuunngorniarnermut",
+          "shard": "n"
+        },
+        {
+          "id": "lex_187318",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "kalaallisut ilinniartitsinermut",
+          "shard": "k"
+        },
+        {
+          "id": "lex_187320",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "biologiimik ilinniartitsinermut",
+          "shard": "b"
+        }
+      ]
+    },
+    {
+      "id": "lex_7355",
+      "headword": "huaa",
+      "word_class": "intj",
+      "gloss_en": [],
+      "gloss_da": [
+        "hurra"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_7352",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "horaa",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_7356",
+      "headword": "huaartorpoq",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_120813",
+      "headword": "huj",
+      "word_class": "intj",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_186080",
+      "headword": "humaniora",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "humaniora"
+      ],
+      "semantic_classes": [
+        "domain"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_243502",
+      "headword": "hundrede",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hundred"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_243503",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hunnoruju",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_243505",
+      "headword": "hundrede",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hundrede"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_243506",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hunnoruju",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_189870",
+      "headword": "hundrededel",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [
+        "geom-line"
+      ],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243508",
+      "headword": "hundrederarterut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hundrededel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_243509",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hunnorujorarterut",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_189871",
+      "headword": "hundrederarterut; hunnorujorarterut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [
+        "geom-line"
+      ],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243511",
+      "headword": "hundredertat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hundreder"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_189873",
+      "headword": "hundredertat; hundredit; hunnorujut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hundreder"
+      ],
+      "semantic_classes": [
+        "geom-line"
+      ],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243512",
+      "headword": "hundredit",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hundreder"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243509",
+      "headword": "hunnorujorarterut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hundrededel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_243508",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hundrederarterut",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_243503",
+      "headword": "hunnoruju",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hundred"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_243502",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hundrede",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_243506",
+      "headword": "hunnoruju",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hundrede"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_243505",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hundrede",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_243513",
+      "headword": "hunnorujut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hundreder"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_7358",
+      "headword": "hvidkål",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_239598",
+      "headword": "hvidkåli kajortitaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "brunkål"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243516",
+      "headword": "hydrotermfiguri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hydrotermfigur"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243515",
+      "headword": "hydrotermip titartarnera",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hydrotermfigur"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_189875",
+      "headword": "hydrotermip titartarnera; hydrotermfiguri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hydrotermfigur"
+      ],
+      "semantic_classes": [
+        "geom-line"
+      ],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_189877",
+      "headword": "hyperbeli",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hyperbel"
+      ],
+      "semantic_classes": [
+        "geom-line"
+      ],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_243518",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hyperbeli",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_243518",
+      "headword": "hyperbeli",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hyperbel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_189877",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "hyperbeli",
+          "shard": "h"
+        }
+      ]
+    },
+    {
+      "id": "lex_189879",
+      "headword": "hypotenuse",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hypotenuse"
+      ],
+      "semantic_classes": [
+        "geom-line"
+      ],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_220711",
+      "headword": "hypotenuse",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hypotenuse"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_75",
+        "code": "7.1.0",
+        "english": "MAT Mathematic",
+        "danish": "MAT Matematik",
+        "kalaallisut": "MAT Matematikki"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243520",
+      "headword": "hypotenuse",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "hypotenuse"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_74",
+        "code": "7.0.0",
+        "english": "MAT MATHEMATIC",
+        "danish": "MAT MATEMATIK",
+        "kalaallisut": "MAT MATEMATIKKI"
+      },
+      "related": []
+    }
+  ]
+}

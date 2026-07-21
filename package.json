@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build-index.mjs",
-    "validate": "node scripts/validate-index.mjs",
+    "validate": "node scripts/validate-index.mjs && node scripts/validate-shards.mjs",
     "test": "node --test test/*.test.mjs"
   }
 }

@@ -1,0 +1,1110 @@
+{
+  "records": [
+    {
+      "id": "lex_173682",
+      "headword": "Walesimeersoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "walisisk"
+      ],
+      "semantic_classes": [
+        "f",
+        "am"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_170100",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimeersoq",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170162",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiameersoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170373",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romameersoq",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170496",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimeersoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170526",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubameersoq",
+          "shard": "c"
+        },
+        {
+          "id": "lex_170633",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Schweizimeersoq",
+          "shard": "s"
+        },
+        {
+          "id": "lex_170647",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Algeriameersoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_170662",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Kroatiameersoq",
+          "shard": "k"
+        }
+      ]
+    },
+    {
+      "id": "lex_173680",
+      "headword": "Walesimioq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "walisisk"
+      ],
+      "semantic_classes": [
+        "f",
+        "ling"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_173681",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Walesimiusut",
+          "shard": "w"
+        },
+        {
+          "id": "lex_170102",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiusut",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170163",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiusut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170199",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tuluttut",
+          "shard": "t"
+        },
+        {
+          "id": "lex_170369",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiusut",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170495",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiusut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170525",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubamiusut",
+          "shard": "c"
+        },
+        {
+          "id": "lex_170632",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Schweizimiusut",
+          "shard": "s"
+        }
+      ]
+    },
+    {
+      "id": "lex_173679",
+      "headword": "Walesimiu",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "walisisk"
+      ],
+      "semantic_classes": [
+        "f",
+        "Hnat"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_167155",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Palæstinamiu",
+          "shard": "p"
+        },
+        {
+          "id": "lex_170101",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiu",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170159",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170371",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiu",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170466",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Kurdistanimiu",
+          "shard": "k"
+        },
+        {
+          "id": "lex_170494",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170502",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Albaniamiu",
+          "shard": "a"
+        },
+        {
+          "id": "lex_170524",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubamiu",
+          "shard": "c"
+        }
+      ]
+    },
+    {
+      "id": "lex_173681",
+      "headword": "Walesimiusut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "walisisk"
+      ],
+      "semantic_classes": [
+        "f",
+        "ling"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_173680",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Walesimioq",
+          "shard": "w"
+        },
+        {
+          "id": "lex_170102",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiusut",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170163",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiusut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170199",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tuluttut",
+          "shard": "t"
+        },
+        {
+          "id": "lex_170369",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiusut",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170495",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiusut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170525",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubamiusut",
+          "shard": "c"
+        },
+        {
+          "id": "lex_170632",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Schweizimiusut",
+          "shard": "s"
+        }
+      ]
+    },
+    {
+      "id": "lex_255226",
+      "headword": "walkie-talkie",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "walkie-talkie"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_21143",
+          "score": 7,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "oqaluttaat",
+          "shard": "o"
+        }
+      ]
+    },
+    {
+      "id": "lex_185418",
+      "headword": "walkmanni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "walkman"
+      ],
+      "semantic_classes": [
+        "cc-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_255224",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "walkmanni",
+          "shard": "w"
+        }
+      ]
+    },
+    {
+      "id": "lex_255224",
+      "headword": "walkmanni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "walkman"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_185418",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "walkmanni",
+          "shard": "w"
+        }
+      ]
+    },
+    {
+      "id": "lex_255220",
+      "headword": "watti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "watt"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_219756",
+      "headword": "webcrawleri",
+      "word_class": "t",
+      "gloss_en": [
+        "webcrawler"
+      ],
+      "gloss_da": [
+        "webcrawler"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_153",
+        "code": "16.0.0",
+        "english": "DATATEK COMPUTER SCIENCE AND COMPUTER ENGINEERING",
+        "danish": "DATATEK DATALOGI OG DATATEKNIK",
+        "kalaallisut": "DATATEK DATALOGII, DATATEKNIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_186533",
+      "headword": "webinar",
+      "word_class": "t",
+      "gloss_en": [
+        "webinar"
+      ],
+      "gloss_da": [
+        "webinar"
+      ],
+      "semantic_classes": [
+        "occ"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_186532",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nittartakkakkut isumasioqatigiinneq",
+          "shard": "n"
+        }
+      ]
+    },
+    {
+      "id": "lex_185419",
+      "headword": "weekendi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "weekend"
+      ],
+      "semantic_classes": [
+        "per"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_255196",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "weekendi",
+          "shard": "w"
+        }
+      ]
+    },
+    {
+      "id": "lex_255196",
+      "headword": "weekendi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "weekend"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_185419",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "weekendi",
+          "shard": "w"
+        }
+      ]
+    },
+    {
+      "id": "lex_255190",
+      "headword": "weltervægteri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "weltervægter"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255192",
+      "headword": "weltervægti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "weltervægt"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_205097",
+      "headword": "western union",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "western union"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_12",
+        "code": "3.0.0",
+        "english": "ØK ECONOMY & TRADE",
+        "danish": "ØK ØKONOMI og HANDEL",
+        "kalaallisut": "ØK ANINGAASAQARNEQ NIUERNERLU"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_205099",
+      "headword": "WEU; western union",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "WEU; western union"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_12",
+        "code": "3.0.0",
+        "english": "ØK ECONOMY & TRADE",
+        "danish": "ØK ØKONOMI og HANDEL",
+        "kalaallisut": "ØK ANINGAASAQARNEQ NIUERNERLU"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_205101",
+      "headword": "WGIP; naalagaaffiit peqatigiit nunat inoqqaavi pilugit suleqatigiissitaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "world group on indigenous peoples WGIP; FN's arbejdsgruppe for oprindelige folk"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_12",
+        "code": "3.0.0",
+        "english": "ØK ECONOMY & TRADE",
+        "danish": "ØK ØKONOMI og HANDEL",
+        "kalaallisut": "ØK ANINGAASAQARNEQ NIUERNERLU"
+      },
+      "related": [
+        {
+          "id": "lex_171271",
+          "score": 5.5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Nunat Inoqqaavisa pisinnaatitaaffiinut Naalagaaffiit Peqatigiit aalajangersagaat",
+          "shard": "n"
+        },
+        {
+          "id": "lex_150785",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nunap inoqqaavi",
+          "shard": "n"
+        }
+      ]
+    },
+    {
+      "id": "lex_31828",
+      "headword": "whisky",
+      "word_class": "t",
+      "gloss_en": [
+        "whisky"
+      ],
+      "gloss_da": [
+        "whisky"
+      ],
+      "semantic_classes": [
+        "drink-h"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_255186",
+      "headword": "whist",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "whist"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_175084",
+      "headword": "whistleblower",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "whistleblower"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_170011",
+      "headword": "white hair",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_219761",
+      "headword": "widescreeni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "widescreen"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_153",
+        "code": "16.0.0",
+        "english": "DATATEK COMPUTER SCIENCE AND COMPUTER ENGINEERING",
+        "danish": "DATATEK DATALOGI OG DATATEKNIK",
+        "kalaallisut": "DATATEK DATALOGII, DATATEKNIKKI"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_236604",
+      "headword": "wienerbrødi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "basse"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255180",
+      "headword": "wienerbrødi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "wienerbrød"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_205761",
+      "headword": "wienerpølse",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "wienerpølse"
+      ],
+      "semantic_classes": [
+        "food-h"
+      ],
+      "domain": {
+        "id": "dom_203",
+        "code": "26.0.0",
+        "english": "FOOD Food products",
+        "danish": "FOOD Madvarer",
+        "kalaallisut": "FOOD Nerisassat"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255178",
+      "headword": "wienervalsi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "wienervals"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_219679",
+      "headword": "windsurfingi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "windsurfing"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_153",
+        "code": "16.0.0",
+        "english": "DATATEK COMPUTER SCIENCE AND COMPUTER ENGINEERING",
+        "danish": "DATATEK DATALOGI OG DATATEKNIK",
+        "kalaallisut": "DATATEK DATALOGII, DATATEKNIKKI"
+      },
+      "related": [
+        {
+          "id": "lex_255176",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qaatsiarneq",
+          "shard": "q"
+        }
+      ]
+    },
+    {
+      "id": "lex_206932",
+      "headword": "wingbacki",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "wingback"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_64",
+        "code": "6.2.2",
+        "english": "FRITID Football",
+        "danish": "FRITID Fodbold",
+        "kalaallisut": "FRITID Arsaanneq"
+      },
+      "related": [
+        {
+          "id": "lex_245134",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "wingbacki",
+          "shard": "w"
+        }
+      ]
+    },
+    {
+      "id": "lex_245134",
+      "headword": "wingbacki",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "wingback"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_64",
+        "code": "6.2.2",
+        "english": "FRITID Football",
+        "danish": "FRITID Fodbold",
+        "kalaallisut": "FRITID Arsaanneq"
+      },
+      "related": [
+        {
+          "id": "lex_206932",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "wingbacki",
+          "shard": "w"
+        }
+      ]
+    },
+    {
+      "id": "lex_255170",
+      "headword": "wobleri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "wobler"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_172866",
+      "headword": "workshop",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "workshop"
+      ],
+      "semantic_classes": [
+        "occ"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_255164",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "suleqatigiit",
+          "shard": "s"
+        }
+      ]
+    },
+    {
+      "id": "lex_205103",
+      "headword": "World Trade Organisation",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "World Trade Organisation"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_12",
+        "code": "3.0.0",
+        "english": "ØK ECONOMY & TRADE",
+        "danish": "ØK ØKONOMI og HANDEL",
+        "kalaallisut": "ØK ANINGAASAQARNEQ NIUERNERLU"
+      },
+      "related": [
+        {
+          "id": "lex_205105",
+          "score": 6,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "WTO; World Trade Organisation",
+          "shard": "w"
+        }
+      ]
+    },
+    {
+      "id": "lex_205105",
+      "headword": "WTO; World Trade Organisation",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "WTO; World Trade Organisation"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_12",
+        "code": "3.0.0",
+        "english": "ØK ECONOMY & TRADE",
+        "danish": "ØK ØKONOMI og HANDEL",
+        "kalaallisut": "ØK ANINGAASAQARNEQ NIUERNERLU"
+      },
+      "related": [
+        {
+          "id": "lex_173147",
+          "score": 6,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nunat tamalaat niueqatigiinnikkut suleqatigiiffiat",
+          "shard": "n"
+        },
+        {
+          "id": "lex_205103",
+          "score": 6,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "World Trade Organisation",
+          "shard": "w"
+        }
+      ]
+    },
+    {
+      "id": "lex_173152",
+      "headword": "WWF",
+      "word_class": "prop",
+      "gloss_en": [
+        "WWF"
+      ],
+      "gloss_da": [
+        "WWF",
+        "Verdensnaturfonden"
+      ],
+      "semantic_classes": [
+        "HH"
+      ],
+      "domain": null,
+      "related": []
+    }
+  ]
+}

@@ -1,0 +1,377 @@
+{
+  "records": [
+    {
+      "id": "lex_2",
+      "headword": "2",
+      "word_class": "num",
+      "gloss_en": [
+        "two"
+      ],
+      "gloss_da": [
+        "to",
+        "2"
+      ],
+      "semantic_classes": [
+        "ac-sign"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_3",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "marluk",
+          "shard": "m"
+        }
+      ]
+    },
+    {
+      "id": "lex_187381",
+      "headword": "2-nik ukiulinnut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 2 år"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187370",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187371",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187372",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11-nik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187373",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187374",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "13-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187375",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "14-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187376",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "16-inik ukiulinnut",
+          "shard": "1"
+        }
+      ]
+    },
+    {
+      "id": "lex_187405",
+      "headword": "2. klassinut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "for 2. klasse"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187381",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "2-nik ukiulinnut",
+          "shard": "2"
+        },
+        {
+          "id": "lex_187401",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "1. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187402",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "10. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187403",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "11. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187404",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "12. klassinut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187406",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "3. klassinut",
+          "shard": "3"
+        },
+        {
+          "id": "lex_187407",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "4. klassinut",
+          "shard": "4"
+        },
+        {
+          "id": "lex_187408",
+          "score": 7.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "5. klassinut",
+          "shard": "5"
+        }
+      ]
+    },
+    {
+      "id": "lex_1",
+      "headword": "20",
+      "word_class": "num",
+      "gloss_en": [
+        "twenty"
+      ],
+      "gloss_da": [
+        "tyve",
+        "20",
+        "toti"
+      ],
+      "semantic_classes": [
+        "ac-sign"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_147794",
+          "score": 7,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "inuk naallugu",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_147787",
+      "headword": "20-at",
+      "word_class": "num",
+      "gloss_en": [
+        "twentieth"
+      ],
+      "gloss_da": [
+        "20.",
+        "tyvende"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_147797",
+      "headword": "20-t missaat",
+      "word_class": "t",
+      "gloss_en": [
+        "score"
+      ],
+      "gloss_da": [
+        "snes"
+      ],
+      "semantic_classes": [
+        "amount"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_205539",
+      "headword": "200 sømilinik killeqarfik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "tohundrede (200) sømile zone"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_12",
+        "code": "3.0.0",
+        "english": "ØK ECONOMY & TRADE",
+        "danish": "ØK ØKONOMI og HANDEL",
+        "kalaallisut": "ØK ANINGAASAQARNEQ NIUERNERLU"
+      },
+      "related": [
+        {
+          "id": "lex_205545",
+          "score": 7,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "sømilini pingasunik killeqarfik",
+          "shard": "s"
+        }
+      ]
+    }
+  ]
+}
