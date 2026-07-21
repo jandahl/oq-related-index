@@ -1,0 +1,390 @@
+{
+  "records": [
+    {
+      "id": "lex_255037",
+      "headword": "zareqarfik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "zardømme"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255039",
+      "headword": "zari",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "zar el. tsar"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255035",
+      "headword": "zebra",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "zebra"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_150448",
+      "headword": "zinki",
+      "word_class": "t",
+      "gloss_en": [
+        "zinc"
+      ],
+      "gloss_da": [
+        "Zn",
+        "zink"
+      ],
+      "semantic_classes": [
+        "cm"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_255031",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "zinki",
+          "shard": "z"
+        }
+      ]
+    },
+    {
+      "id": "lex_255031",
+      "headword": "zinki",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "zink"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_150448",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "zinki",
+          "shard": "z"
+        }
+      ]
+    },
+    {
+      "id": "lex_255029",
+      "headword": "zionisti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "zionist"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_187825",
+      "headword": "zombiet",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "zombier"
+      ],
+      "semantic_classes": [
+        "meta-cat-lib",
+        "domain"
+      ],
+      "domain": {
+        "id": "dom_198",
+        "code": "20.1.0",
+        "english": "Subject headings",
+        "danish": "Emneord",
+        "kalaallisut": "Oqaatsit ujartugassat"
+      },
+      "related": [
+        {
+          "id": "lex_187470",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "pissuseq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_187472",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tamanut najugassianik inissiaatileqatigiiffiit",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187473",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "atuakkat naalagiartitsinermi najoqqutassiat",
+          "shard": "a"
+        },
+        {
+          "id": "lex_187476",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "toqqorsivimmiititat",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187477",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "issittumi pinngortitaq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_187480",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tusarnaagassianik takusassianillu allattuiffik",
+          "shard": "t"
+        },
+        {
+          "id": "lex_187481",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "saanernik sanalukkat",
+          "shard": "s"
+        },
+        {
+          "id": "lex_187484",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "biibilimut nassuiaatit",
+          "shard": "b"
+        }
+      ]
+    },
+    {
+      "id": "lex_188229",
+      "headword": "Zombiet Nunaat",
+      "word_class": "prop",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [
+        "sem-r"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_255025",
+      "headword": "zoneterapeuti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "zoneterapeut"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255023",
+      "headword": "zoneterapi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "zoneterapi"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255019",
+      "headword": "zoologi",
+      "word_class": "pron",
+      "gloss_en": [],
+      "gloss_da": [
+        "zoologi"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_31830",
+      "headword": "zoologi",
+      "word_class": "t",
+      "gloss_en": [
+        "zoologist"
+      ],
+      "gloss_da": [
+        "zoolog",
+        "naturhistorie",
+        "zoologi"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_35573",
+          "score": 6.415037499278844,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "uumasorsiooq",
+          "shard": "u"
+        },
+        {
+          "id": "lex_168019",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "naturhistorie",
+          "shard": "n"
+        }
+      ]
+    },
+    {
+      "id": "lex_255015",
+      "headword": "zoomerpaa",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [
+        "zoome"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255011",
+      "headword": "zumba",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "zumba"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    }
+  ]
+}

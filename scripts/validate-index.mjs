@@ -56,7 +56,7 @@ for (const record of index.records) {
   if (!Array.isArray(record.related)) fail(`record ${record.id}: related must be an array when present`);
   if (!isStringArray(record.related.map((item) => item?.id))) fail(`record ${record.id}: related ids must be strings`);
   for (const item of record.related) {
-    if (!item || typeof item !== "object" || !ids.has(item.id) || typeof item.headword !== "string" || !Number.isFinite(item.score) || !isStringArray(item.reasons)) fail(`record ${record.id}: malformed related item`);
+    if (!item || typeof item !== "object" || !ids.has(item.id) || typeof item.headword !== "string" || !Number.isFinite(item.score) || !isStringArray(item.reasons) || (item.shard !== undefined && typeof item.shard !== "string")) fail(`record ${record.id}: malformed related item`);
     if (item.id === record.id) fail(`record ${record.id}: related list contains itself`);
   }
 }

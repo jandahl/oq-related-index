@@ -1,0 +1,4956 @@
+{
+  "records": [
+    {
+      "id": "lex_255584",
+      "headword": "V-liorneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "V-tegn"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255172",
+      "headword": "vaajari",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "wire"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_173570",
+      "headword": "Vaali",
+      "word_class": "prop",
+      "gloss_en": [
+        "Happy Valley-Goose Bay"
+      ],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_185417",
+      "headword": "vaataparsi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vaterpas"
+      ],
+      "semantic_classes": [
+        "tool"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_255504",
+      "headword": "vægtfylde",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vægtfylde"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_185410",
+      "headword": "vaffeli",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vaffel"
+      ],
+      "semantic_classes": [
+        "food-c-h"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_259387",
+      "headword": "vaffeli",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vaffel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_259388",
+      "headword": "vaffeli pannakaajusaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vaffel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_259385",
+      "headword": "vaffeliliuut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vaffeljern"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_186931",
+      "headword": "valensi",
+      "word_class": "t",
+      "gloss_en": [
+        "valence"
+      ],
+      "gloss_da": [
+        "valens"
+      ],
+      "semantic_classes": [
+        "ac-cat"
+      ],
+      "domain": {
+        "id": "dom_44",
+        "code": "4.5.0",
+        "english": "SAMF Linguistic",
+        "danish": "SAMF Sprogvidenskab",
+        "kalaallisut": "SAMF Oqaatsinik ilisimatusarneq"
+      },
+      "related": [
+        {
+          "id": "lex_259328",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "valensi",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_259328",
+      "headword": "valensi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "valens"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_186931",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "valensi",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_259288",
+      "headword": "valgmenighedi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "valgmenighed"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_259289",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ilagiit nammineq palasissaminnik toqqaasartut",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_262316",
+      "headword": "VALLAAQ Der/vn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_165413",
+      "headword": "VALLAAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [
+        "være for meget"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262317",
+      "headword": "VALLAAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264064",
+      "headword": "VALLAAR Der/vv GALUAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263761",
+      "headword": "VALLAAR Der/vv GUNAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265237",
+      "headword": "VALLAAR Der/vv GUNAR Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264349",
+      "headword": "VALLAAR Der/vv GUNNAIR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265395",
+      "headword": "VALLAAR Der/vv GUNNAIR Der/vv SIMA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263762",
+      "headword": "VALLAAR Der/vv INNAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263508",
+      "headword": "VALLAAR Der/vv KULA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264065",
+      "headword": "VALLAAR Der/vv KULAAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263509",
+      "headword": "VALLAAR Der/vv LAAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263246",
+      "headword": "VALLAAR Der/vv LIR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265040",
+      "headword": "VALLAAR Der/vv LIR Der/vv GUMAAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264847",
+      "headword": "VALLAAR Der/vv LIR Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264066",
+      "headword": "VALLAAR Der/vv LIR Der/vv QE Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264625",
+      "headword": "VALLAAR Der/vv LIR Der/vv SIMA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265396",
+      "headword": "VALLAAR Der/vv NAVIAR Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265041",
+      "headword": "VALLAAR Der/vv NAVIIRSAAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264067",
+      "headword": "VALLAAR Der/vv NGAJAP Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263510",
+      "headword": "VALLAAR Der/vv NIAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264626",
+      "headword": "VALLAAR Der/vv NIAR Der/vv TAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263763",
+      "headword": "VALLAAR Der/vv NIKUU Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263247",
+      "headword": "VALLAAR Der/vv NIR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263764",
+      "headword": "VALLAAR Der/vv NIRAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263765",
+      "headword": "VALLAAR Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265397",
+      "headword": "VALLAAR Der/vv NNGIT Der/vv GALLAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265398",
+      "headword": "VALLAAR Der/vv NNGIT Der/vv GALUAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265238",
+      "headword": "VALLAAR Der/vv NNGIT Der/vv GUNAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_164804",
+      "headword": "VALLAAR Der/vv NNGIT Der/vv TUQ Der/vn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "forholdsvis",
+        "relativ",
+        "mellemstørrelse"
+      ],
+      "semantic_classes": [
+        "f"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_167160",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "NGAAR Der/vv TSIAR Der/vv TUQ Der/vn",
+          "shard": "n"
+        }
+      ]
+    },
+    {
+      "id": "lex_264848",
+      "headword": "VALLAAR Der/vv NNGIT Der/vv VIP Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265042",
+      "headword": "VALLAAR Der/vv NNGUATSIAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263766",
+      "headword": "VALLAAR Der/vv PALUP Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263767",
+      "headword": "VALLAAR Der/vv PASIP Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263003",
+      "headword": "VALLAAR Der/vv QE Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263511",
+      "headword": "VALLAAR Der/vv QINA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264849",
+      "headword": "VALLAAR Der/vv QQU Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265043",
+      "headword": "VALLAAR Der/vv RUJUP Der/vv SUAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_164803",
+      "headword": "VALLAAR Der/vv RUJUP Der/vv SUAR Der/vv NNGIT Der/vv TUQ Der/vn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "relativ"
+      ],
+      "semantic_classes": [
+        "f"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265718",
+      "headword": "VALLAAR Der/vv RUJUP Der/vv SUAR Der/vv SIMA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263512",
+      "headword": "VALLAAR Der/vv SIMA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265044",
+      "headword": "VALLAAR Der/vv SIMA Der/vv GUNAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265806",
+      "headword": "VALLAAR Der/vv SIMA Der/vv GUNAR Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_266040",
+      "headword": "VALLAAR Der/vv SIMA Der/vv GUNAR Der/vv NNGIT Der/vv GALUAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264350",
+      "headword": "VALLAAR Der/vv SIMA Der/vv QE Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_266009",
+      "headword": "VALLAAR Der/vv SIMA Der/vv SSA Der/vv NNGIT Der/vv GALUAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264068",
+      "headword": "VALLAAR Der/vv SINNAA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263248",
+      "headword": "VALLAAR Der/vv SSA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264850",
+      "headword": "VALLAAR Der/vv SSA Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264069",
+      "headword": "VALLAAR Der/vv SSA Der/vv QE Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263513",
+      "headword": "VALLAAR Der/vv SUGE Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263249",
+      "headword": "VALLAAR Der/vv TAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264070",
+      "headword": "VALLAAR Der/vv TAR Der/vv QE Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263250",
+      "headword": "VALLAAR Der/vv TIP Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263514",
+      "headword": "VALLAAR Der/vv TUUR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_152496",
+      "headword": "valmue",
+      "word_class": "t",
+      "gloss_en": [
+        "poppy"
+      ],
+      "gloss_da": [
+        "valmue"
+      ],
+      "semantic_classes": [
+        "Bflo"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_259257",
+      "headword": "valmue",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "valmue"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_209520",
+      "headword": "valmuuit",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "valmuefamilien"
+      ],
+      "semantic_classes": [
+        "B"
+      ],
+      "domain": {
+        "id": "dom_101",
+        "code": "8.27.0",
+        "english": "NATUR Botany",
+        "danish": "NATUR Botanik",
+        "kalaallisut": "NATUR Naasunik ilisimatusarneq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_259254",
+      "headword": "valnødi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "valnød"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_259255",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "qaqqortariarsuaq",
+          "shard": "q"
+        }
+      ]
+    },
+    {
+      "id": "lex_184002",
+      "headword": "valse",
+      "word_class": "t",
+      "gloss_en": [
+        "cylinder"
+      ],
+      "gloss_da": [
+        "valse"
+      ],
+      "semantic_classes": [
+        "cc-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_184003",
+          "score": 6.915037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "kaavittoq ulamertoq",
+          "shard": "k"
+        }
+      ]
+    },
+    {
+      "id": "lex_259251",
+      "headword": "valsi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vals"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_207833",
+      "headword": "vampyri",
+      "word_class": "t",
+      "gloss_en": [
+        "vampire"
+      ],
+      "gloss_da": [
+        "vampyr"
+      ],
+      "semantic_classes": [
+        "Hmyth"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_259237",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "vampyri",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_259237",
+      "headword": "vampyri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vampyr"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_207833",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "vampyri",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_258820",
+      "headword": "vandmærki",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vandmærke"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_258822",
+      "headword": "vandmeloni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vandmelon"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_258787",
+      "headword": "vandrehjemmi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vandrehjem",
+        "vandreherberg"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_258707",
+      "headword": "vanilje",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vanilje"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_258703",
+      "headword": "vaniljekransi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vaniljekrans"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_258660",
+      "headword": "varevogni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "varevogn"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_182197",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "biili nioqqutissanik assartuut",
+          "shard": "b"
+        }
+      ]
+    },
+    {
+      "id": "lex_258654",
+      "headword": "variationi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "variation"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_258653",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "allanngorarneq",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_257714",
+      "headword": "varulvi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "varulv"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_207831",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "inuk amarunngortartoq",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_185411",
+      "headword": "vaseliina",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vaseline"
+      ],
+      "semantic_classes": [
+        "cm-liq-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_257710",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "vaseliina",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_257710",
+      "headword": "vaseliina",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vaseline"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_185411",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "vaseliina",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_257703",
+      "headword": "vaskeautomati",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vaskeautomat"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257658",
+      "headword": "vatpindi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vatpind"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257541",
+      "headword": "vekselip nalingata nalunaarnera",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vekselkurs"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_185412",
+      "headword": "vekselstrømmi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vekselstrøm"
+      ],
+      "semantic_classes": [
+        "am"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_257535",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "vekselstrømmi",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_257535",
+      "headword": "vekselstrømmi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vekselstrøm"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_185412",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "vekselstrømmi",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_180697",
+      "headword": "velbekomme",
+      "word_class": "intj",
+      "gloss_en": [],
+      "gloss_da": [
+        "velbekomme"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_257501",
+      "headword": "velcrobåndi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "velcrobånd"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255437",
+      "headword": "velocepede",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "væltepeter"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257347",
+      "headword": "vendekredsi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vendekreds"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_185413",
+      "headword": "ventili",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ventil"
+      ],
+      "semantic_classes": [
+        "cc-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_257284",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ventili",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_257284",
+      "headword": "ventili",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ventil"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_185413",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ventili",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_257278",
+      "headword": "ventilip ussissaataa gummi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ventilgummi"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_205135",
+      "headword": "verdensbanken",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "verdensbanken"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_12",
+        "code": "3.0.0",
+        "english": "ØK ECONOMY & TRADE",
+        "danish": "ØK ØKONOMI og HANDEL",
+        "kalaallisut": "ØK ANINGAASAQARNEQ NIUERNERLU"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_175072",
+      "headword": "Verdensbanken",
+      "word_class": "prop",
+      "gloss_en": [],
+      "gloss_da": [
+        "Verdensbanken"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_175049",
+      "headword": "versi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vers"
+      ],
+      "semantic_classes": [
+        "sem"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_216968",
+      "headword": "versi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vers"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_58",
+        "code": "5.8.0",
+        "english": "KUNST Literature",
+        "danish": "KUNST Litteratur",
+        "kalaallisut": "KUNST Atuakkialerineq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257209",
+      "headword": "versi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vers"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257201",
+      "headword": "versip aaqqissuunnera",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "versmål"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257205",
+      "headword": "versip rytmimigut ingerlanera",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "versfod"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257149",
+      "headword": "vibratori",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vibrator"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_175250",
+      "headword": "vicepræsidenti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vicepræsident"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_257141",
+      "headword": "viceværti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vicevært"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_163581",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "inissiani nakkutilliisoq",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_257135",
+      "headword": "videncenteri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videncenter"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_219656",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "paasisanik siammarteriffik",
+          "shard": "p"
+        }
+      ]
+    },
+    {
+      "id": "lex_257127",
+      "headword": "video",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "video"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257125",
+      "headword": "videobåndi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videobånd"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257123",
+      "headword": "videodiski",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videodisk"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_206917",
+      "headword": "videodommeri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videodommer"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_64",
+        "code": "6.2.2",
+        "english": "FRITID Football",
+        "danish": "FRITID Fodbold",
+        "kalaallisut": "FRITID Arsaanneq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_245100",
+      "headword": "videodommeri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videodommer"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_64",
+        "code": "6.2.2",
+        "english": "FRITID Football",
+        "danish": "FRITID Fodbold",
+        "kalaallisut": "FRITID Arsaanneq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_205747",
+      "headword": "videodommerimut ikiorti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "assisterende videodommer"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_64",
+        "code": "6.2.2",
+        "english": "FRITID Football",
+        "danish": "FRITID Fodbold",
+        "kalaallisut": "FRITID Arsaanneq"
+      },
+      "related": [
+        {
+          "id": "lex_245102",
+          "score": 6,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "videodommerimut ikiorti",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_245102",
+      "headword": "videodommerimut ikiorti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "assisterende videodommer"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_64",
+        "code": "6.2.2",
+        "english": "FRITID Football",
+        "danish": "FRITID Fodbold",
+        "kalaallisut": "FRITID Arsaanneq"
+      },
+      "related": [
+        {
+          "id": "lex_205747",
+          "score": 6,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "videodommerimut ikiorti",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_245098",
+      "headword": "videodommerit",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videodommerteam"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_64",
+        "code": "6.2.2",
+        "english": "FRITID Football",
+        "danish": "FRITID Fodbold",
+        "kalaallisut": "FRITID Arsaanneq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257121",
+      "headword": "videofilmi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videofilm"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257119",
+      "headword": "videofoni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videofon"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_164983",
+      "headword": "videokonferencerut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videokonferenceudstyr"
+      ],
+      "semantic_classes": [
+        "cm-h"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_176441",
+      "headword": "videoliaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videoklip",
+        "videooptagelse"
+      ],
+      "semantic_classes": [
+        "sem-w"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_179474",
+      "headword": "videoliorluni unammisitsineq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videokonkurrence"
+      ],
+      "semantic_classes": [
+        "occ"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_257105",
+      "headword": "videoteki",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videotek"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_218098",
+      "headword": "videukkut killisiuineq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videoafhøring"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_5",
+        "code": "2.0.0",
+        "english": "JUR LAW",
+        "danish": "JUR JURA",
+        "kalaallisut": "JUR INATSISILERINEQ"
+      },
+      "related": [
+        {
+          "id": "lex_165704",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "videukkut killissiuineq",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_165704",
+      "headword": "videukkut killissiuineq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videoafhøring"
+      ],
+      "semantic_classes": [
+        "act"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_218098",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "videukkut killisiuineq",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_257109",
+      "headword": "videukkut nakkutigineqarneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videoovervågning"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_248100",
+      "headword": "videuliorluni tusagassiortoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videojournalist"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_41",
+        "code": "4.4.1",
+        "english": "SAMF Media, persons, institutions and fields of work",
+        "danish": "SAMF Medier, personer, institutioner & arbejdsområder",
+        "kalaallisut": "SAMF Tusagassiuutit, inuit, suliffeqarfiit suliaqarfiillu"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257111",
+      "headword": "videuliuut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videomaskine"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257101",
+      "headword": "videumi persuttaaneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videovold"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257107",
+      "headword": "videumi pinnguaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videospil"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257117",
+      "headword": "videumik assiliissut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videokamera"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257115",
+      "headword": "videumut kassetti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videokassette"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257103",
+      "headword": "videunik atorniartarfik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "videoudlejningsforretning"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257061",
+      "headword": "vidvinkeli",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vidvinkel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_173389",
+      "headword": "Vietnamimeersoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vietnamesisk"
+      ],
+      "semantic_classes": [
+        "f",
+        "am"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_173377",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Vietnamimiu",
+          "shard": "v"
+        },
+        {
+          "id": "lex_173387",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Vietnamimiusut",
+          "shard": "v"
+        },
+        {
+          "id": "lex_170100",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimeersoq",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170162",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiameersoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170373",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romameersoq",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170496",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimeersoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170526",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubameersoq",
+          "shard": "c"
+        },
+        {
+          "id": "lex_170633",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Schweizimeersoq",
+          "shard": "s"
+        }
+      ]
+    },
+    {
+      "id": "lex_173377",
+      "headword": "Vietnamimiu",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vietnamesisk"
+      ],
+      "semantic_classes": [
+        "f",
+        "Hnat"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_173387",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Vietnamimiusut",
+          "shard": "v"
+        },
+        {
+          "id": "lex_173389",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Vietnamimeersoq",
+          "shard": "v"
+        },
+        {
+          "id": "lex_167155",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Palæstinamiu",
+          "shard": "p"
+        },
+        {
+          "id": "lex_170101",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiu",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170159",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170371",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiu",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170466",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Kurdistanimiu",
+          "shard": "k"
+        },
+        {
+          "id": "lex_170494",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiu",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_173387",
+      "headword": "Vietnamimiusut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vietnamesisk"
+      ],
+      "semantic_classes": [
+        "f",
+        "ling"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_173377",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Vietnamimiu",
+          "shard": "v"
+        },
+        {
+          "id": "lex_173389",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Vietnamimeersoq",
+          "shard": "v"
+        },
+        {
+          "id": "lex_170102",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiusut",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170163",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiusut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170199",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tuluttut",
+          "shard": "t"
+        },
+        {
+          "id": "lex_170369",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiusut",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170495",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiusut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170525",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubamiusut",
+          "shard": "c"
+        }
+      ]
+    },
+    {
+      "id": "lex_256398",
+      "headword": "viinneerniaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinhandler"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256364",
+      "headword": "viinnequt",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinstok"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_31823",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "viinnequt",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_256637",
+      "headword": "viinnequt",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vin"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_31823",
+      "headword": "viinnequt",
+      "word_class": "t",
+      "gloss_en": [
+        "vine"
+      ],
+      "gloss_da": [
+        "vinstok"
+      ],
+      "semantic_classes": [
+        "B"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_256364",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "viinnequt",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_31824",
+      "headword": "viinnequtaavoq",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_256400",
+      "headword": "viinnequteqarfik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vingård"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_120570",
+      "headword": "viinnequtilerisoq",
+      "word_class": "t",
+      "gloss_en": [
+        "wine grower"
+      ],
+      "gloss_da": [
+        "vindyrker"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_31827",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "viinni",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_120571",
+      "headword": "viinnequtilerivoq",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_256636",
+      "headword": "viinni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vin"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_31827",
+      "headword": "viinni",
+      "word_class": "t",
+      "gloss_en": [
+        "wine"
+      ],
+      "gloss_da": [
+        "vin"
+      ],
+      "semantic_classes": [
+        "drink-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_120570",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "viinnequtilerisoq",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_241774",
+      "headword": "viinni ulluinnarsiut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "dagligvin"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256368",
+      "headword": "viinniisivik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinlager"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_31825",
+      "headword": "viinniisivik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinkande"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_145661",
+      "headword": "viinnikatappoq",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_256372",
+      "headword": "viinniliornermi nakkutilliisoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinkyper"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_256373",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "viinninik saqisoq",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_256437",
+      "headword": "viinnimit seernartuliaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vineddike"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256370",
+      "headword": "viinnimut nillorsaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinkøler"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256377",
+      "headword": "viinninik paasisimasalik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinkender"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256373",
+      "headword": "viinninik saqisoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinkyper"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_256372",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "viinniliornermi nakkutilliisoq",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_256404",
+      "headword": "viinnisorfik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinglas"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256396",
+      "headword": "viinnissanik katersuineq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinhøst"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256634",
+      "headword": "viinnissanik naatitsisoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinavler"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243181",
+      "headword": "viinnissap issera",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "druesaft"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243183",
+      "headword": "viinnissap sukkua",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "druesukker"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_243177",
+      "headword": "viinnissaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "drue"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_31826",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "viinnissaq",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_256576",
+      "headword": "viinnissaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vindrue"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_31826",
+      "headword": "viinnissaq",
+      "word_class": "t",
+      "gloss_en": [
+        "grape"
+      ],
+      "gloss_da": [
+        "vindrue",
+        "drue"
+      ],
+      "semantic_classes": [
+        "fruit-c"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_207372",
+          "score": 8.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "vindrue",
+          "shard": "v"
+        },
+        {
+          "id": "lex_243177",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "viinnissaq",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_243179",
+      "headword": "viinnissat eqimattat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "drueklase"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256574",
+      "headword": "viinnissat tigumasut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vindrueklase"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256375",
+      "headword": "viinnit allattorsimaffiat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinkort"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_261927",
+      "headword": "VIK Der/nn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262496",
+      "headword": "VIK Der/nn SUAQ Der/nn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_167186",
+      "headword": "VIK Der/nn U Der/nv TUQ Der/vn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "egentlig"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_165673",
+      "headword": "VIK Der/vn",
+      "word_class": "t",
+      "gloss_en": [
+        "place"
+      ],
+      "gloss_da": [
+        "sted",
+        "felt"
+      ],
+      "semantic_classes": [
+        "L"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_165674",
+      "headword": "VIK Der/vn",
+      "word_class": "t",
+      "gloss_en": [
+        "time"
+      ],
+      "gloss_da": [
+        "tidspunkt"
+      ],
+      "semantic_classes": [
+        "temp"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_261928",
+      "headword": "VIK Der/vn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262727",
+      "headword": "VIK Der/vn GE Der/nv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_207673",
+      "headword": "VIK Der/vn IRUTE Der/nv",
+      "word_class": "v",
+      "gloss_en": [
+        "cannot"
+      ],
+      "gloss_da": [
+        "ikke kunne"
+      ],
+      "semantic_classes": [
+        "V.7"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_130731",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "pisinnaalluarpoq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_16364",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nalussinnaavoq",
+          "shard": "n"
+        },
+        {
+          "id": "lex_165565",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "SINNAA Der/vv",
+          "shard": "s"
+        },
+        {
+          "id": "lex_167677",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "SINNAA Der/vv KUTSUUR Der/vv",
+          "shard": "s"
+        },
+        {
+          "id": "lex_176618",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "atorluarneqarsinnaavoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_22718",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "piginnaavoq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_39624",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "tutunnguussinnaavoq",
+          "shard": "t"
+        },
+        {
+          "id": "lex_70",
+          "score": 6.178071905112637,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "aggersinnaalluarpoq",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_165675",
+      "headword": "VIK Der/vn SSAQ Der/nn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "beregnet som",
+        "beregnet for",
+        "beregnet til"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_174444",
+          "score": 5.415037499278844,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "atugassiaq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_174446",
+          "score": 5.415037499278844,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "atugassiaavoq",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_165694",
+      "headword": "VIK Der/vn SSAQ Der/nn U Der/nv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [
+        "godt tidspunkt for",
+        "godt sted til"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_165697",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "VIK Der/vn SSAQ Der/nn U Der/nv Der/NNGIT Der/vv",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_165697",
+      "headword": "VIK Der/vn SSAQ Der/nn U Der/nv Der/NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [
+        "dårlig tidspunkt for",
+        "dårlig sted til"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_165694",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "VIK Der/vn SSAQ Der/nn U Der/nv",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_265871",
+      "headword": "VIK Der/vn SSAQ Der/nn U Der/nv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262495",
+      "headword": "VIK Der/vn U Der/nv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_185414",
+      "headword": "vikari",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vikar"
+      ],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_177538",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "paarlattaagallartoq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_177539",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "paarlatsi",
+          "shard": "p"
+        }
+      ]
+    },
+    {
+      "id": "lex_257028",
+      "headword": "vikari",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vikar"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_185415",
+      "headword": "vikingi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "viking"
+      ],
+      "semantic_classes": [
+        "H"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_257022",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "vikingi",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_257022",
+      "headword": "vikingi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "viking"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_185415",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "vikingi",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_257016",
+      "headword": "vikingit angalanerat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vikingetogt"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257018",
+      "headword": "vikingit nalaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vikingetid"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_257020",
+      "headword": "vikingit umiarsuaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vikingeskib"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256670",
+      "headword": "villa",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "villa"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256593",
+      "headword": "vindjakke",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vindjakke"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_207372",
+      "headword": "vindrue",
+      "word_class": "t",
+      "gloss_en": [
+        "grape"
+      ],
+      "gloss_da": [
+        "vindrue"
+      ],
+      "semantic_classes": [
+        "fruit-c"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_31826",
+          "score": 8.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "viinnissaq",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_256402",
+      "headword": "vingummi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vingummi"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256387",
+      "headword": "vinkelhusi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinkelhus"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_185416",
+      "headword": "vinkeli",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinkel"
+      ],
+      "semantic_classes": [
+        "geom"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_256389",
+      "headword": "vinkelinngorsimasoq",
+      "word_class": "adj",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinkelformet"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256379",
+      "headword": "vinkelstue",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinkelstue"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256354",
+      "headword": "vinterferia",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinterferie"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256346",
+      "headword": "vintergækki",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vintergæk"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256324",
+      "headword": "vinyli",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vinyl"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_207440",
+      "headword": "VIP Der/vv",
+      "word_class": "v",
+      "gloss_en": [
+        "completely"
+      ],
+      "gloss_da": [
+        "fuldstændig"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_261929",
+      "headword": "VIP Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263004",
+      "headword": "VIP Der/vv GALLAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263005",
+      "headword": "VIP Der/vv GALUAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262497",
+      "headword": "VIP Der/vv GUMA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262728",
+      "headword": "VIP Der/vv GUNAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263251",
+      "headword": "VIP Der/vv GUNNAIR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262729",
+      "headword": "VIP Der/vv GUSUP Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262498",
+      "headword": "VIP Der/vv LLAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262730",
+      "headword": "VIP Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_265239",
+      "headword": "VIP Der/vv NNGIT Der/vv TAR Der/vv INNAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264071",
+      "headword": "VIP Der/vv NNGUATSIAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262499",
+      "headword": "VIP Der/vv SIMA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263006",
+      "headword": "VIP Der/vv SINNAA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_264627",
+      "headword": "VIP Der/vv SINNAA Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262318",
+      "headword": "VIP Der/vv SSA Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263768",
+      "headword": "VIP Der/vv SSA Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262319",
+      "headword": "VIP Der/vv TAR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_256302",
+      "headword": "vipstjerti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vipstjert"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_253761",
+      "headword": "virusertaqanngitsoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "steril"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_186286",
+      "headword": "virusi",
+      "word_class": "t",
+      "gloss_en": [
+        "virus"
+      ],
+      "gloss_da": [
+        "virus"
+      ],
+      "semantic_classes": [
+        "Acell"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_130950",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "bakteriat",
+          "shard": "b"
+        },
+        {
+          "id": "lex_13520",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "mannissaq",
+          "shard": "m"
+        },
+        {
+          "id": "lex_164132",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "fyrsvamp",
+          "shard": "f"
+        },
+        {
+          "id": "lex_169560",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "bakteeria",
+          "shard": "b"
+        },
+        {
+          "id": "lex_171262",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "sananeqaat aallaavik",
+          "shard": "s"
+        },
+        {
+          "id": "lex_172887",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "bakteria ipiutaasatigut aseruutsitsisartoq",
+          "shard": "b"
+        },
+        {
+          "id": "lex_177262",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "oqoqarneq",
+          "shard": "o"
+        },
+        {
+          "id": "lex_191644",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "sianiummi celle",
+          "shard": "s"
+        }
+      ]
+    },
+    {
+      "id": "lex_253763",
+      "headword": "virusi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "virus"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256143",
+      "headword": "virusi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "virus"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256141",
+      "headword": "virusimik ajoquteqarneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "virusinfektion"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_167927",
+      "headword": "virusimut illersuut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_235192",
+      "headword": "virusinut illersuut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "antivirusprogram"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_169083",
+      "headword": "virusinut nakorsaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "antiviral middel"
+      ],
+      "semantic_classes": [
+        "cm-rem"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_227373",
+      "headword": "virusinut nakorsaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "antiviral middel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_115",
+        "code": "9.13.0",
+        "english": "MED Pharmacology",
+        "danish": "MED Farmakologi",
+        "kalaallisut": "MED Nakorsaaserineq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_253765",
+      "headword": "virusinut nakorsaat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "antiviral middel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_161439",
+      "headword": "visitkort",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "visitkort"
+      ],
+      "semantic_classes": [
+        "sem-r"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_221867",
+      "headword": "visitkort",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "visitkort"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_3",
+        "code": "1.2.0",
+        "english": "STAT Public administration",
+        "danish": "STAT Offentlig forvaltning",
+        "kalaallisut": "STAT Pisortat ingerlatsinerat"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256111",
+      "headword": "visitkorti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "visitkort"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_262231",
+      "headword": "VISSUR Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_263515",
+      "headword": "VISSUR Der/vv NNGIT Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_256096",
+      "headword": "visummi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "visum"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_173171",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nunamut isersinnaanermut akuersissut",
+          "shard": "n"
+        }
+      ]
+    },
+    {
+      "id": "lex_256079",
+      "headword": "vitamineqarluartoq",
+      "word_class": "adj",
+      "gloss_en": [],
+      "gloss_da": [
+        "vitaminrig"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_181054",
+      "headword": "vitamini",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vitamin"
+      ],
+      "semantic_classes": [
+        "food-c-h"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_256089",
+      "headword": "vitamini",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vitamin"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_181045",
+      "headword": "vitamini iisartagaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vitamintilskud"
+      ],
+      "semantic_classes": [
+        "food-c-h"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_256081",
+      "headword": "vitamini iisartagaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vitaminpille"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256087",
+      "headword": "vitaminikitsoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vitaminfattig"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256077",
+      "headword": "vitaminilersuutit",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vitamintilskud"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256083",
+      "headword": "vitamininik amigaateqarneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vitaminmangel"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256085",
+      "headword": "vitamininik kapitinneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vitaminindsprøjtning"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_181047",
+      "headword": "vitaminitorneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vitamintilskud"
+      ],
+      "semantic_classes": [
+        "act"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_208954",
+      "headword": "viuuli",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "labrador-viol"
+      ],
+      "semantic_classes": [
+        "B"
+      ],
+      "domain": {
+        "id": "dom_101",
+        "code": "8.27.0",
+        "english": "NATUR Botany",
+        "danish": "NATUR Botanik",
+        "kalaallisut": "NATUR Naasunik ilisimatusarneq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_209553",
+      "headword": "viuulit",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "violfamilien"
+      ],
+      "semantic_classes": [
+        "B"
+      ],
+      "domain": {
+        "id": "dom_101",
+        "code": "8.27.0",
+        "english": "NATUR Botany",
+        "danish": "NATUR Botanik",
+        "kalaallisut": "NATUR Naasunik ilisimatusarneq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_225169",
+      "headword": "VM-erneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "verdensmesterskab",
+        "VM"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_62",
+        "code": "6.2.0",
+        "english": "FRITID Sport, general",
+        "danish": "FRITID Idræt, generelt",
+        "kalaallisut": "FRITID Timersorneq, tamanut atuuttoq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256053",
+      "headword": "vodka",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vodka"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256022",
+      "headword": "voksdugi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "voksdug"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_256026",
+      "headword": "voksimik assilisaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "voksaftryk"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255799",
+      "headword": "vokskabinetti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vokskabinet"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255794",
+      "headword": "volapykki",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "volapyk"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_255795",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "oqaatsit paasisassaanngitsut",
+          "shard": "o"
+        }
+      ]
+    },
+    {
+      "id": "lex_153430",
+      "headword": "volleyballi",
+      "word_class": "t",
+      "gloss_en": [
+        "volleyball"
+      ],
+      "gloss_da": [
+        "volleyball",
+        "volleybold",
+        "volley"
+      ],
+      "semantic_classes": [
+        "sport"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_255750",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "volleyballi",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_255750",
+      "headword": "volleyballi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "volleyball"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_153430",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "volleyballi",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_255743",
+      "headword": "volti",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "volt"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_255741",
+      "headword": "voltmeteri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "voltmeter"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_146522",
+      "headword": "vuggestue",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "vuggestue"
+      ],
+      "semantic_classes": [
+        "inst"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_14062",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "meeraaqqerivik",
+          "shard": "m"
+        }
+      ]
+    },
+    {
+      "id": "lex_175285",
+      "headword": "VVAARIK Der/nn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "rent",
+        "præcis"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_165670",
+      "headword": "VVAARIK Der/vn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "virkelig god"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262320",
+      "headword": "VVAARIK Der/vn",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_165672",
+      "headword": "VVAARIP Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [
+        "virkelig god"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_262321",
+      "headword": "VVAARIP Der/vv",
+      "word_class": "v",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_162564",
+      "headword": "VVM",
+      "word_class": "t",
+      "gloss_en": [
+        "environmental impact assessment"
+      ],
+      "gloss_da": [
+        "VVM"
+      ],
+      "semantic_classes": [
+        "act",
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_125",
+        "code": "11.0.0",
+        "english": "MILJØ ECOLOGY and ENVIRONMENT",
+        "danish": "MILJØ ØKOLOGI OG MILJØ",
+        "kalaallisut": "MILJØ ØKOLOGII AVATANGIISILLU"
+      },
+      "related": [
+        {
+          "id": "lex_180576",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "avatangiisinut sunniutinik naliliineq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_161400",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "avatangiisinut tunngatillugu iliuuseqarnissamut pilersaarut",
+          "shard": "a"
+        },
+        {
+          "id": "lex_165409",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "misissuineq",
+          "shard": "m"
+        },
+        {
+          "id": "lex_183055",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "qinigassanngortitsineq",
+          "shard": "q"
+        },
+        {
+          "id": "lex_186948",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "immikkoortitsineq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_221524",
+          "score": 5.915037499278844,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "VVM",
+          "shard": "v"
+        }
+      ]
+    },
+    {
+      "id": "lex_221524",
+      "headword": "VVM",
+      "word_class": "t",
+      "gloss_en": [
+        "environmental impact assessment"
+      ],
+      "gloss_da": [
+        "VVM"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_3",
+        "code": "1.2.0",
+        "english": "STAT Public administration",
+        "danish": "STAT Offentlig forvaltning",
+        "kalaallisut": "STAT Pisortat ingerlatsinerat"
+      },
+      "related": [
+        {
+          "id": "lex_162564",
+          "score": 5.915037499278844,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "VVM",
+          "shard": "v"
+        }
+      ]
+    }
+  ]
+}

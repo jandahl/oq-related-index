@@ -1,0 +1,882 @@
+{
+  "records": [
+    {
+      "id": "lex_131974",
+      "headword": "ø",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ø"
+      ],
+      "semantic_classes": [
+        "ac-sign"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_254734",
+      "headword": "ødipuskompleksi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ødipuskompleks"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254724",
+      "headword": "øffi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "øf"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_205085",
+      "headword": "ØKOFED; Naalagaffiit Peqatigiit avatangiisit pilugit suleqatigiiffiat",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ØKOFED; FN's internationale miljøfacilitet"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_12",
+        "code": "3.0.0",
+        "english": "ØK ECONOMY & TRADE",
+        "danish": "ØK ØKONOMI og HANDEL",
+        "kalaallisut": "ØK ANINGAASAQARNEQ NIUERNERLU"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254638",
+      "headword": "økologi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "økolog"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_180593",
+      "headword": "økologii",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "økologi"
+      ],
+      "semantic_classes": [
+        "domain"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_254635",
+      "headword": "økologii",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "økologi"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254606",
+      "headword": "økologiimi/pinngortitami ataqatigiinneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "økosystem"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254628",
+      "headword": "økonoma",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "økonoma"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254630",
+      "headword": "økonomi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "økonom"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_254631",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "aannertusaarillaqqissuuvoq",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_241384",
+      "headword": "økonomi qullersaq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "cheføkonom"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254624",
+      "headword": "økonomii",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "økonomi"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254613",
+      "headword": "økonomiministeri",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "økonomiminister"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_173185",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "aningaasarsiornermut ministeri",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_205095",
+      "headword": "ØMU; EU-mi aningaasaqarnikkut aningaasatigullu suleqatigiiffik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ØMU; den økonomiske og monetære union i EU"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_12",
+        "code": "3.0.0",
+        "english": "ØK ECONOMY & TRADE",
+        "danish": "ØK ØKONOMI og HANDEL",
+        "kalaallisut": "ØK ANINGAASAQARNEQ NIUERNERLU"
+      },
+      "related": [
+        {
+          "id": "lex_205087",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "aningaasaqarnikkut aningaasatigullu EU-mi suleqatigiiffik",
+          "shard": "a"
+        },
+        {
+          "id": "lex_173187",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Europami nunat aningaasarsiornikkut aningaasatigullu suleqatigiinnerat",
+          "shard": "e"
+        }
+      ]
+    },
+    {
+      "id": "lex_254557",
+      "headword": "ønskebeni",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "ønskeben"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254501",
+      "headword": "øreklapstoli",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "øreklapstol"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": [
+        {
+          "id": "lex_254502",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "issiavissuaq iigarfimmigut aniinganilik",
+          "shard": "i"
+        }
+      ]
+    },
+    {
+      "id": "lex_254477",
+      "headword": "Øresundi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "Øresund"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254475",
+      "headword": "Øresundip ikaartarfissua",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "Øresundsbron"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_185420",
+      "headword": "østersi",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "østers"
+      ],
+      "semantic_classes": [
+        "Aich"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_182099",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "uiluik",
+          "shard": "u"
+        }
+      ]
+    },
+    {
+      "id": "lex_254401",
+      "headword": "Østersø",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "Østersøen"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_254399",
+      "headword": "Østersøp sineriaani naalagaaffik",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "østersøstat"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_201",
+        "code": "24.0.0",
+        "english": "Oqaasersiuut (2012)",
+        "danish": "Oqaasersiuut (2012)",
+        "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_172528",
+      "headword": "Østrigimeersoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "østrigsk"
+      ],
+      "semantic_classes": [
+        "f",
+        "am"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_170100",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimeersoq",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170162",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiameersoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170373",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romameersoq",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170496",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimeersoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170526",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubameersoq",
+          "shard": "c"
+        },
+        {
+          "id": "lex_170633",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Schweizimeersoq",
+          "shard": "s"
+        },
+        {
+          "id": "lex_170647",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Algeriameersoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_170662",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Kroatiameersoq",
+          "shard": "k"
+        }
+      ]
+    },
+    {
+      "id": "lex_172526",
+      "headword": "Østrigimioq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "østrigsk"
+      ],
+      "semantic_classes": [
+        "f",
+        "Hnat"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_171061",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Østrigimiu",
+          "shard": "ø"
+        },
+        {
+          "id": "lex_167155",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Palæstinamiu",
+          "shard": "p"
+        },
+        {
+          "id": "lex_170101",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiu",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170159",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170371",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiu",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170466",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Kurdistanimiu",
+          "shard": "k"
+        },
+        {
+          "id": "lex_170494",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170502",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Albaniamiu",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_171061",
+      "headword": "Østrigimiu",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "østrigsk",
+        "østriger"
+      ],
+      "semantic_classes": [
+        "f",
+        "Hnat"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_172526",
+          "score": 7,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "Østrigimioq",
+          "shard": "ø"
+        },
+        {
+          "id": "lex_167155",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Palæstinamiu",
+          "shard": "p"
+        },
+        {
+          "id": "lex_170101",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiu",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170159",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170371",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiu",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170466",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Kurdistanimiu",
+          "shard": "k"
+        },
+        {
+          "id": "lex_170494",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiu",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170502",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Albaniamiu",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_172527",
+      "headword": "Østrigimiusut",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "østrigsk"
+      ],
+      "semantic_classes": [
+        "f",
+        "ling"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_170102",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Baltikumimiusut",
+          "shard": "b"
+        },
+        {
+          "id": "lex_170163",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Indonesiamiusut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170199",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "tuluttut",
+          "shard": "t"
+        },
+        {
+          "id": "lex_170369",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Romamiusut",
+          "shard": "r"
+        },
+        {
+          "id": "lex_170495",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Iranimiusut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170525",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Cubamiusut",
+          "shard": "c"
+        },
+        {
+          "id": "lex_170632",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Schweizimiusut",
+          "shard": "s"
+        },
+        {
+          "id": "lex_170646",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "Algeriamiusut",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_185952",
+      "headword": "østrogen",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "østrogen"
+      ],
+      "semantic_classes": [
+        "cm-rem"
+      ],
+      "domain": {
+        "id": "dom_102",
+        "code": "9.0.0",
+        "english": "MED MEDICINE",
+        "danish": "MED MEDICIN",
+        "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    }
+  ]
+}

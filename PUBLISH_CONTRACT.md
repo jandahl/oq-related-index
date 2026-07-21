@@ -53,3 +53,13 @@ candidate records, provide a deterministic score, and list the evidence used
 by the compiler. Broad matches and weak single signals are filtered out, and
 reciprocal relationships receive a small ranking bonus. Relatedness is a
 candidate signal, not an assertion of synonymy.
+
+## Sharded delivery
+
+The optional `manifest.json` uses schema `oq-related-index-shards/0.1` and
+points to complete record shards under `records/`. Shards are grouped by the
+normalized first character of `headword`; `_` contains records without a
+letter-or-number initial. Their `records` arrays use the same record shape as
+the monolithic document. Every `related` item may include `shard`, the target
+record's shard key, so a consumer can lazy-load related records without
+holding the monolith in memory.

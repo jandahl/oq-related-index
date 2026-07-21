@@ -12,6 +12,11 @@ single signals are filtered out; reciprocal relationships receive a small
 ranking bonus. Each item includes its source record id, score, and reasons so
 consumers can present or audit the result without reproducing the algorithm.
 
+For lower-memory consumers, `dist/manifest.json` and `dist/records/*.json`
+provide the same complete records split by normalized first letter. The
+monolithic `related-index.json` remains available; shard references on related
+items identify which additional record file to load.
+
 ## Build
 
 ```sh

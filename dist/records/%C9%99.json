@@ -1,0 +1,22 @@
+{
+  "records": [
+    {
+      "id": "lex_242901",
+      "headword": "ə",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "schwa"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_44",
+        "code": "4.5.0",
+        "english": "SAMF Linguistic",
+        "danish": "SAMF Sprogvidenskab",
+        "kalaallisut": "SAMF Oqaatsinik ilisimatusarneq"
+      },
+      "related": []
+    }
+  ]
+}
