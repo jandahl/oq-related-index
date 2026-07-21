@@ -1,4 +1,5 @@
 import { mkdir, writeFile } from "node:fs/promises";
+import { compileRelatedness } from "./relatedness.mjs";
 
 const LEXICON_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/lexicon.json";
 const SEMANTIC_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/semantic_classes.json";
@@ -55,6 +56,7 @@ for (const index of [bySemanticClass, byDomain, byGlossToken]) {
   for (const ids of Object.values(index)) ids.sort();
 }
 records.sort((a, b) => a.headword.localeCompare(b.headword) || a.id.localeCompare(b.id));
+const compiledRecords = compileRelatedness(records, { bySemanticClass, byDomain, byGlossToken });
 
 await mkdir("dist", { recursive: true });
 await writeFile("dist/index.html", `<!doctype html>
@@ -71,13 +73,19 @@ see the <a href="https://github.com/jandahl/oq-related-index/blob/master/NOTICE.
 </body></html>\n`);
 await writeFile("dist/related-index.json", JSON.stringify({
   meta: {
-    schema: "oq-related-index/0.1",
+    schema: "oq-related-index/0.2",
+    relatedness: {
+      algorithm: "bounded-signal-v1",
+      limit: 8,
+      minimum_signal_score: 2,
+      reciprocal_bonus: 3,
+    },
     generated_at: new Date().toISOString(),
     attribution: "Oqaasileriffik / Greenland Language Secretariat",
     license: "CC-BY-SA-4.0",
     sources: { lexicon: LEXICON_URL, semantic_classes: SEMANTIC_URL },
   },
-  records,
+  records: compiledRecords,
   bySemanticClass,
   byDomain,
   byGlossToken,

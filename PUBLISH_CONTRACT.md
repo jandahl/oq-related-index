@@ -6,7 +6,7 @@ unknown fields and missing optional fields.
 ```json
 {
   "meta": {
-    "schema": "oq-related-index/0.1",
+    "schema": "oq-related-index/0.2",
     "generated_at": "2026-01-01T00:00:00.000Z",
     "attribution": "Oqaasileriffik / Greenland Language Secretariat",
     "license": "CC-BY-SA-4.0",
@@ -23,7 +23,13 @@ unknown fields and missing optional fields.
       "gloss_en": ["example"],
       "gloss_da": ["eksempel"],
       "semantic_classes": ["sem_example"],
-      "domain": { "id": "dom_example", "code": "0.0.0", "label": "General" }
+      "domain": { "id": "dom_example", "code": "0.0.0", "label": "General" },
+      "related": [{
+        "id": "lex_other",
+        "headword": "other",
+        "score": 7.5,
+        "reasons": ["same semantic class", "reciprocal relatedness"]
+      }]
     }
   ],
   "bySemanticClass": { "sem_example": ["lex_example"] },
@@ -41,6 +47,9 @@ unknown fields and missing optional fields.
 }
 ```
 
-`records` and the three inverted indexes are the stable minimum fields in
-schema `0.1`; the other fields are optional enrichment. Relatedness is a
+`records` and the three inverted indexes remain available in schema `0.2`.
+Each record may include a bounded `related` array. Its entries identify
+candidate records, provide a deterministic score, and list the evidence used
+by the compiler. Broad matches and weak single signals are filtered out, and
+reciprocal relationships receive a small ranking bonus. Relatedness is a
 candidate signal, not an assertion of synonymy.
