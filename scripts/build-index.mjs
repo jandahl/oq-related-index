@@ -4,6 +4,7 @@ import { addRelationShards, groupRecords, shardManifest } from "./shards.mjs";
 
 const LEXICON_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/lexicon.json";
 const SEMANTIC_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/semantic_classes.json";
+const outputDir = process.env.OUTPUT_DIR ?? "docs";
 
 function entries(raw) {
   if (Array.isArray(raw)) return raw;
@@ -60,19 +61,19 @@ records.sort((a, b) => a.headword.localeCompare(b.headword) || a.id.localeCompar
 const compiledRecords = addRelationShards(compileRelatedness(records, { bySemanticClass, byDomain, byGlossToken }));
 const recordShards = groupRecords(compiledRecords);
 
-await mkdir("dist", { recursive: true });
-await mkdir("dist/records", { recursive: true });
+await mkdir(outputDir, { recursive: true });
+await mkdir(`${outputDir}/records`, { recursive: true });
 for (const [key, shardRecords] of recordShards) {
-  await writeFile(`dist/records/${encodeURIComponent(key)}.json`, JSON.stringify({ records: shardRecords }, null, 2));
+  await writeFile(`${outputDir}/records/${encodeURIComponent(key)}.json`, JSON.stringify({ records: shardRecords }, null, 2));
 }
-await writeFile("dist/manifest.json", JSON.stringify({
+await writeFile(`${outputDir}/manifest.json`, JSON.stringify({
   schema: "oq-related-index-shards/0.1",
   schema_url: "https://jandahl.github.io/oq-related-index/schema/oq-related-index-shards-0.1.schema.json",
   generated_at: new Date().toISOString(),
   record_count: compiledRecords.length,
   shards: shardManifest(recordShards),
 }, null, 2));
-await writeFile("dist/index.html", `<!doctype html>
+await writeFile(`${outputDir}/index.html`, `<!doctype html>
 <html lang="en"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
 <title>OQ! related-word index</title></head><body>
 <h1>OQ! related-word index</h1>
@@ -85,7 +86,7 @@ await writeFile("dist/index.html", `<!doctype html>
 <p>Derived from public Oqaasileriffik / Greenlandic Language Secretariat data;
 see the <a href="https://github.com/jandahl/oq-related-index/blob/master/NOTICE.md">data notice</a>.</p>
 </body></html>\n`);
-await writeFile("dist/related-index.json", JSON.stringify({
+await writeFile(`${outputDir}/related-index.json`, JSON.stringify({
   meta: {
     schema: "oq-related-index/0.2",
     schema_url: "https://jandahl.github.io/oq-related-index/schema/oq-related-index-0.2.schema.json",
@@ -108,4 +109,4 @@ await writeFile("dist/related-index.json", JSON.stringify({
   semantic_classes: semantic.semantic_classes ?? [],
 }, null, 2));
 
-console.log(`Wrote ${records.length} records to dist/related-index.json`);
+console.log(`Wrote ${records.length} records to ${outputDir}/related-index.json`);
