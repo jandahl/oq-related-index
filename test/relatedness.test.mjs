@@ -26,6 +26,29 @@ test("broad word-class-only matches and weak gloss matches are omitted", () => {
   assert.deepEqual(illu.related.map((item) => item.id), ["b"]);
 });
 
+test("single-signal matches require reciprocal support", () => {
+  const records = [
+    { id: "source", headword: "illu", semantic_classes: ["home"], gloss_en: [] },
+    { id: "one-way", headword: "kukiusaq", semantic_classes: ["other"], gloss_en: [] },
+  ];
+  const related = compileRelatedness(records, {
+    bySemanticClass: { home: ["source", "one-way"], other: ["one-way"] }, byDomain: {}, byGlossToken: {},
+  })[0].related;
+  assert.deepEqual(related, []);
+});
+
+test("reciprocal single-signal matches remain available", () => {
+  const records = [
+    { id: "source", headword: "illu", semantic_classes: ["home"], gloss_en: [] },
+    { id: "peer", headword: "qaqqaq", semantic_classes: ["home"], gloss_en: [] },
+  ];
+  const indexes = {
+    bySemanticClass: { home: ["source", "peer"] }, byDomain: {}, byGlossToken: {},
+  };
+  assert.deepEqual(compileRelatedness(records, indexes)[0].related[0].reasons,
+    ["same semantic class", "reciprocal relatedness"]);
+});
+
 test("compiled relatedness is bounded and excludes the source record", () => {
   const [illu] = compileRelatedness(records, indexes, { limit: 1 });
   assert.equal(illu.related.length, 1);

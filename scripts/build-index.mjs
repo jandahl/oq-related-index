@@ -91,6 +91,7 @@ await writeFile("dist/related-index.json", JSON.stringify({
       algorithm: "bounded-signal-v1",
       limit: 8,
       minimum_signal_score: 2,
+      minimum_reasons: 2,
       reciprocal_bonus: 3,
     },
     generated_at: new Date().toISOString(),

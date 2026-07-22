@@ -41,7 +41,7 @@ export function scoreRelated(record, indexes) {
 }
 
 /** Compile bounded, explainable relatedness with a reciprocal-support signal. */
-export function compileRelatedness(records, indexes, { limit = 8 } = {}) {
+export function compileRelatedness(records, indexes, { limit = 8, minimumReasons = 2 } = {}) {
   const byId = new Map(records.map((record) => [record.id, record]));
   const scoreIndexes = { ...indexes, recordsById: byId };
   return records.map((record) => {
@@ -51,13 +51,16 @@ export function compileRelatedness(records, indexes, { limit = 8 } = {}) {
       .slice(0, limit * 2);
     const related = direct.map((candidate) => {
       const reverse = scoreRelated(byId.get(candidate.id), scoreIndexes).get(record.id);
-      if (reverse?.signalScore >= 2) {
+      const reciprocal = reverse?.signalScore >= 2;
+      if (reciprocal) {
         candidate.score += 3;
         candidate.reasons.push("reciprocal relatedness");
       }
+      const independentReasons = candidate.reasons.filter((reason) => reason !== "same word class").length;
+      if (independentReasons < minimumReasons && !reciprocal) return null;
       const { signalScore, ...published } = candidate;
       return { ...published, headword: byId.get(candidate.id)?.headword ?? "" };
-    }).sort((a, b) => b.score - a.score || a.id.localeCompare(b.id)).slice(0, limit);
+    }).filter(Boolean).sort((a, b) => b.score - a.score || a.id.localeCompare(b.id)).slice(0, limit);
     return { ...record, related };
   });
 }
