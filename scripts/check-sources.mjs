@@ -24,7 +24,7 @@ const buildHash = createHash("sha256");
 for (const file of BUILD_INPUTS) buildHash.update(await readFile(file));
 const build_fingerprint = buildHash.digest("hex");
 const changed = previous.build_fingerprint !== build_fingerprint || Object.entries(sources).some(([name, source]) =>
-  previous.sources?.[name]?.url !== source.url || !source.fingerprint || previous.sources[name].fingerprint !== source.fingerprint);
+  previous.sources?.[name]?.url !== source.url || !source.fingerprint || previous.sources?.[name]?.fingerprint !== source.fingerprint);
 const result = { schema: "oq-related-source-state/0.1", checked_at: new Date().toISOString(), changed, build_fingerprint, sources };
 if (writeState) await writeFile(statePath, `${JSON.stringify({ ...result, changed: undefined }, null, 2).replace(/,\n  "changed": undefined/, "")}\n`);
 console.log(JSON.stringify(result));

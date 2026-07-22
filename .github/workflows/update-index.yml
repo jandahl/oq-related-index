@@ -38,7 +38,8 @@ jobs:
           node scripts/validate-index.mjs .generated/docs/related-index.json
           node scripts/validate-shards.mjs .generated/docs/manifest.json .generated/docs
           node scripts/check-sources.mjs .source-fingerprint.json --write
-          cp -R .generated/docs/. docs/
+          rm -rf docs
+          cp -R .generated/docs docs
           printf '%s — checksum changed, generated and validated new output\n' "$(date -u +%F)" >> UPDATE_LOG.md
       - if: steps.source-check.outputs.changed == 'true'
         env:
