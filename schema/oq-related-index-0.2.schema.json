@@ -1,0 +1,55 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jandahl.github.io/oq-related-index/schema/oq-related-index-0.2.schema.json",
+  "title": "OQ related-word index 0.2",
+  "type": "object",
+  "required": ["meta", "records", "bySemanticClass", "byDomain", "byGlossToken"],
+  "properties": {
+    "meta": { "$ref": "#/$defs/meta" },
+    "records": { "type": "array", "items": { "$ref": "#/$defs/record" } },
+    "bySemanticClass": { "$ref": "#/$defs/invertedIndex" },
+    "byDomain": { "$ref": "#/$defs/invertedIndex" },
+    "byGlossToken": { "$ref": "#/$defs/invertedIndex" },
+    "semantic_classes": { "type": "array", "items": { "type": "object", "required": ["id"], "properties": { "id": { "type": "string", "minLength": 1 } }, "additionalProperties": true } }
+  },
+  "additionalProperties": true,
+  "$defs": {
+    "meta": {
+      "type": "object", "required": ["schema", "generated_at"],
+      "properties": {
+        "schema": { "const": "oq-related-index/0.2" },
+        "generated_at": { "type": "string", "format": "date-time" },
+        "attribution": { "type": "string" },
+        "license": { "type": "string" },
+        "sources": { "type": "object", "additionalProperties": { "type": "string", "format": "uri" } }
+      },
+      "additionalProperties": true
+    },
+    "invertedIndex": { "type": "object", "additionalProperties": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 1, "uniqueItems": true } },
+    "record": {
+      "type": "object", "required": ["id", "headword"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "headword": { "type": "string", "minLength": 1 },
+        "word_class": { "type": "string" },
+        "gloss_en": { "type": "array", "items": { "type": "string" } },
+        "gloss_da": { "type": "array", "items": { "type": "string" } },
+        "semantic_classes": { "type": "array", "items": { "type": "string" } },
+        "domain": { "anyOf": [{ "type": "null" }, { "type": "object", "required": ["id"], "properties": { "id": { "type": "string", "minLength": 1 } }, "additionalProperties": true }] },
+        "related": { "type": "array", "items": { "$ref": "#/$defs/related" } }
+      },
+      "additionalProperties": true
+    },
+    "related": {
+      "type": "object", "required": ["id", "headword", "score", "reasons"],
+      "properties": {
+        "id": { "type": "string", "minLength": 1 },
+        "headword": { "type": "string" },
+        "score": { "type": "number" },
+        "reasons": { "type": "array", "items": { "type": "string" } },
+        "shard": { "type": "string" }
+      },
+      "additionalProperties": true
+    }
+  }
+}

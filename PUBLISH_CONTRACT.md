@@ -1,5 +1,10 @@
 # Publish contract
 
+Machine-readable schemas are published in [`schema/`](schema/). The monolithic
+document is version `oq-related-index/0.2`; the shard manifest is version
+`oq-related-index-shards/0.1`. Consumers should validate the version they
+support and tolerate unknown fields.
+
 The public endpoint is a versioned JSON document. Consumers must tolerate
 unknown fields and missing optional fields.
 
