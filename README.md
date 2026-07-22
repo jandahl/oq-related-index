@@ -6,16 +6,14 @@ The generated data is built from the public Oqaasileriffik/Katersat exports. It
 is intended to support explainable semantic neighborhoods, not to assert that
 any two entries are synonyms.
 
-The published records include a bounded `related` array compiled from
-semantic-class, domain, and bilingual-gloss signals. Broad matches and weak
-single signals are filtered out; reciprocal relationships receive a small
-ranking bonus. Each item includes its source record id, score, and reasons so
-consumers can present or audit the result without reproducing the algorithm.
+## Automatic refresh
 
-For lower-memory consumers, `docs/manifest.json` and `docs/records/*.json`
-provide the same complete records split by normalized first letter. The
-monolithic `related-index.json` remains available; shard references on related
-items identify which additional record file to load.
+The `Update related index` Action checks the upstream source checksums daily and
+can also be started manually. It opens an update PR only when a source changes;
+the generated index must pass validation before that PR is eligible for
+automatic squash-merge. A failed or incomplete build leaves the last published
+`docs/` artifact untouched. Successful refreshes are recorded in
+`updates/refresh.log`.
 
 ## Build
 
@@ -24,13 +22,8 @@ npm run build
 ```
 
 The build downloads the pinned public JSON sources and writes compact indexes
-to `docs/`. The generated files are committed deployment artifacts and are
-published directly by GitHub Pages from `master/docs`.
-
-The scheduled `Update published index` workflow checks source and build-input
-fingerprints before generating anything. Changed inputs are built in a
-temporary directory, validated, and proposed in an auto-mergeable update PR;
-the existing published output is never replaced by a failed build.
+to `docs/`. The generated files are deployment artifacts and are published by
+GitHub Pages from this repository.
 
 ## Data and licensing
 

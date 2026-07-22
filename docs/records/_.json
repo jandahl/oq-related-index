@@ -183,7 +183,19 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": []
+      "related": [
+        {
+          "id": "lex_254326",
+          "score": 5.5,
+          "reasons": [
+            "same domain",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "napparsimannguatsiarpoq",
+          "shard": "n"
+        }
+      ]
     },
     {
       "id": "lex_260761",

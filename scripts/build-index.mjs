@@ -1,3 +1,4 @@
+import { createHash } from "node:crypto";
 import { mkdir, writeFile } from "node:fs/promises";
 import { compileRelatedness } from "./relatedness.mjs";
 import { addRelationShards, groupRecords, shardManifest } from "./shards.mjs";
@@ -5,6 +6,16 @@ import { addRelationShards, groupRecords, shardManifest } from "./shards.mjs";
 const LEXICON_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/lexicon.json";
 const SEMANTIC_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/semantic_classes.json";
 const outputDir = process.env.OUTPUT_DIR ?? "docs";
+
+async function source(url) {
+  const response = await fetch(url);
+  if (!response.ok) throw new Error(`Source fetch failed: ${url} (${response.status})`);
+  const bytes = Buffer.from(await response.arrayBuffer());
+  return {
+    checksum: createHash("sha256").update(bytes).digest("hex"),
+    value: JSON.parse(bytes.toString("utf8")),
+  };
+}
 
 function entries(raw) {
   if (Array.isArray(raw)) return raw;
@@ -22,16 +33,12 @@ function tokens(value) {
     .match(/[\p{L}\p{N}]+/gu) ?? [];
 }
 
-const [lexiconResponse, semanticResponse] = await Promise.all([
-  fetch(LEXICON_URL),
-  fetch(SEMANTIC_URL),
+const [lexiconSource, semanticSource] = await Promise.all([
+  source(LEXICON_URL),
+  source(SEMANTIC_URL),
 ]);
-if (!lexiconResponse.ok || !semanticResponse.ok) {
-  throw new Error(`Source fetch failed: lexicon=${lexiconResponse.status}, semantic=${semanticResponse.status}`);
-}
-
-const lexicon = entries(await lexiconResponse.json());
-const semantic = await semanticResponse.json();
+const lexicon = entries(lexiconSource.value);
+const semantic = semanticSource.value;
 const bySemanticClass = {};
 const byDomain = {};
 const byGlossToken = {};
@@ -101,6 +108,10 @@ await writeFile(`${outputDir}/related-index.json`, JSON.stringify({
     attribution: "Oqaasileriffik / Greenland Language Secretariat",
     license: "CC-BY-SA-4.0",
     sources: { lexicon: LEXICON_URL, semantic_classes: SEMANTIC_URL },
+    source_checksums: {
+      lexicon: lexiconSource.checksum,
+      semantic_classes: semanticSource.checksum,
+    },
   },
   records: compiledRecords,
   bySemanticClass,

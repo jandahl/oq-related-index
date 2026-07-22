@@ -1,8 +1,8 @@
-name: Update published index
+name: Update related index
 
 on:
   schedule:
-    - cron: "17 3 * * 1"
+    - cron: "17 3 * * *"
   workflow_dispatch:
 
 permissions:
@@ -19,51 +19,42 @@ jobs:
     steps:
       - uses: actions/checkout@v4
         with:
-          fetch-depth: 0
+          ref: master
       - uses: actions/setup-node@v4
         with:
           node-version: 22
-      - id: source-check
+      - name: Check upstream checksums
+        id: sources
+        run: npm run check:sources >> "$GITHUB_OUTPUT"
+      - name: Rebuild and validate
+        if: steps.sources.outputs.changed == 'true'
         run: |
-          result="$(node scripts/check-sources.mjs)"
-          echo "result=$result" >> "$GITHUB_OUTPUT"
-          echo "changed=$(node -e 'console.log(JSON.parse(process.argv[1]).changed)' "$result")" >> "$GITHUB_OUTPUT"
-      - if: steps.source-check.outputs.changed == 'false'
+          npm run build
+          npm run validate
+      - name: Record successful refresh
+        if: steps.sources.outputs.changed == 'true'
         run: |
-          printf '%s — checksum still %s, aborting before generation\n' "$(date -u +%F)" "$(node -e 'console.log(JSON.parse(process.argv[1]).build_fingerprint)' '${{ steps.source-check.outputs.result }}')" >> UPDATE_LOG.md
-      - if: steps.source-check.outputs.changed == 'true'
-        run: |
-          rm -rf .generated
-          OUTPUT_DIR=.generated/docs npm run build
-          node scripts/validate-index.mjs .generated/docs/related-index.json
-          node scripts/validate-shards.mjs .generated/docs/manifest.json .generated/docs
-          node scripts/check-sources.mjs .source-fingerprint.json --write
-          rm -rf docs
-          cp -R .generated/docs docs
-          printf '%s — checksum changed, generated and validated new output\n' "$(date -u +%F)" >> UPDATE_LOG.md
-      - if: steps.source-check.outputs.changed == 'true'
+          mkdir -p updates
+          printf '%s\tchecksums changed; rebuilt and validated\tlexicon=%s\tsemantic_classes=%s\n' \
+            "$(date -u +%Y-%m-%dT%H:%M:%SZ)" \
+            "${{ steps.sources.outputs.lexicon }}" \
+            "${{ steps.sources.outputs.semantic_classes }}" >> updates/refresh.log
+      - name: Create update PR
+        if: steps.sources.outputs.changed == 'true'
+        id: pull-request
+        uses: peter-evans/create-pull-request@v7
+        with:
+          base: master
+          branch: automation/related-index-refresh
+          delete-branch: true
+          commit-message: "chore: refresh related-word index"
+          title: "chore: refresh related-word index"
+          body: |
+            Automated rebuild after an upstream source checksum change.
+
+            The generated index passed `npm run validate`.
+      - name: Enable auto-merge
+        if: steps.pull-request.outputs.pull-request-number != ''
         env:
           GH_TOKEN: ${{ github.token }}
-        run: |
-          branch="automated/related-index-update-$(date -u +%Y%m%d)"
-          git switch -c "$branch"
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add docs .source-fingerprint.json UPDATE_LOG.md
-          git commit -m "chore: publish refreshed related index"
-          git push --set-upstream origin "$branch"
-          gh pr create --base master --head "$branch" --title "chore: publish refreshed related index" --body "Automated source update. Build and validation completed successfully."
-          gh pr merge --auto --squash "$branch"
-      - if: steps.source-check.outputs.changed == 'false'
-        env:
-          GH_TOKEN: ${{ github.token }}
-        run: |
-          branch="automated/related-index-check-$(date -u +%Y%m%d)"
-          git switch -c "$branch"
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add UPDATE_LOG.md
-          git commit -m "chore: record unchanged related index check"
-          git push --set-upstream origin "$branch"
-          gh pr create --base master --head "$branch" --title "chore: record related index check" --body "Automated source check: no published data or build inputs changed."
-          gh pr merge --auto --squash "$branch"
+        run: gh pr merge "${{ steps.pull-request.outputs.pull-request-number }}" --auto --squash --delete-branch

@@ -339,7 +339,7 @@
       "related": [
         {
           "id": "lex_266113",
-          "score": 18.593109404391484,
+          "score": 18.008146903670326,
           "reasons": [
             "same domain",
             "same word class",
@@ -6350,20 +6350,8 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_165974",
-          "score": 6.915037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "GE Der/nv LIR Der/vv",
-          "shard": "g"
-        },
-        {
           "id": "lex_148013",
-          "score": 6.415037499278844,
+          "score": 6.540568381362703,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -6374,7 +6362,7 @@
         },
         {
           "id": "lex_176884",
-          "score": 6.415037499278844,
+          "score": 6.540568381362703,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -6385,7 +6373,7 @@
         },
         {
           "id": "lex_1893",
-          "score": 6.415037499278844,
+          "score": 6.540568381362703,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -6396,7 +6384,7 @@
         },
         {
           "id": "lex_1897",
-          "score": 6.415037499278844,
+          "score": 6.540568381362703,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -6407,7 +6395,7 @@
         },
         {
           "id": "lex_1905",
-          "score": 6.415037499278844,
+          "score": 6.540568381362703,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -6418,7 +6406,7 @@
         },
         {
           "id": "lex_1906",
-          "score": 6.415037499278844,
+          "score": 6.540568381362703,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -6429,13 +6417,24 @@
         },
         {
           "id": "lex_207098",
-          "score": 6.415037499278844,
+          "score": 6.540568381362703,
           "reasons": [
             "same semantic class",
             "same word class",
             "reciprocal relatedness"
           ],
           "headword": "aningaasarsiorpoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_207451",
+          "score": 6.540568381362703,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "akissarsissutigaa",
           "shard": "a"
         }
       ]

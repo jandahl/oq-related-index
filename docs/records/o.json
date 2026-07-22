@@ -946,7 +946,7 @@
       "related": [
         {
           "id": "lex_124245",
-          "score": 6.21864028647534,
+          "score": 6.430144391669053,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1473,18 +1473,6 @@
           "shard": "e"
         },
         {
-          "id": "lex_165700",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "GE Der/nv Gram/TV",
-          "shard": "g"
-        },
-        {
           "id": "lex_32687",
           "score": 6.5,
           "reasons": [
@@ -1519,6 +1507,18 @@
           ],
           "headword": "akiligassaqarfigaa",
           "shard": "a"
+        },
+        {
+          "id": "lex_19765",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nuliaraa",
+          "shard": "n"
         }
       ]
     },
@@ -1567,7 +1567,7 @@
       "related": [
         {
           "id": "lex_20958",
-          "score": 7.5,
+          "score": 7.678071905112638,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness"
@@ -1809,7 +1809,7 @@
       "related": [
         {
           "id": "lex_20957",
-          "score": 7.5,
+          "score": 7.678071905112638,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness"
@@ -7492,7 +7492,7 @@
       "related": [
         {
           "id": "lex_20886",
-          "score": 6.752072486556415,
+          "score": 6.930144391669053,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -7504,7 +7504,7 @@
         },
         {
           "id": "lex_33321",
-          "score": 6.752072486556415,
+          "score": 6.930144391669053,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -34973,7 +34973,7 @@
       "related": [
         {
           "id": "lex_4813",
-          "score": 11.508146903670326,
+          "score": 11.830074998557688,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -34985,7 +34985,7 @@
         },
         {
           "id": "lex_590",
-          "score": 7.178071905112638,
+          "score": 7.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -34997,7 +34997,7 @@
         },
         {
           "id": "lex_623",
-          "score": 7.178071905112638,
+          "score": 7.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35006,18 +35006,6 @@
           ],
           "headword": "ajornarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_207675",
-          "score": 6.678071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "GUMINAR Der/vv IT Der/vv",
-          "shard": "g"
         },
         {
           "id": "lex_1037",
@@ -35066,6 +35054,18 @@
           ],
           "headword": "nukittuvoq",
           "shard": "n"
+        },
+        {
+          "id": "lex_10715",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "sakkortuvoq",
+          "shard": "s"
         }
       ]
     },
@@ -35736,7 +35736,7 @@
       "related": [
         {
           "id": "lex_120833",
-          "score": 7.678071905112638,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35746,19 +35746,8 @@
           "shard": "u"
         },
         {
-          "id": "lex_165514",
-          "score": 7.678071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "NGAAR Der/vv",
-          "shard": "n"
-        },
-        {
           "id": "lex_2405",
-          "score": 7.678071905112638,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35769,7 +35758,7 @@
         },
         {
           "id": "lex_2406",
-          "score": 7.678071905112638,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -40513,26 +40502,6 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_166272",
-          "score": 5.5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "LIRI Der/nv",
-          "shard": "l"
-        },
-        {
-          "id": "lex_166298",
-          "score": 5.5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "NNGU Der/nv",
-          "shard": "n"
-        },
-        {
           "id": "lex_21429",
           "score": 5.5,
           "reasons": [
@@ -43479,16 +43448,6 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_165321",
-          "score": 6,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "GUSUP Der/vv",
-          "shard": "g"
-        },
-        {
           "id": "lex_8730",
           "score": 5.5,
           "reasons": [
@@ -43699,18 +43658,6 @@
           "shard": "a"
         },
         {
-          "id": "lex_175855",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "TARIAANNAA Der/vv",
-          "shard": "t"
-        },
-        {
           "id": "lex_175885",
           "score": 6,
           "reasons": [
@@ -43757,6 +43704,18 @@
           ],
           "headword": "orrarippoq",
           "shard": "o"
+        },
+        {
+          "id": "lex_22752",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "piiavoq",
+          "shard": "p"
         }
       ]
     },
@@ -44572,6 +44531,16 @@
       "domain": null,
       "related": [
         {
+          "id": "lex_185120",
+          "score": 5.5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ornissavaa",
+          "shard": "o"
+        },
+        {
           "id": "lex_185114",
           "score": 5.415037499278844,
           "reasons": [
@@ -44580,16 +44549,6 @@
           ],
           "headword": "allaffigigallaak",
           "shard": "a"
-        },
-        {
-          "id": "lex_185120",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "ornissavaa",
-          "shard": "o"
         }
       ]
     },
@@ -44903,7 +44862,7 @@
       "related": [
         {
           "id": "lex_185122",
-          "score": 5,
+          "score": 5.5,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness"
@@ -47603,7 +47562,7 @@
         },
         {
           "id": "lex_21689",
-          "score": 9,
+          "score": 9.415037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -47768,7 +47727,7 @@
       "related": [
         {
           "id": "lex_21688",
-          "score": 9,
+          "score": 9.415037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -47801,18 +47760,6 @@
           ],
           "headword": "aqullaqqippoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_175855",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "TARIAANNAA Der/vv",
-          "shard": "t"
         },
         {
           "id": "lex_175885",
@@ -47861,6 +47808,18 @@
           ],
           "headword": "paasissaavoq",
           "shard": "p"
+        },
+        {
+          "id": "lex_34235",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ilisarnarpoq",
+          "shard": "i"
         }
       ]
     },
@@ -51272,6 +51231,56 @@
           ],
           "headword": "orsussaq",
           "shard": "o"
+        }
+      ]
+    },
+    {
+      "id": "lex_266185",
+      "headword": "orsussaq uumassusilinnit pilerfeqartoq",
+      "word_class": "t",
+      "gloss_en": [
+        "fossil fuel"
+      ],
+      "gloss_da": [
+        "fossilt brændsel",
+        "fossilt brændstof"
+      ],
+      "semantic_classes": [
+        "cm"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_220173",
+          "score": 9.678071905112638,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ikummatissaq uumassusilinnit pilerfeqartoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_266079",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ikummatissaq",
+          "shard": "i"
         }
       ]
     },

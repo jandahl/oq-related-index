@@ -1,7 +1,8 @@
 {
   "schema": "oq-related-index-shards/0.1",
-  "generated_at": "2026-07-21T05:30:23.558Z",
-  "record_count": 91348,
+  "schema_url": "https://jandahl.github.io/oq-related-index/schema/oq-related-index-shards-0.1.schema.json",
+  "generated_at": "2026-07-22T19:35:28.877Z",
+  "record_count": 86839,
   "shards": {
     "1": {
       "url": "records/1.json",
@@ -45,7 +46,7 @@
     },
     "a": {
       "url": "records/a.json",
-      "records": 14371
+      "records": 14254
     },
     "å": {
       "url": "records/%C3%A5.json",
@@ -81,39 +82,39 @@
     },
     "g": {
       "url": "records/g.json",
-      "records": 577
+      "records": 165
     },
     "h": {
       "url": "records/h.json",
-      "records": 131
+      "records": 130
     },
     "i": {
       "url": "records/i.json",
-      "records": 10635
+      "records": 10521
     },
     "j": {
       "url": "records/j.json",
-      "records": 284
+      "records": 234
     },
     "k": {
       "url": "records/k.json",
-      "records": 6899
+      "records": 6671
     },
     "l": {
       "url": "records/l.json",
-      "records": 562
+      "records": 121
     },
     "m": {
       "url": "records/m.json",
-      "records": 4160
+      "records": 4128
     },
     "n": {
       "url": "records/n.json",
-      "records": 11281
+      "records": 10324
     },
     "o": {
       "url": "records/o.json",
-      "records": 2043
+      "records": 2044
     },
     "ø": {
       "url": "records/%C3%B8.json",
@@ -121,31 +122,31 @@
     },
     "p": {
       "url": "records/p.json",
-      "records": 7769
+      "records": 7600
     },
     "q": {
       "url": "records/q.json",
-      "records": 7042
+      "records": 6776
     },
     "r": {
       "url": "records/r.json",
-      "records": 393
+      "records": 152
     },
     "s": {
       "url": "records/s.json",
-      "records": 8747
+      "records": 8227
     },
     "t": {
       "url": "records/t.json",
-      "records": 7754
+      "records": 6993
     },
     "u": {
       "url": "records/u.json",
-      "records": 4747
+      "records": 4639
     },
     "v": {
       "url": "records/v.json",
-      "records": 262
+      "records": 169
     },
     "w": {
       "url": "records/w.json",
