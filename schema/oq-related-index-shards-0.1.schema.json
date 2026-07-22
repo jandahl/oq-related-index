@@ -1,0 +1,14 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://jandahl.github.io/oq-related-index/schema/oq-related-index-shards-0.1.schema.json",
+  "title": "OQ related-word shard manifest 0.1",
+  "type": "object",
+  "required": ["schema", "generated_at", "record_count", "shards"],
+  "properties": {
+    "schema": { "const": "oq-related-index-shards/0.1" },
+    "generated_at": { "type": "string", "format": "date-time" },
+    "record_count": { "type": "integer", "minimum": 0 },
+    "shards": { "type": "object", "additionalProperties": { "type": "object", "required": ["url", "records"], "properties": { "url": { "type": "string" }, "records": { "type": "integer", "minimum": 1 } }, "additionalProperties": true } }
+  },
+  "additionalProperties": true
+}

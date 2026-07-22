@@ -67,6 +67,7 @@ for (const [key, shardRecords] of recordShards) {
 }
 await writeFile("dist/manifest.json", JSON.stringify({
   schema: "oq-related-index-shards/0.1",
+  schema_url: "https://jandahl.github.io/oq-related-index/schema/oq-related-index-shards-0.1.schema.json",
   generated_at: new Date().toISOString(),
   record_count: compiledRecords.length,
   shards: shardManifest(recordShards),
@@ -87,6 +88,7 @@ see the <a href="https://github.com/jandahl/oq-related-index/blob/master/NOTICE.
 await writeFile("dist/related-index.json", JSON.stringify({
   meta: {
     schema: "oq-related-index/0.2",
+    schema_url: "https://jandahl.github.io/oq-related-index/schema/oq-related-index-0.2.schema.json",
     relatedness: {
       algorithm: "bounded-signal-v1",
       limit: 8,
