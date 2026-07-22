@@ -1,6 +1,7 @@
 import { readFile } from "node:fs/promises";
 
-const file = process.argv[2] ?? "dist/manifest.json";
+const file = process.argv[2] ?? "docs/manifest.json";
+const root = process.argv[3] ?? "docs";
 const fail = (message) => {
   console.error(`${file}: ${message}`);
   process.exit(1);
@@ -21,7 +22,7 @@ for (const [key, entry] of Object.entries(manifest.shards)) {
   if (!entry || typeof entry.url !== "string" || !Number.isInteger(entry.records) || entry.records < 1) fail(`malformed shard ${key}`);
   let shard;
   try {
-    shard = JSON.parse(await readFile(`dist/${entry.url}`, "utf8"));
+    shard = JSON.parse(await readFile(`${root}/${entry.url}`, "utf8"));
   } catch (error) {
     fail(`failed to read ${entry.url}: ${error.message}`);
   }

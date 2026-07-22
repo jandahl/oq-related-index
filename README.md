@@ -12,7 +12,7 @@ single signals are filtered out; reciprocal relationships receive a small
 ranking bonus. Each item includes its source record id, score, and reasons so
 consumers can present or audit the result without reproducing the algorithm.
 
-For lower-memory consumers, `dist/manifest.json` and `dist/records/*.json`
+For lower-memory consumers, `docs/manifest.json` and `docs/records/*.json`
 provide the same complete records split by normalized first letter. The
 monolithic `related-index.json` remains available; shard references on related
 items identify which additional record file to load.
@@ -24,8 +24,13 @@ npm run build
 ```
 
 The build downloads the pinned public JSON sources and writes compact indexes
-to `dist/`. The generated files are deployment artifacts and are published by
-GitHub Pages from this repository.
+to `docs/`. The generated files are committed deployment artifacts and are
+published directly by GitHub Pages from `master/docs`.
+
+The scheduled `Update published index` workflow checks source and build-input
+fingerprints before generating anything. Changed inputs are built in a
+temporary directory, validated, and proposed in an auto-mergeable update PR;
+the existing published output is never replaced by a failed build.
 
 ## Data and licensing
 

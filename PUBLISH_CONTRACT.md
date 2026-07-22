@@ -1,9 +1,15 @@
 # Publish contract
 
-Machine-readable schemas are published in [`schema/`](schema/). The monolithic
+Machine-readable schemas are published in [`schema/`](schema/). The generated
+documents are published from [`docs/`](docs/). The monolithic
 document is version `oq-related-index/0.2`; the shard manifest is version
 `oq-related-index-shards/0.1`. Consumers should validate the version they
 support and tolerate unknown fields.
+
+The committed [`UPDATE_LOG.md`](UPDATE_LOG.md) records the updater's decision
+for each scheduled check. The source fingerprint state is kept in
+[`.source-fingerprint.json`](.source-fingerprint.json) and is updated only
+after a generated output has passed validation.
 
 The public endpoint is a versioned JSON document. Consumers must tolerate
 unknown fields and missing optional fields.

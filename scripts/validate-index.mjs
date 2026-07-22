@@ -1,6 +1,6 @@
 import { readFile } from "node:fs/promises";
 
-const file = process.argv[2] ?? "dist/related-index.json";
+const file = process.argv[2] ?? "docs/related-index.json";
 const fail = (message) => {
   console.error(`${file}: ${message}`);
   process.exit(1);
