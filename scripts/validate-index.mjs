@@ -1,6 +1,6 @@
 import { readFile } from "node:fs/promises";
 
-const file = process.argv[2] ?? "dist/related-index.json";
+const file = process.argv[2] ?? "docs/related-index.json";
 const fail = (message) => {
   console.error(`${file}: ${message}`);
   process.exit(1);
@@ -22,7 +22,7 @@ try {
 if (!index || typeof index !== "object" || Array.isArray(index)) fail("root must be an object");
 if (index.meta !== undefined) {
   if (!index.meta || typeof index.meta !== "object" || Array.isArray(index.meta)) fail("meta must be an object when present");
-  if (index.meta.schema !== undefined && index.meta.schema !== "oq-related-index/0.1") fail("meta.schema must be oq-related-index/0.1 when present");
+  if (index.meta.schema !== undefined && !["oq-related-index/0.1", "oq-related-index/0.2"].includes(index.meta.schema)) fail("meta.schema must be a supported oq-related-index schema when present");
   if (index.meta.generated_at !== undefined && (typeof index.meta.generated_at !== "string" || !/^\d{4}-\d{2}-\d{2}T\d{2}:\d{2}:\d{2}(?:\.\d{3})?Z$/.test(index.meta.generated_at) || Number.isNaN(Date.parse(index.meta.generated_at)))) {
     fail("meta.generated_at must be a valid ISO date when present");
   }

@@ -26,56 +26,6 @@
       ]
     },
     {
-      "id": "lex_261870",
-      "headword": "KAA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262239",
-      "headword": "KAA Der/vv LIR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263293",
-      "headword": "KAA Der/vv LIR Der/vv RIAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262240",
-      "headword": "KAA Der/vv SSA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264394",
-      "headword": "KAA Der/vv TIP Der/vv TUUR Der/vv TAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_179617",
       "headword": "kaaffapput",
       "word_class": "v",
@@ -1814,16 +1764,6 @@
       "semantic_classes": [
         "Lstar"
       ],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262241",
-      "headword": "KAALLAP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
       "domain": null,
       "related": []
     },
@@ -11690,16 +11630,6 @@
       "related": []
     },
     {
-      "id": "lex_262150",
-      "headword": "KAJAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_8796",
       "headword": "kajaaserpoq",
       "word_class": "v",
@@ -12588,16 +12518,16 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_165618",
-          "score": 7.142019004872428,
+          "id": "lex_153432",
+          "score": 6.040568381362703,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
             "reciprocal relatedness"
           ],
-          "headword": "GUMA Der/vv GUNNAIR Der/vv",
-          "shard": "g"
+          "headword": "taamaaqqunaqaaq",
+          "shard": "t"
         }
       ]
     },
@@ -13190,6 +13120,16 @@
           ],
           "headword": "piumanngitsoq",
           "shard": "p"
+        },
+        {
+          "id": "lex_20953",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "sualuginartoq",
+          "shard": "s"
         }
       ]
     },
@@ -19671,7 +19611,7 @@
       "related": [
         {
           "id": "lex_150635",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -19681,19 +19621,8 @@
           "shard": "p"
         },
         {
-          "id": "lex_165232",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "NNGUR Der/nv TIP Der/vv",
-          "shard": "n"
-        },
-        {
           "id": "lex_166811",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -19704,7 +19633,7 @@
         },
         {
           "id": "lex_166812",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -19715,7 +19644,7 @@
         },
         {
           "id": "lex_17244",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -19726,7 +19655,7 @@
         },
         {
           "id": "lex_174304",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -19737,7 +19666,7 @@
         },
         {
           "id": "lex_174568",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -19748,7 +19677,7 @@
         },
         {
           "id": "lex_182189",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -19756,6 +19685,17 @@
           ],
           "headword": "atugassaritippaa",
           "shard": "a"
+        },
+        {
+          "id": "lex_182755",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "piisappaa",
+          "shard": "p"
         }
       ]
     },
@@ -20601,7 +20541,7 @@
       "related": [
         {
           "id": "lex_17244",
-          "score": 7.415037499278844,
+          "score": 7.508146903670325,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -20613,7 +20553,7 @@
         },
         {
           "id": "lex_19986",
-          "score": 7.415037499278844,
+          "score": 7.508146903670325,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -20624,20 +20564,8 @@
           "shard": "n"
         },
         {
-          "id": "lex_165232",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "NNGUR Der/nv TIP Der/vv",
-          "shard": "n"
-        },
-        {
           "id": "lex_150635",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -20648,7 +20576,7 @@
         },
         {
           "id": "lex_166811",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -20659,7 +20587,7 @@
         },
         {
           "id": "lex_166812",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -20670,7 +20598,7 @@
         },
         {
           "id": "lex_174304",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -20681,7 +20609,7 @@
         },
         {
           "id": "lex_174568",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -20689,6 +20617,17 @@
           ],
           "headword": "ingerlaannartumik nutserpaa",
           "shard": "i"
+        },
+        {
+          "id": "lex_182189",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "atugassaritippaa",
+          "shard": "a"
         }
       ]
     },
@@ -28758,7 +28697,7 @@
           "shard": "n"
         },
         {
-          "id": "lex_163319",
+          "id": "lex_163797",
           "score": 6,
           "reasons": [
             "same semantic class",
@@ -28766,8 +28705,8 @@
             "shared gloss",
             "reciprocal relatedness"
           ],
-          "headword": "NNGUR Der/nv",
-          "shard": "n"
+          "headword": "tiingalerpoq",
+          "shard": "t"
         }
       ]
     },
@@ -29103,42 +29042,6 @@
           "shard": "m"
         },
         {
-          "id": "lex_165772",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASAK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_165776",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASIK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_165777",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASSAK Der/nn",
-          "shard": "k"
-        },
-        {
           "id": "lex_10537",
           "score": 5.5,
           "reasons": [
@@ -29156,6 +29059,36 @@
             "reciprocal relatedness"
           ],
           "headword": "ajortoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_131865",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "inuunanngitsoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_478",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "isumapilulik",
+          "shard": "i"
+        },
+        {
+          "id": "lex_708",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ajorpoq",
           "shard": "a"
         }
       ]
@@ -30607,7 +30540,20 @@
         "f-phys-h"
       ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_17149",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nasaqanngitsoq",
+          "shard": "n"
+        }
+      ]
     },
     {
       "id": "lex_9186",
@@ -39228,7 +39174,7 @@
       "related": [
         {
           "id": "lex_5528",
-          "score": 6.660149997115376,
+          "score": 6.77118130950412,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -39751,26 +39697,6 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": []
-    },
-    {
-      "id": "lex_262151",
-      "headword": "KANNIQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262152",
-      "headword": "KANNIR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
       "related": []
     },
     {
@@ -41344,7 +41270,7 @@
       "related": [
         {
           "id": "lex_207674",
-          "score": 9.660149997115376,
+          "score": 9.771181309504119,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -43925,137 +43851,6 @@
       "related": []
     },
     {
-      "id": "lex_261834",
-      "headword": "KAR",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_165769",
-      "headword": "KAR Der/nv",
-      "word_class": "v",
-      "gloss_en": [
-        "go to"
-      ],
-      "gloss_da": [
-        "tage til"
-      ],
-      "semantic_classes": [
-        "V.51.1.1"
-      ],
-      "domain": null,
-      "related": [
-        {
-          "id": "lex_5760",
-          "score": 7,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "atuariartorpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_15743",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "nakorsaliarpoq",
-          "shard": "n"
-        },
-        {
-          "id": "lex_15744",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "nakorsamukarpoq",
-          "shard": "n"
-        },
-        {
-          "id": "lex_15745",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "nakorsiarpoq",
-          "shard": "n"
-        },
-        {
-          "id": "lex_164048",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "GIARTUR Der/vv",
-          "shard": "g"
-        },
-        {
-          "id": "lex_25413",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "qanillattorpaa",
-          "shard": "q"
-        },
-        {
-          "id": "lex_6150",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "avunnarpoq",
-          "shard": "a"
-        }
-      ]
-    },
-    {
-      "id": "lex_262772",
-      "headword": "KAR Der/nv UTE Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_261871",
-      "headword": "KAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_260625",
       "headword": "karaati",
       "word_class": "t",
@@ -45765,88 +45560,6 @@
       "related": []
     },
     {
-      "id": "lex_165772",
-      "headword": "KASAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [
-        "poor",
-        "bad"
-      ],
-      "gloss_da": [
-        "sølle",
-        "slem",
-        "ringe",
-        "nuttet",
-        "sød",
-        "kær",
-        "stakkels"
-      ],
-      "semantic_classes": [
-        "f"
-      ],
-      "domain": null,
-      "related": [
-        {
-          "id": "lex_165777",
-          "score": 9.678071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASSAK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_165791",
-          "score": 7,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KATAK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_165776",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASIK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_814",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "kamanaatsoq",
-          "shard": "k"
-        }
-      ]
-    },
-    {
-      "id": "lex_262048",
-      "headword": "KASAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_175329",
       "headword": "kaseerpaa",
       "word_class": "v",
@@ -45965,109 +45678,6 @@
       ]
     },
     {
-      "id": "lex_165776",
-      "headword": "KASIK Der/nn",
-      "word_class": "t",
-      "gloss_en": [
-        "bad"
-      ],
-      "gloss_da": [
-        "slem"
-      ],
-      "semantic_classes": [
-        "f"
-      ],
-      "domain": null,
-      "related": [
-        {
-          "id": "lex_165772",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASAK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_165777",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASSAK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_814",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "kamanaatsoq",
-          "shard": "k"
-        }
-      ]
-    },
-    {
-      "id": "lex_262049",
-      "headword": "KASIK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263810",
-      "headword": "KASIK Der/nn NNGUR Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262773",
-      "headword": "KASIK Der/nn U Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262050",
-      "headword": "KASIP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262340",
-      "headword": "KASIP Der/vv QE Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_260755",
       "headword": "kaskoforsikringi",
       "word_class": "t",
@@ -46083,97 +45693,6 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": []
-    },
-    {
-      "id": "lex_165777",
-      "headword": "KASSAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [
-        "poor",
-        "bad",
-        "dear"
-      ],
-      "gloss_da": [
-        "sølle",
-        "slem",
-        "ringe",
-        "kær",
-        "stakkels"
-      ],
-      "semantic_classes": [
-        "f"
-      ],
-      "domain": null,
-      "related": [
-        {
-          "id": "lex_165772",
-          "score": 9.678071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASAK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_165791",
-          "score": 7,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KATAK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_165776",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASIK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_814",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "kamanaatsoq",
-          "shard": "k"
-        }
-      ]
-    },
-    {
-      "id": "lex_262153",
-      "headword": "KASSAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262154",
-      "headword": "KASSAP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
       "related": []
     },
     {
@@ -47454,52 +46973,6 @@
       "related": []
     },
     {
-      "id": "lex_175291",
-      "headword": "KATAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [
-        "time after time"
-      ],
-      "gloss_da": [
-        "igen og igen",
-        "gang på gang"
-      ],
-      "semantic_classes": [],
-      "domain": null,
-      "related": [
-        {
-          "id": "lex_165796",
-          "score": 6,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "QATTAAR Der/vv",
-          "shard": "q"
-        },
-        {
-          "id": "lex_207613",
-          "score": 6,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "TAR Der/vv QATTAAR Der/vv",
-          "shard": "t"
-        },
-        {
-          "id": "lex_207644",
-          "score": 6,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "TAR Der/vv QATTAAR Der/vv",
-          "shard": "t"
-        }
-      ]
-    },
-    {
       "id": "lex_9879",
       "headword": "kataasaq",
       "word_class": "t",
@@ -47701,57 +47174,6 @@
       "gloss_da": [
         "indgang"
       ],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_165791",
-      "headword": "KATAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [
-        "sølle",
-        "slem",
-        "ringe"
-      ],
-      "semantic_classes": [
-        "f"
-      ],
-      "domain": null,
-      "related": [
-        {
-          "id": "lex_165772",
-          "score": 7,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASAK Der/nn",
-          "shard": "k"
-        },
-        {
-          "id": "lex_165777",
-          "score": 7,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "KASSAK Der/nn",
-          "shard": "k"
-        }
-      ]
-    },
-    {
-      "id": "lex_262051",
-      "headword": "KATAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
       "semantic_classes": [],
       "domain": null,
       "related": []
@@ -48078,287 +47500,6 @@
       "id": "lex_9719",
       "headword": "katanniku",
       "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_164138",
-      "headword": "KATAP Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [
-        "være træt af"
-      ],
-      "semantic_classes": [
-        "V.1.7.1"
-      ],
-      "domain": null,
-      "related": [
-        {
-          "id": "lex_1094",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "suikkaavoq",
-          "shard": "s"
-        },
-        {
-          "id": "lex_124557",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "soqutaavoq",
-          "shard": "s"
-        },
-        {
-          "id": "lex_12876",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "mattuvoq",
-          "shard": "m"
-        },
-        {
-          "id": "lex_13261",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "qasuvoq",
-          "shard": "q"
-        },
-        {
-          "id": "lex_152900",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "tutoqarpoq",
-          "shard": "t"
-        },
-        {
-          "id": "lex_152901",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "ipertoorujussuuvoq",
-          "shard": "i"
-        },
-        {
-          "id": "lex_25844",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "qasoqqavoq",
-          "shard": "q"
-        },
-        {
-          "id": "lex_31600",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "saannarippoq",
-          "shard": "s"
-        }
-      ]
-    },
-    {
-      "id": "lex_262052",
-      "headword": "KATAP Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262053",
-      "headword": "KATAP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262542",
-      "headword": "KATAP Der/vv LIR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263811",
-      "headword": "KATAP Der/vv LIR Der/vv LLAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263812",
-      "headword": "KATAP Der/vv LLUINNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264879",
-      "headword": "KATAP Der/vv LLUINNAR Der/vv LIR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265631",
-      "headword": "KATAP Der/vv LLUINNAR Der/vv LIR Der/vv RIIR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265953",
-      "headword": "KATAP Der/vv LLUINNAR Der/vv LIR Der/vv RIIR Der/vv SIMA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265632",
-      "headword": "KATAP Der/vv LLUINNAR Der/vv LIR Der/vv SIMA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263044",
-      "headword": "KATAP Der/vv NIRAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264395",
-      "headword": "KATAP Der/vv SIMA Der/vv GUNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265069",
-      "headword": "KATAP Der/vv SIMA Der/vv GUNAR Der/vv QE Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265263",
-      "headword": "KATAP Der/vv SIMA Der/vv GUNAR Der/vv VIP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262543",
-      "headword": "KATAP Der/vv TAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264396",
-      "headword": "KATAP Der/vv TAR Der/vv GALUAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265070",
-      "headword": "KATAP Der/vv TAR Der/vv GALUAR Der/vv QE Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262544",
-      "headword": "KATAP Der/vv VIP Der/vv",
-      "word_class": "v",
       "gloss_en": [],
       "gloss_da": [],
       "semantic_classes": [],
@@ -49679,30 +48820,6 @@
           "shard": "p"
         },
         {
-          "id": "lex_166236",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "GIIAAR Der/nv",
-          "shard": "g"
-        },
-        {
-          "id": "lex_166253",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "U Der/nv",
-          "shard": "u"
-        },
-        {
           "id": "lex_183923",
           "score": 6,
           "reasons": [
@@ -49725,6 +48842,30 @@
           ],
           "headword": "ippoq",
           "shard": "i"
+        },
+        {
+          "id": "lex_22817",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "pikataavoq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_2659",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "aliasuutaavoq",
+          "shard": "a"
         }
       ]
     },
@@ -55428,18 +54569,6 @@
           "shard": "i"
         },
         {
-          "id": "lex_164808",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "RUJUP Der/vv SUAR Der/vv",
-          "shard": "r"
-        },
-        {
           "id": "lex_165898",
           "score": 6.5,
           "reasons": [
@@ -55485,6 +54614,18 @@
             "reciprocal relatedness"
           ],
           "headword": "allallaqqippoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_1037",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ajukkuppoq",
           "shard": "a"
         }
       ]
@@ -57024,16 +56165,6 @@
       "semantic_classes": [
         "anzo"
       ],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262155",
-      "headword": "KATTAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
       "domain": null,
       "related": []
     },
@@ -64451,7 +63582,7 @@
       "related": [
         {
           "id": "lex_166811",
-          "score": 8,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64463,7 +63594,7 @@
         },
         {
           "id": "lex_150635",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64473,19 +63604,8 @@
           "shard": "p"
         },
         {
-          "id": "lex_165232",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "NNGUR Der/nv TIP Der/vv",
-          "shard": "n"
-        },
-        {
           "id": "lex_17244",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64496,7 +63616,7 @@
         },
         {
           "id": "lex_174304",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64507,7 +63627,7 @@
         },
         {
           "id": "lex_174568",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64518,7 +63638,7 @@
         },
         {
           "id": "lex_182189",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64529,7 +63649,7 @@
         },
         {
           "id": "lex_182755",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64537,6 +63657,17 @@
           ],
           "headword": "piisappaa",
           "shard": "p"
+        },
+        {
+          "id": "lex_19986",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "nutserivoq",
+          "shard": "n"
         }
       ]
     },
@@ -64646,7 +63777,7 @@
       "related": [
         {
           "id": "lex_166812",
-          "score": 8,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64658,7 +63789,7 @@
         },
         {
           "id": "lex_150635",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64668,19 +63799,8 @@
           "shard": "p"
         },
         {
-          "id": "lex_165232",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "NNGUR Der/nv TIP Der/vv",
-          "shard": "n"
-        },
-        {
           "id": "lex_17244",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64691,7 +63811,7 @@
         },
         {
           "id": "lex_174304",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64702,7 +63822,7 @@
         },
         {
           "id": "lex_174568",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64713,7 +63833,7 @@
         },
         {
           "id": "lex_182189",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64724,7 +63844,7 @@
         },
         {
           "id": "lex_182755",
-          "score": 6,
+          "score": 6.093109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64732,6 +63852,17 @@
           ],
           "headword": "piisappaa",
           "shard": "p"
+        },
+        {
+          "id": "lex_19986",
+          "score": 6.093109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "nutserivoq",
+          "shard": "n"
         }
       ]
     },
@@ -82148,7 +81279,7 @@
       "related": [
         {
           "id": "lex_4187",
-          "score": 6.830074998557688,
+          "score": 7,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -82160,7 +81291,7 @@
         },
         {
           "id": "lex_7496",
-          "score": 6.830074998557688,
+          "score": 7,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -82172,7 +81303,7 @@
         },
         {
           "id": "lex_7497",
-          "score": 6.830074998557688,
+          "score": 7,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -82184,7 +81315,7 @@
         },
         {
           "id": "lex_7499",
-          "score": 6.830074998557688,
+          "score": 7,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -82195,32 +81326,8 @@
           "shard": "i"
         },
         {
-          "id": "lex_165645",
-          "score": 6.330074998557688,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "GISSAAR Der/nv",
-          "shard": "g"
-        },
-        {
-          "id": "lex_167064",
-          "score": 6.330074998557688,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "LUP Der/nv",
-          "shard": "l"
-        },
-        {
           "id": "lex_2105",
-          "score": 6.330074998557688,
+          "score": 6.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -82232,7 +81339,7 @@
         },
         {
           "id": "lex_5058",
-          "score": 6.330074998557688,
+          "score": 6.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -82241,6 +81348,30 @@
           ],
           "headword": "assakippoq",
           "shard": "a"
+        },
+        {
+          "id": "lex_7495",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "iillarippoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_7498",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "nerrerippoq",
+          "shard": "n"
         }
       ]
     },
@@ -82539,16 +81670,6 @@
           ],
           "headword": "killeqqutsivoq",
           "shard": "k"
-        },
-        {
-          "id": "lex_170717",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "NNGUJUUR Der/vv",
-          "shard": "n"
         }
       ]
     },
@@ -82595,16 +81716,6 @@
     {
       "id": "lex_10463",
       "headword": "killersorpaa",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262054",
-      "headword": "KILLI Der/nv",
       "word_class": "v",
       "gloss_en": [],
       "gloss_da": [],
@@ -86447,16 +85558,6 @@
       ]
     },
     {
-      "id": "lex_262242",
-      "headword": "KILLIUR Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_10553",
       "headword": "killiusoq",
       "word_class": "t",
@@ -90172,7 +89273,7 @@
       "related": [
         {
           "id": "lex_121604",
-          "score": 8.034215715337913,
+          "score": 8.154509949055624,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -90184,7 +89285,7 @@
         },
         {
           "id": "lex_151719",
-          "score": 8.034215715337913,
+          "score": 8.154509949055624,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -90196,7 +89297,7 @@
         },
         {
           "id": "lex_3131",
-          "score": 6.356143810225276,
+          "score": 6.476438043942987,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -90208,7 +89309,7 @@
         },
         {
           "id": "lex_3208",
-          "score": 6.356143810225276,
+          "score": 6.476438043942987,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -96265,18 +95366,6 @@
           "shard": "e"
         },
         {
-          "id": "lex_165700",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "GE Der/nv Gram/TV",
-          "shard": "g"
-        },
-        {
           "id": "lex_167686",
           "score": 6,
           "reasons": [
@@ -97480,7 +96569,7 @@
       "related": [
         {
           "id": "lex_170364",
-          "score": 7.39266968625039,
+          "score": 7.5991205637178165,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -97491,7 +96580,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 6.593109404391481,
+          "score": 6.799560281858907,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -97503,7 +96592,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 6.093109404391481,
+          "score": 6.299560281858907,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -97513,19 +96602,8 @@
           "shard": "p"
         },
         {
-          "id": "lex_165507",
-          "score": 6.093109404391481,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "A Der/vv",
-          "shard": "a"
-        },
-        {
           "id": "lex_166793",
-          "score": 6.093109404391481,
+          "score": 6.299560281858907,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -97536,7 +96614,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 6.093109404391481,
+          "score": 6.299560281858907,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -97546,19 +96624,8 @@
           "shard": "a"
         },
         {
-          "id": "lex_207270",
-          "score": 6.093109404391481,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "QQIP Der/vv",
-          "shard": "q"
-        },
-        {
           "id": "lex_30744",
-          "score": 6.093109404391481,
+          "score": 6.299560281858907,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -97566,6 +96633,28 @@
           ],
           "headword": "sivitsorpoq",
           "shard": "s"
+        },
+        {
+          "id": "lex_32500",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "aammaarpoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_35510",
+          "score": 6.299560281858907,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness"
+          ],
+          "headword": "uterpaa",
+          "shard": "u"
         }
       ]
     },
@@ -100523,7 +99612,7 @@
       "related": [
         {
           "id": "lex_178025",
-          "score": 6.997184984392947,
+          "score": 7.10821629678169,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -100534,7 +99623,7 @@
         },
         {
           "id": "lex_183882",
-          "score": 6.997184984392947,
+          "score": 7.10821629678169,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -104810,7 +103899,7 @@
       "related": [
         {
           "id": "lex_10981",
-          "score": 5.415037499278844,
+          "score": 6.330074998557688,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness"
@@ -104820,7 +103909,7 @@
         },
         {
           "id": "lex_146020",
-          "score": 5.415037499278844,
+          "score": 6.330074998557688,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness"
@@ -105372,6 +104461,16 @@
           ],
           "headword": "akoqarpoq",
           "shard": "a"
+        },
+        {
+          "id": "lex_40437",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "iluaallannarpoq",
+          "shard": "i"
         },
         {
           "id": "lex_7616",
@@ -106297,7 +105396,7 @@
       "related": [
         {
           "id": "lex_30652",
-          "score": 7,
+          "score": 7.415037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -106305,18 +105404,6 @@
             "reciprocal relatedness"
           ],
           "headword": "siunissaq",
-          "shard": "s"
-        },
-        {
-          "id": "lex_163396",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "SSAQ Der/nn",
           "shard": "s"
         }
       ]
@@ -107571,18 +106658,8 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_165289",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "ALUP Der/vv",
-          "shard": "a"
-        },
-        {
           "id": "lex_4264",
-          "score": 5,
+          "score": 5.415037499278844,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness"
@@ -108939,18 +108016,6 @@
           "shard": "p"
         },
         {
-          "id": "lex_165651",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "GUMINAR Der/vv",
-          "shard": "g"
-        },
-        {
           "id": "lex_21689",
           "score": 6,
           "reasons": [
@@ -109278,134 +108343,6 @@
       ]
     },
     {
-      "id": "lex_261872",
-      "headword": "KIP Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262545",
-      "headword": "KIP Der/nv GE Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262546",
-      "headword": "KIP Der/nv LI Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_165806",
-      "headword": "KIP Der/nv LLIUR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [
-        "mangle",
-        "have for lidt"
-      ],
-      "semantic_classes": [
-        "V.5.3"
-      ],
-      "domain": null,
-      "related": [
-        {
-          "id": "lex_121614",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "amigartoorpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_25041",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "qajukilliorpoq",
-          "shard": "q"
-        },
-        {
-          "id": "lex_3228",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "amikkisaarpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_40841",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "inikilliorpoq",
-          "shard": "i"
-        },
-        {
-          "id": "lex_165664",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "ILATSI Der/nv",
-          "shard": "i"
-        },
-        {
-          "id": "lex_17712",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "nerisakilliorpoq",
-          "shard": "n"
-        }
-      ]
-    },
-    {
-      "id": "lex_263045",
-      "headword": "KIP Der/nv NAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_11253",
       "headword": "kipaallappaa",
       "word_class": "v",
@@ -109518,7 +108455,7 @@
       "related": [
         {
           "id": "lex_11158",
-          "score": 6.692645077942396,
+          "score": 6.745112497836532,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -109530,7 +108467,7 @@
         },
         {
           "id": "lex_149507",
-          "score": 6.692645077942396,
+          "score": 6.745112497836532,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -109542,7 +108479,7 @@
         },
         {
           "id": "lex_22734",
-          "score": 6.192645077942396,
+          "score": 6.245112497836532,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -110002,7 +108939,7 @@
       "related": [
         {
           "id": "lex_11143",
-          "score": 6.692645077942396,
+          "score": 6.745112497836532,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -110014,7 +108951,7 @@
         },
         {
           "id": "lex_149507",
-          "score": 6.692645077942396,
+          "score": 6.745112497836532,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -110026,7 +108963,7 @@
         },
         {
           "id": "lex_22734",
-          "score": 6.192645077942396,
+          "score": 6.245112497836532,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -110376,7 +109313,7 @@
       "related": [
         {
           "id": "lex_8555",
-          "score": 7.415037499278844,
+          "score": 7.915037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -110385,6 +109322,16 @@
           ],
           "headword": "naassaanngitsoq",
           "shard": "n"
+        },
+        {
+          "id": "lex_175554",
+          "score": 5,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "piuaannartoq",
+          "shard": "p"
         }
       ]
     },
@@ -110469,16 +109416,6 @@
           ],
           "headword": "soraajuitsoq",
           "shard": "s"
-        },
-        {
-          "id": "lex_165273",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "TUAR Der/vv",
-          "shard": "t"
         }
       ]
     },
@@ -110501,7 +109438,7 @@
       "related": [
         {
           "id": "lex_11168",
-          "score": 7.057056504151272,
+          "score": 7.391475543221831,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -110513,7 +109450,7 @@
         },
         {
           "id": "lex_11224",
-          "score": 6.557056504151272,
+          "score": 6.891475543221831,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -110525,7 +109462,7 @@
         },
         {
           "id": "lex_2131",
-          "score": 6.142019004872428,
+          "score": 6.476438043942987,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -111607,7 +110544,7 @@
       "related": [
         {
           "id": "lex_11167",
-          "score": 6.557056504151272,
+          "score": 6.891475543221831,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -112041,36 +110978,6 @@
       ]
     },
     {
-      "id": "lex_262156",
-      "headword": "KISAAR Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264103",
-      "headword": "KISAAR Der/nv NNGIT Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262157",
-      "headword": "KISAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_11496",
       "headword": "kisaaraq",
       "word_class": "t",
@@ -112376,16 +111283,6 @@
     {
       "id": "lex_11261",
       "headword": "kisaqqavoq",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262055",
-      "headword": "KISAR Der/vv",
       "word_class": "v",
       "gloss_en": [],
       "gloss_da": [],
@@ -113859,7 +112756,7 @@
       "related": [
         {
           "id": "lex_3188",
-          "score": 6.245112497836532,
+          "score": 6.607682577221239,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -113868,6 +112765,18 @@
           ],
           "headword": "amiakkuuvoq",
           "shard": "a"
+        },
+        {
+          "id": "lex_35578",
+          "score": 6.107682577221239,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "uumavoq",
+          "shard": "u"
         }
       ]
     },
@@ -113926,7 +112835,7 @@
       "related": [
         {
           "id": "lex_207379",
-          "score": 8.915037499278844,
+          "score": 9.178071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -113938,7 +112847,7 @@
         },
         {
           "id": "lex_207382",
-          "score": 8.915037499278844,
+          "score": 9.178071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -113949,19 +112858,8 @@
           "shard": "k"
         },
         {
-          "id": "lex_207701",
-          "score": 7.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "PAK Der/nn SUAQ Der/nn",
-          "shard": "p"
-        },
-        {
           "id": "lex_208163",
-          "score": 7.415037499278844,
+          "score": 7.678071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -113972,7 +112870,7 @@
         },
         {
           "id": "lex_208198",
-          "score": 7.415037499278844,
+          "score": 7.678071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -114228,7 +113126,7 @@
       "related": [
         {
           "id": "lex_166449",
-          "score": 8.915037499278844,
+          "score": 9.178071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -114240,7 +113138,7 @@
         },
         {
           "id": "lex_207382",
-          "score": 8.915037499278844,
+          "score": 9.178071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -114251,19 +113149,8 @@
           "shard": "k"
         },
         {
-          "id": "lex_207701",
-          "score": 7.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "PAK Der/nn SUAQ Der/nn",
-          "shard": "p"
-        },
-        {
           "id": "lex_208163",
-          "score": 7.415037499278844,
+          "score": 7.678071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -114274,7 +113161,7 @@
         },
         {
           "id": "lex_208198",
-          "score": 7.415037499278844,
+          "score": 7.678071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -115115,19 +114002,8 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_165514",
-          "score": 7.192645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "NGAAR Der/vv",
-          "shard": "n"
-        },
-        {
           "id": "lex_22288",
-          "score": 7.192645077942396,
+          "score": 7.415037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -115138,7 +114014,7 @@
         },
         {
           "id": "lex_34312",
-          "score": 7.192645077942396,
+          "score": 7.415037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -115149,7 +114025,7 @@
         },
         {
           "id": "lex_34313",
-          "score": 7.192645077942396,
+          "score": 7.415037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -115160,7 +114036,7 @@
         },
         {
           "id": "lex_34315",
-          "score": 7.192645077942396,
+          "score": 7.415037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -115171,7 +114047,7 @@
         },
         {
           "id": "lex_40936",
-          "score": 7.192645077942396,
+          "score": 7.415037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -121703,7 +120579,7 @@
       "related": [
         {
           "id": "lex_166449",
-          "score": 8.915037499278844,
+          "score": 9.178071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -121715,7 +120591,7 @@
         },
         {
           "id": "lex_207379",
-          "score": 8.915037499278844,
+          "score": 9.178071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -121726,19 +120602,8 @@
           "shard": "k"
         },
         {
-          "id": "lex_207701",
-          "score": 7.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "PAK Der/nn SUAQ Der/nn",
-          "shard": "p"
-        },
-        {
           "id": "lex_208163",
-          "score": 7.415037499278844,
+          "score": 7.678071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -121749,7 +120614,7 @@
         },
         {
           "id": "lex_208198",
-          "score": 7.415037499278844,
+          "score": 7.678071905112638,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -122605,7 +121470,7 @@
       "related": [
         {
           "id": "lex_131821",
-          "score": 6.642019004872428,
+          "score": 7.040568381362703,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -122644,20 +121509,8 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_166132",
-          "score": 7.830074998557688,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "QQU Der/vv NAR Der/vv TUQ Der/vn",
-          "shard": "q"
-        },
-        {
           "id": "lex_613",
-          "score": 7.830074998557688,
+          "score": 9,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -124670,7 +123523,7 @@
       "related": [
         {
           "id": "lex_11485",
-          "score": 6.642019004872428,
+          "score": 7.040568381362703,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -130983,261 +129836,6 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": []
-    },
-    {
-      "id": "lex_262056",
-      "headword": "KKAAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262243",
-      "headword": "KKAJAAQ Der/vn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264104",
-      "headword": "KKAJAAQ Der/vn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262244",
-      "headword": "KKATAAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263294",
-      "headword": "KKATAAQ Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262158",
-      "headword": "KKULUK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262341",
-      "headword": "KKUMINAR Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_261944",
-      "headword": "KKUP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_261945",
-      "headword": "KKUQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_261946",
-      "headword": "KKUT Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262342",
-      "headword": "KKUT Der/nn MIU Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262547",
-      "headword": "KKUT Der/nn MIUQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_165768",
-      "headword": "KKUUR Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [
-        "gå igennem",
-        "igennem"
-      ],
-      "semantic_classes": [
-        "V.47.8.2"
-      ],
-      "domain": null,
-      "related": [
-        {
-          "id": "lex_4484",
-          "score": 8,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "aqqulliorpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_122106",
-          "score": 7.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "aqqutigaa",
-          "shard": "a"
-        },
-        {
-          "id": "lex_148638",
-          "score": 7,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "angalaffigaa",
-          "shard": "a"
-        },
-        {
-          "id": "lex_182396",
-          "score": 7,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tallini paarlappai",
-          "shard": "t"
-        },
-        {
-          "id": "lex_182872",
-          "score": 7,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "ipperpai",
-          "shard": "i"
-        },
-        {
-          "id": "lex_30406",
-          "score": 7,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "sipporpaa",
-          "shard": "s"
-        },
-        {
-          "id": "lex_40048",
-          "score": 7,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "ikaarpoq",
-          "shard": "i"
-        }
-      ]
-    },
-    {
-      "id": "lex_262057",
-      "headword": "KKUUR Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262343",
-      "headword": "KKUUTAAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262344",
-      "headword": "KKUUTAAR Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264105",
-      "headword": "KKUUTAAR Der/nv UTE Der/vn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
       "related": []
     },
     {
@@ -140069,16 +138667,6 @@
       "related": []
     },
     {
-      "id": "lex_261848",
-      "headword": "KU Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_11683",
       "headword": "kuanneq",
       "word_class": "t",
@@ -144692,846 +143280,6 @@
       "related": []
     },
     {
-      "id": "lex_262058",
-      "headword": "KUJUK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262059",
-      "headword": "KUJUP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263295",
-      "headword": "KUJUP Der/vv GALUAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263046",
-      "headword": "KUJUP Der/vv GUNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263551",
-      "headword": "KUJUP Der/vv GUNNAIR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263047",
-      "headword": "KUJUP Der/vv INNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262774",
-      "headword": "KUJUP Der/vv LAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262548",
-      "headword": "KUJUP Der/vv LIR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263813",
-      "headword": "KUJUP Der/vv LIR Der/vv RIAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262775",
-      "headword": "KUJUP Der/vv SIMA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263048",
-      "headword": "KUJUP Der/vv SSAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264880",
-      "headword": "KUJUP Der/vv SSAAR Der/vv GALUAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262549",
-      "headword": "KUJUP Der/vv TAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264397",
-      "headword": "KUJUP Der/vv TAR Der/vv GALUAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262159",
-      "headword": "KUJUUQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263049",
-      "headword": "KUJUUQ Der/nn ARAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264654",
-      "headword": "KUJUUQ Der/nn ARAQ Der/nn KASIK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264881",
-      "headword": "KUJUUQ Der/nn ARAQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264398",
-      "headword": "KUJUUQ Der/nn ARAQ Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264399",
-      "headword": "KUJUUQ Der/nn ARAQ Der/nn USAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265633",
-      "headword": "KUJUUQ Der/nn ARAQ Der/nn USAQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263552",
-      "headword": "KUJUUQ Der/nn GALUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263296",
-      "headword": "KUJUUQ Der/nn INNAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265071",
-      "headword": "KUJUUQ Der/nn INNAQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264655",
-      "headword": "KUJUUQ Der/nn INNAQ Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264400",
-      "headword": "KUJUUQ Der/nn INNAQ Der/nn VIK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265416",
-      "headword": "KUJUUQ Der/nn INNAQ Der/nn VIK Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263297",
-      "headword": "KUJUUQ Der/nn KASIK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263553",
-      "headword": "KUJUUQ Der/nn KULLAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264882",
-      "headword": "KUJUUQ Der/nn KULLAK Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263050",
-      "headword": "KUJUUQ Der/nn LIAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264883",
-      "headword": "KUJUUQ Der/nn LIAQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262776",
-      "headword": "KUJUUQ Der/nn LIK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265417",
-      "headword": "KUJUUQ Der/nn LIK Der/nn RUJUK Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264106",
-      "headword": "KUJUUQ Der/nn LIK Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263298",
-      "headword": "KUJUUQ Der/nn MINIQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265072",
-      "headword": "KUJUUQ Der/nn MINIQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264656",
-      "headword": "KUJUUQ Der/nn MINIQ Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263554",
-      "headword": "KUJUUQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265073",
-      "headword": "KUJUUQ Der/nn NNGUAQ Der/nn INNAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265074",
-      "headword": "KUJUUQ Der/nn NNGUAQ Der/nn KULUK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263555",
-      "headword": "KUJUUQ Der/nn PALAAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265264",
-      "headword": "KUJUUQ Der/nn PALAAQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264884",
-      "headword": "KUJUUQ Der/nn PALAAQ Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263051",
-      "headword": "KUJUUQ Der/nn PIAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264885",
-      "headword": "KUJUUQ Der/nn PIAQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263299",
-      "headword": "KUJUUQ Der/nn PILUK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264401",
-      "headword": "KUJUUQ Der/nn PILUK Der/nn LIK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265532",
-      "headword": "KUJUUQ Der/nn PILUK Der/nn LIK Der/nn RUJUK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265920",
-      "headword": "KUJUUQ Der/nn PILUK Der/nn LIK Der/nn RUJUK Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265418",
-      "headword": "KUJUUQ Der/nn PILUK Der/nn LIK Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264657",
-      "headword": "KUJUUQ Der/nn PILUK Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265265",
-      "headword": "KUJUUQ Der/nn RALAAQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263300",
-      "headword": "KUJUUQ Der/nn RUJUK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264658",
-      "headword": "KUJUUQ Der/nn RUJUK Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263052",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264886",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn GALUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264659",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn INNAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264107",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn LIK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264660",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn MINIQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264402",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn SIAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265533",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn SIAQ Der/nn KKAAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265419",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn SIAQ Der/nn SSAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264403",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265075",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn TSIALAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264404",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn TUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265634",
-      "headword": "KUJUUQ Der/nn SSAQ Der/nn TUAQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263053",
-      "headword": "KUJUUQ Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264405",
-      "headword": "KUJUUQ Der/nn SUAQ Der/nn ARAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265534",
-      "headword": "KUJUUQ Der/nn SUAQ Der/nn ARAQ Der/nn KASIK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264406",
-      "headword": "KUJUUQ Der/nn SUAQ Der/nn KKUT Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264661",
-      "headword": "KUJUUQ Der/nn SUAQ Der/nn USAAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265535",
-      "headword": "KUJUUQ Der/nn SUAQ Der/nn USAAQ Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264407",
-      "headword": "KUJUUQ Der/nn SUAQ Der/nn USAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265420",
-      "headword": "KUJUUQ Der/nn SUAQ Der/nn USAQ Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263814",
-      "headword": "KUJUUQ Der/nn TSIALAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263054",
-      "headword": "KUJUUQ Der/nn TUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264887",
-      "headword": "KUJUUQ Der/nn TUAQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263301",
-      "headword": "KUJUUQ Der/nn USAAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263055",
-      "headword": "KUJUUQ Der/nn USAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264888",
-      "headword": "KUJUUQ Der/nn USAQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262777",
-      "headword": "KUJUUQ Der/nn VIK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264108",
-      "headword": "KUJUUQ Der/nn VIK Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262160",
-      "headword": "KUJUUR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_11805",
       "headword": "kukeersineq",
       "word_class": "t",
@@ -149247,96 +146995,6 @@
       "related": []
     },
     {
-      "id": "lex_261947",
-      "headword": "KULA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262778",
-      "headword": "KULA Der/vv NIQAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264408",
-      "headword": "KULA Der/vv NIQAR Der/vv NNGIT Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262161",
-      "headword": "KULAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262779",
-      "headword": "KULAAR Der/vv LIR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263302",
-      "headword": "KULAAR Der/vv NIQAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264889",
-      "headword": "KULAAR Der/vv NIQAR Der/vv NNGIT Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263815",
-      "headword": "KULAAR Der/vv VALLAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262060",
-      "headword": "KULAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_11933",
       "headword": "kulavaaraq",
       "word_class": "t",
@@ -149473,46 +147131,6 @@
       "semantic_classes": [
         "Hattr"
       ],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262162",
-      "headword": "KULLAK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263056",
-      "headword": "KULLAK Der/nn SUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262163",
-      "headword": "KULLAP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263057",
-      "headword": "KULLAP Der/vv TSIP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
       "domain": null,
       "related": []
     },
@@ -151444,68 +149062,8 @@
       ]
     },
     {
-      "id": "lex_262061",
-      "headword": "KULUK Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_11955",
       "headword": "kulumpisorpoq",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262062",
-      "headword": "KULUP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262345",
-      "headword": "KULUP Der/vv QE Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262780",
-      "headword": "KULUP Der/vv TUAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263816",
-      "headword": "KULUP Der/vv TUAR Der/vv SSA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264890",
-      "headword": "KULUP Der/vv TUAR Der/vv SSA Der/vv NIR Der/vv",
       "word_class": "v",
       "gloss_en": [],
       "gloss_da": [],
@@ -151522,26 +149080,6 @@
       "semantic_classes": [
         "L"
       ],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262164",
-      "headword": "KULUUQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262165",
-      "headword": "KULUUR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
       "domain": null,
       "related": []
     },
@@ -155622,46 +153160,6 @@
         "danish": "MED MEDICIN",
         "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
       },
-      "related": []
-    },
-    {
-      "id": "lex_261873",
-      "headword": "KUQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262781",
-      "headword": "KUQ Der/nn NNGUAQ Der/nn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262550",
-      "headword": "KUQ Der/nn UR Der/nv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264409",
-      "headword": "KUQ Der/nn UR Der/nv VIK Der/vn",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
       "related": []
     },
     {
@@ -161068,196 +158566,6 @@
       "related": []
     },
     {
-      "id": "lex_262166",
-      "headword": "KUSUUR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263303",
-      "headword": "KUSUUR Der/vv GUNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262782",
-      "headword": "KUSUUR Der/vv LIR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264109",
-      "headword": "KUSUUR Der/vv LIR Der/vv SIMA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264110",
-      "headword": "KUSUUR Der/vv LLUINNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265266",
-      "headword": "KUSUUR Der/vv LLUINNAR Der/vv SIMA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263304",
-      "headword": "KUSUUR Der/vv NIRAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263058",
-      "headword": "KUSUUR Der/vv SIMA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264662",
-      "headword": "KUSUUR Der/vv SIMA Der/vv GUNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265421",
-      "headword": "KUSUUR Der/vv SIMA Der/vv GUNAR Der/vv VIP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264111",
-      "headword": "KUSUUR Der/vv SIMA Der/vv SSA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262783",
-      "headword": "KUSUUR Der/vv SSA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264410",
-      "headword": "KUSUUR Der/vv SSA Der/vv GUNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262784",
-      "headword": "KUSUUR Der/vv TAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264663",
-      "headword": "KUSUUR Der/vv TAR Der/vv GALUAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262785",
-      "headword": "KUSUUR Der/vv TIP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263817",
-      "headword": "KUSUUR Der/vv TIP Der/vv HTR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_262786",
-      "headword": "KUSUUR Der/vv VIP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264411",
-      "headword": "KUSUUR Der/vv VIP Der/vv GUNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
       "id": "lex_12266",
       "headword": "kutaa",
       "word_class": "intj",
@@ -162110,256 +159418,6 @@
           "shard": "m"
         }
       ]
-    },
-    {
-      "id": "lex_262245",
-      "headword": "KUTSUUR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263818",
-      "headword": "KUTSUUR Der/vv GALLAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263819",
-      "headword": "KUTSUUR Der/vv GALUAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264112",
-      "headword": "KUTSUUR Der/vv GIARTUR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263305",
-      "headword": "KUTSUUR Der/vv GUMA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263556",
-      "headword": "KUTSUUR Der/vv GUSUP Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263557",
-      "headword": "KUTSUUR Der/vv INNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264412",
-      "headword": "KUTSUUR Der/vv LLATTAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263558",
-      "headword": "KUTSUUR Der/vv NGAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263306",
-      "headword": "KUTSUUR Der/vv NIAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264113",
-      "headword": "KUTSUUR Der/vv QATTAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263059",
-      "headword": "KUTSUUR Der/vv QQU Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263307",
-      "headword": "KUTSUUR Der/vv RIAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263308",
-      "headword": "KUTSUUR Der/vv SIMA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263820",
-      "headword": "KUTSUUR Der/vv SINNAA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263821",
-      "headword": "KUTSUUR Der/vv SINNAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263060",
-      "headword": "KUTSUUR Der/vv SSA Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264664",
-      "headword": "KUTSUUR Der/vv SSA Der/vv NIRAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265736",
-      "headword": "KUTSUUR Der/vv SSA Der/vv NIRAR Der/vv GALUAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265422",
-      "headword": "KUTSUUR Der/vv SSA Der/vv NIRAR Der/vv TAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264114",
-      "headword": "KUTSUUR Der/vv SSAMAAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265267",
-      "headword": "KUTSUUR Der/vv SSAMAAR Der/vv TIGE Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_265921",
-      "headword": "KUTSUUR Der/vv SSAMAAR Der/vv TIGE Der/vv GALUAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_263061",
-      "headword": "KUTSUUR Der/vv TAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
-    },
-    {
-      "id": "lex_264891",
-      "headword": "KUTSUUR Der/vv TAR Der/vv GALUAR Der/vv",
-      "word_class": "v",
-      "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
     },
     {
       "id": "lex_120469",
@@ -164315,30 +161373,6 @@
           "shard": "p"
         },
         {
-          "id": "lex_166236",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "GIIAAR Der/nv",
-          "shard": "g"
-        },
-        {
-          "id": "lex_166253",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "U Der/nv",
-          "shard": "u"
-        },
-        {
           "id": "lex_183923",
           "score": 6,
           "reasons": [
@@ -164373,6 +161407,30 @@
           ],
           "headword": "pikataavoq",
           "shard": "p"
+        },
+        {
+          "id": "lex_2659",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "aliasuutaavoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_2961",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "alliuvoq",
+          "shard": "a"
         }
       ]
     },
