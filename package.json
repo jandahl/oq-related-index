@@ -4,8 +4,9 @@
   "type": "module",
   "scripts": {
     "build": "node scripts/build-index.mjs",
-    "test": "npm run validate && npm run validate:shards",
+    "test": "npm run validate && npm run validate:shards && npm run validate:gzip",
     "validate": "node scripts/validate-index.mjs docs/related-index.json",
+    "validate:gzip": "node scripts/validate-gzip.mjs",
     "validate:shards": "node scripts/validate-shards.mjs",
     "check:sources": "node scripts/check-sources.mjs"
   }
