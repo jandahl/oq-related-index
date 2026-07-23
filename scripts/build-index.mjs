@@ -1,5 +1,6 @@
 import { createHash } from "node:crypto";
 import { mkdir, writeFile } from "node:fs/promises";
+import { gzipSync } from "node:zlib";
 import { compileRelatedness } from "./relatedness.mjs";
 import { addRelationShards, groupRecords, shardManifest } from "./shards.mjs";
 
@@ -88,12 +89,13 @@ await writeFile(`${outputDir}/index.html`, `<!doctype html>
 <ul>
 <li><a href="https://github.com/jandahl/oq-related-index">Source repository</a></li>
 <li><a href="related-index.json">Generated JSON index</a></li>
+<li><a href="related-index.json.gz">Gzipped JSON index (one-off test)</a></li>
 <li><a href="manifest.json">Sharded index manifest</a></li>
 </ul>
 <p>Derived from public Oqaasileriffik / Greenlandic Language Secretariat data;
 see the <a href="https://github.com/jandahl/oq-related-index/blob/master/NOTICE.md">data notice</a>.</p>
 </body></html>\n`);
-await writeFile(`${outputDir}/related-index.json`, JSON.stringify({
+const relatedIndex = JSON.stringify({
   meta: {
     schema: "oq-related-index/0.2",
     schema_url: "https://jandahl.github.io/oq-related-index/schema/oq-related-index-0.2.schema.json",
@@ -118,6 +120,8 @@ await writeFile(`${outputDir}/related-index.json`, JSON.stringify({
   byDomain,
   byGlossToken,
   semantic_classes: semantic.semantic_classes ?? [],
-}, null, 2));
+}, null, 2);
+await writeFile(`${outputDir}/related-index.json`, relatedIndex);
+await writeFile(`${outputDir}/related-index.json.gz`, gzipSync(relatedIndex, { level: 9 }));
 
 console.log(`Wrote ${records.length} records to ${outputDir}/related-index.json`);
