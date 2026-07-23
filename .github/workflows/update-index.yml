@@ -30,7 +30,7 @@ jobs:
         if: steps.sources.outputs.changed == 'true'
         run: |
           npm run build
-          npm run validate
+          npm test
       - name: Record successful refresh
         if: steps.sources.outputs.changed == 'true'
         run: |
@@ -52,7 +52,7 @@ jobs:
           body: |
             Automated rebuild after an upstream source checksum change.
 
-            The generated index passed `npm run validate`.
+            The generated JSON, shards, and gzip artifact passed `npm test`.
       - name: Enable auto-merge
         if: steps.pull-request.outputs.pull-request-number != ''
         env:

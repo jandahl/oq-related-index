@@ -23,7 +23,7 @@ jobs:
         with:
           node-version: 22
       - run: npm run build
-      - run: npm run validate
+      - run: npm test
       - uses: actions/upload-pages-artifact@v3
         with:
           path: docs
