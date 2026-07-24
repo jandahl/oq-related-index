@@ -88,18 +88,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_247543",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "immummik seernarsiaq",
-          "shard": "i"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_174813",
@@ -217,22 +206,24 @@
       "related": [
         {
           "id": "lex_8615",
-          "score": 7.830074998557688,
+          "score": 7.961004752129146,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juujooq",
           "shard": "j"
         },
         {
           "id": "lex_255059",
-          "score": 5.830074998557688,
+          "score": 6.461004752129146,
           "reasons": [
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juujooq",
           "shard": "j"

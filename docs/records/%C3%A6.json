@@ -28,18 +28,7 @@
         "drink-h"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_142765",
-          "score": 5.915037499278844,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "iipilit isserat",
-          "shard": "i"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_255005",
@@ -93,18 +82,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_142765",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "iipilit isserat",
-          "shard": "i"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_254998",
@@ -122,18 +100,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_31831",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "æbleskive",
-          "shard": "æ"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_31831",
@@ -149,18 +116,7 @@
         "food-c-h"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_254998",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "æbleskive",
-          "shard": "æ"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_254983",
@@ -193,20 +149,7 @@
         "cm"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_184379",
-          "score": 6.356143810225276,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "proteini",
-          "shard": "p"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_254955",
@@ -238,18 +181,7 @@
         "drink-h"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_254941",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "æggesnapsi",
-          "shard": "æ"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_254941",
@@ -267,18 +199,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_182856",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "æggesnapsi",
-          "shard": "æ"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_132781",
@@ -298,7 +219,7 @@
       "related": [
         {
           "id": "lex_132782",
-          "score": 10.415037499278844,
+          "score": 9.915037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -388,20 +309,7 @@
         "cm-liq-h"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_161648",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "ilisimajunnaarsaat",
-          "shard": "i"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_254763",

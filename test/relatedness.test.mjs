@@ -1,6 +1,12 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { compileRelatedness } from "../scripts/relatedness.mjs";
+import { compileRelatedness, RELATEDNESS_POLICY } from "../scripts/relatedness.mjs";
+
+test("the published policy identifies its scoring parameters", () => {
+  assert.equal(RELATEDNESS_POLICY.algorithm, "bounded-signal-v2");
+  assert.equal(RELATEDNESS_POLICY.sharedNeighbourCap, 1.5);
+  assert.equal(RELATEDNESS_POLICY.sharedNeighbourDiscount, "inverse-log-degree");
+});
 
 const indexes = (records, byGlossToken = {}) => ({
   bySemanticClass: { build: records.map((record) => record.id) },
@@ -24,4 +30,25 @@ test("two primary signals still qualify and reciprocity remains explainable", ()
   assert.deepEqual(result[0].related[0].reasons.sort(), [
     "reciprocal relatedness", "same semantic class", "same word class", "shared gloss",
   ]);
+});
+
+test("shared neighbours provide a weak explainable secondary signal", () => {
+  const records = [record("a"), record("b", ["b-gloss"]), record("c", ["c-gloss"] )];
+  const byGlossToken = {
+    "b-gloss": ["b", "c"],
+    "c-gloss": ["a", "c"],
+  };
+  const result = compileRelatedness(records, indexes(records, byGlossToken));
+  assert.equal(result[0].related[0].id, "b");
+  assert.ok(result[0].related[0].reasons.includes("shared related words"));
+});
+
+test("very broad semantic classes do not qualify on their own", () => {
+  const records = [record("a"), record("b")];
+  const broadIndexes = {
+    ...indexes(records),
+    bySemanticClass: { build: ["a", "b", ...Array.from({ length: 1024 }, (_, i) => `noise-${i}`)] },
+  };
+  const result = compileRelatedness(records, broadIndexes);
+  assert.deepEqual(result.map((item) => item.related), [[], []]);
 });
