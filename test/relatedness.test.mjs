@@ -25,3 +25,14 @@ test("two primary signals still qualify and reciprocity remains explainable", ()
     "reciprocal relatedness", "same semantic class", "same word class", "shared gloss",
   ]);
 });
+
+test("shared neighbours provide a weak explainable secondary signal", () => {
+  const records = [record("a"), record("b", ["b-gloss"]), record("c", ["c-gloss"] )];
+  const byGlossToken = {
+    "b-gloss": ["b", "c"],
+    "c-gloss": ["a", "c"],
+  };
+  const result = compileRelatedness(records, indexes(records, byGlossToken));
+  assert.equal(result[0].related[0].id, "b");
+  assert.ok(result[0].related[0].reasons.includes("shared related words"));
+});
