@@ -1,7 +1,7 @@
 {
   "schema": "oq-related-index-shards/0.1",
   "schema_url": "https://jandahl.github.io/oq-related-index/schema/oq-related-index-shards-0.1.schema.json",
-  "generated_at": "2026-07-23T14:27:12.170Z",
+  "generated_at": "2026-07-24T15:44:29.612Z",
   "record_count": 86839,
   "shards": {
     "1": {
