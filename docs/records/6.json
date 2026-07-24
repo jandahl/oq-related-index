@@ -21,107 +21,115 @@
       },
       "related": [
         {
-          "id": "lex_187409",
-          "score": 9,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "6. klassinut",
-          "shard": "6"
-        },
-        {
           "id": "lex_187370",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "1-inik ukiulinnut",
           "shard": "1"
         },
         {
           "id": "lex_187371",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "10-nik ukiulinnut",
           "shard": "1"
         },
         {
           "id": "lex_187372",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "11-nik ukiulinnut",
           "shard": "1"
         },
         {
           "id": "lex_187373",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "12-inik ukiulinnut",
           "shard": "1"
         },
         {
           "id": "lex_187374",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "13-inik ukiulinnut",
           "shard": "1"
         },
         {
           "id": "lex_187375",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "14-inik ukiulinnut",
           "shard": "1"
         },
         {
           "id": "lex_187376",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "15-inik ukiulinnut",
+          "shard": "1"
+        },
+        {
+          "id": "lex_187377",
+          "score": 8,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "16-inik ukiulinnut",
           "shard": "1"
         }
       ]
@@ -148,7 +156,7 @@
       "related": [
         {
           "id": "lex_187385",
-          "score": 9,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -161,91 +169,98 @@
         },
         {
           "id": "lex_187401",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "1. klassinut",
           "shard": "1"
         },
         {
           "id": "lex_187402",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "10. klassinut",
           "shard": "1"
         },
         {
           "id": "lex_187403",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "11. klassinut",
           "shard": "1"
         },
         {
           "id": "lex_187404",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "12. klassinut",
           "shard": "1"
         },
         {
           "id": "lex_187405",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "2. klassinut",
           "shard": "2"
         },
         {
           "id": "lex_187406",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "3. klassinut",
           "shard": "3"
         },
         {
           "id": "lex_187407",
-          "score": 7.5,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "4. klassinut",
           "shard": "4"
@@ -271,20 +286,22 @@
       "related": [
         {
           "id": "lex_192006",
-          "score": 5.093109404391482,
+          "score": 5.72403915796294,
           "reasons": [
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "ratio-80/20",
           "shard": "r"
         },
         {
           "id": "lex_210321",
-          "score": 5.093109404391482,
+          "score": 5.72403915796294,
           "reasons": [
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "Ratio-80/20",
           "shard": "r"

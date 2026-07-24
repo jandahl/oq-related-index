@@ -5,7 +5,7 @@
   "scripts": {
     "build": "node scripts/build-index.mjs",
     "test": "npm run validate && npm run validate:shards && npm run test:relatedness",
-    "test:relatedness": "node --test test/relatedness.test.mjs",
+    "test:relatedness": "node --test test/relatedness*.test.mjs",
     "validate": "node scripts/validate-index.mjs docs/related-index.json",
     "validate:shards": "node scripts/validate-shards.mjs",
     "check:sources": "node scripts/check-sources.mjs",
