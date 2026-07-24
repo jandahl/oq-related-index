@@ -241,7 +241,7 @@
       "related": [
         {
           "id": "lex_8585",
-          "score": 10.093109404391482,
+          "score": 9.593109404391482,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -249,18 +249,6 @@
             "reciprocal relatedness"
           ],
           "headword": "kavaajaq",
-          "shard": "k"
-        },
-        {
-          "id": "lex_9887",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "kavaajarsuaq",
           "shard": "k"
         }
       ]
@@ -281,18 +269,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_149845",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "kavaajaq qiviunik oqorsaatilik",
-          "shard": "k"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_246415",
@@ -310,18 +287,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_149845",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "kavaajaq qiviunik oqorsaatilik",
-          "shard": "k"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_238136",
@@ -399,7 +365,7 @@
       "related": [
         {
           "id": "lex_8587",
-          "score": 9,
+          "score": 8.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -428,7 +394,7 @@
       "related": [
         {
           "id": "lex_8586",
-          "score": 9,
+          "score": 8.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -475,6 +441,32 @@
       "domain": null,
       "related": [
         {
+          "id": "lex_150150",
+          "score": 7.866058162835367,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "qaammaliaq",
+          "shard": "q"
+        },
+        {
+          "id": "lex_8588",
+          "score": 7.866058162835367,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "qaamaliaq",
+          "shard": "q"
+        },
+        {
           "id": "lex_186751",
           "score": 7.8200909099850655,
           "reasons": [
@@ -485,30 +477,6 @@
           ],
           "headword": "januaari",
           "shard": "j"
-        },
-        {
-          "id": "lex_150150",
-          "score": 7.235128409263909,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "qaammaliaq",
-          "shard": "q"
-        },
-        {
-          "id": "lex_8588",
-          "score": 7.235128409263909,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "qaamaliaq",
-          "shard": "q"
         }
       ]
     },
@@ -600,20 +568,7 @@
         "Hnat"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_8591",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Japanimiu",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259523",
@@ -645,20 +600,7 @@
         "Hnat"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_8590",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Japanimioq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_260327",
@@ -771,7 +713,7 @@
       "related": [
         {
           "id": "lex_181591",
-          "score": 6.915037499278844,
+          "score": 6.415037499278844,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -825,7 +767,7 @@
       "related": [
         {
           "id": "lex_8593",
-          "score": 6.915037499278844,
+          "score": 6.415037499278844,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -920,18 +862,7 @@
         "danish": "FRITID Musik",
         "kalaallisut": "FRITID Nipilersorneq"
       },
-      "related": [
-        {
-          "id": "lex_259549",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "jazzimik nipilersortartut",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_181593",
@@ -989,18 +920,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_181592",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "jazzimik nipilersoqatigiissuit",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259554",
@@ -1072,18 +992,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_8635",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juuti",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259640",
@@ -1133,20 +1042,7 @@
         "Hmyth"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_184937",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Jiisusi Kristusi",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259630",
@@ -1181,7 +1077,7 @@
       "related": [
         {
           "id": "lex_185306",
-          "score": 7,
+          "score": 6.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1190,18 +1086,6 @@
           ],
           "headword": "Kristusi",
           "shard": "k"
-        },
-        {
-          "id": "lex_182795",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Jiisusi",
-          "shard": "j"
         }
       ]
     },
@@ -1243,18 +1127,7 @@
         "occ"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_26370",
-          "score": 7,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "qilaliarfik",
-          "shard": "q"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_184980",
@@ -1441,18 +1314,7 @@
       ],
       "semantic_classes": [],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_6711",
-          "score": 5.5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "takorluugaq",
-          "shard": "t"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259682",
@@ -1486,20 +1348,7 @@
         "temp"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_8600",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juulli",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_181606",
@@ -1516,7 +1365,7 @@
       "related": [
         {
           "id": "lex_181608",
-          "score": 7,
+          "score": 6.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1544,24 +1393,26 @@
       "related": [
         {
           "id": "lex_181609",
-          "score": 6.5,
+          "score": 6.639076657241783,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juulli nalliussivaa",
           "shard": "j"
         },
         {
           "id": "lex_8625",
-          "score": 6.5,
+          "score": 6.639076657241783,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juullisiorpoq",
           "shard": "j"
@@ -1595,7 +1446,7 @@
       "related": [
         {
           "id": "lex_8602",
-          "score": 9,
+          "score": 8.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1624,7 +1475,7 @@
       "related": [
         {
           "id": "lex_8601",
-          "score": 9,
+          "score": 8.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1662,20 +1513,7 @@
         "fruit-c"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_181612",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "jordbæri",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_181612",
@@ -1689,20 +1527,7 @@
         "fruit-c"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_8603",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "jordbær",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259719",
@@ -1738,7 +1563,7 @@
       "related": [
         {
           "id": "lex_167371",
-          "score": 7,
+          "score": 6.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1821,19 +1646,7 @@
       "related": [
         {
           "id": "lex_8605",
-          "score": 7.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "uiffak",
-          "shard": "u"
-        },
-        {
-          "id": "lex_208453",
-          "score": 6,
+          "score": 6.915037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1867,63 +1680,42 @@
       "related": [
         {
           "id": "lex_8609",
-          "score": 10.27118130950412,
+          "score": 10.771181309504119,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "ujoroq",
           "shard": "u"
         },
         {
           "id": "lex_8607",
-          "score": 8.856143810225277,
+          "score": 9.356143810225277,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "qangiaq",
           "shard": "q"
         },
         {
           "id": "lex_8608",
-          "score": 8.856143810225277,
+          "score": 9.356143810225277,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "soraluaq",
           "shard": "s"
-        },
-        {
-          "id": "lex_132190",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "assaqqoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_182206",
-          "score": 6.178071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "jorngoq arnaq",
-          "shard": "j"
         }
       ]
     },
@@ -1940,56 +1732,7 @@
         "Hfam"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_8606",
-          "score": 6.178071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "jorngoq",
-          "shard": "j"
-        },
-        {
-          "id": "lex_8607",
-          "score": 6.178071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "qangiaq",
-          "shard": "q"
-        },
-        {
-          "id": "lex_8608",
-          "score": 6.178071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "soraluaq",
-          "shard": "s"
-        },
-        {
-          "id": "lex_8609",
-          "score": 6.178071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "ujoroq",
-          "shard": "u"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_183460",
@@ -2027,32 +1770,7 @@
         "Hprof"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_34812",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "tusagassiortoq",
-          "shard": "t"
-        },
-        {
-          "id": "lex_6087",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "aviisiliortoq",
-          "shard": "a"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_185282",
@@ -2094,20 +1812,7 @@
         "Hnat"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_170439",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Jugoslaviamiu",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_170439",
@@ -2121,20 +1826,7 @@
         "Hnat"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_170438",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Jugoslaviameersoq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_170436",
@@ -2237,20 +1929,7 @@
         "per"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_181993",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullip nalaani atuanngiffik",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259790",
@@ -2285,68 +1964,7 @@
         "V.3.3"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_186927",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "feriarpoq",
-          "shard": "f"
-        },
-        {
-          "id": "lex_31155",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "sulinngiffeqarpoq",
-          "shard": "s"
-        },
-        {
-          "id": "lex_33741",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "inuuissiorpoq",
-          "shard": "i"
-        },
-        {
-          "id": "lex_6786",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "nalliuppoq",
-          "shard": "n"
-        },
-        {
-          "id": "lex_7254",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "feeriarpoq",
-          "shard": "f"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259794",
@@ -2677,20 +2295,7 @@
         "Hprof"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_34294",
-          "score": 6.178071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "inatsisileritooq",
-          "shard": "i"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259918",
@@ -2744,18 +2349,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_161509",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Inatsisinik Atortitsinermut Ministeriaqarfik",
-          "shard": "i"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259939",
@@ -2825,20 +2419,22 @@
       "related": [
         {
           "id": "lex_181616",
-          "score": 5.830074998557688,
+          "score": 6.461004752129146,
           "reasons": [
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "yoyo",
           "shard": "y"
         },
         {
           "id": "lex_8615",
-          "score": 5.830074998557688,
+          "score": 6.461004752129146,
           "reasons": [
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juujooq",
           "shard": "j"
@@ -2863,22 +2459,24 @@
       "related": [
         {
           "id": "lex_181616",
-          "score": 7.830074998557688,
+          "score": 7.961004752129146,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "yoyo",
           "shard": "y"
         },
         {
           "id": "lex_255059",
-          "score": 5.830074998557688,
+          "score": 6.461004752129146,
           "reasons": [
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juujooq",
           "shard": "j"
@@ -2996,7 +2594,7 @@
       "related": [
         {
           "id": "lex_8630",
-          "score": 9,
+          "score": 8.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -3044,18 +2642,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_8618",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juuli",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_8618",
@@ -3084,16 +2671,6 @@
           ],
           "headword": "jul.",
           "shard": "j"
-        },
-        {
-          "id": "lex_259873",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juuli",
-          "shard": "j"
         }
       ]
     },
@@ -3114,24 +2691,26 @@
       "related": [
         {
           "id": "lex_152232",
-          "score": 8.508146903670326,
+          "score": 8.639076657241784,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juullip inua",
           "shard": "j"
         },
         {
           "id": "lex_152234",
-          "score": 8.508146903670326,
+          "score": 8.639076657241784,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "nissimaaq",
           "shard": "n"
@@ -3178,20 +2757,7 @@
         "cc"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_163078",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullilernerani puuiagassaq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259850",
@@ -3209,18 +2775,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_8620",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullerpalaarneq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_8620",
@@ -3236,18 +2791,7 @@
         "am"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_259850",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullerpalaarneq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259786",
@@ -3279,20 +2823,7 @@
         "occ"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_184953",
-          "score": 6.178071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juulli",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_184953",
@@ -3306,20 +2837,7 @@
         "occ"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_8621",
-          "score": 6.178071905112638,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullerujussuaq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259779",
@@ -3354,20 +2872,7 @@
         "temp"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_8599",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "joorli",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_181609",
@@ -3385,24 +2890,26 @@
       "related": [
         {
           "id": "lex_8625",
-          "score": 6.5,
+          "score": 6.639076657241783,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juullisiorpoq",
           "shard": "j"
         },
         {
           "id": "lex_8626",
-          "score": 6.5,
+          "score": 6.639076657241783,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "joorlisiorpoq",
           "shard": "j"
@@ -3457,18 +2964,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_8622",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juulliaraq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_8622",
@@ -3488,7 +2984,7 @@
       "related": [
         {
           "id": "lex_35984",
-          "score": 7.5,
+          "score": 7,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -3497,16 +2993,6 @@
           ],
           "headword": "unnukkuutaaq",
           "shard": "u"
-        },
-        {
-          "id": "lex_259784",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juulliaraq",
-          "shard": "j"
         }
       ]
     },
@@ -3532,20 +3018,7 @@
         "cc"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_161711",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juulleriartorneranut puuiagassaq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_218700",
@@ -3595,18 +3068,7 @@
       ],
       "semantic_classes": [],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_259788",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullip iivangkiiliua",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259798",
@@ -3638,18 +3100,7 @@
         "occ"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_177782",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullimi isiginnaartitsissut",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_177782",
@@ -3663,18 +3114,7 @@
         "sem-w"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_177780",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullimi isiginnaartitsineq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_183206",
@@ -3686,18 +3126,7 @@
       ],
       "semantic_classes": [],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_183205",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullip tipaatsunnartua",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_207225",
@@ -3711,18 +3140,7 @@
         "cc-h"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_259796",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullimi tunissut",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259796",
@@ -3740,18 +3158,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_207225",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullimi tunissut",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259837",
@@ -3787,18 +3194,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_31785",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "tusarnaartitsineq",
-          "shard": "t"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_179429",
@@ -3831,24 +3227,26 @@
       "related": [
         {
           "id": "lex_148689",
-          "score": 7.5,
+          "score": 7.630929753571458,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juullimut mappersagaq",
           "shard": "j"
         },
         {
           "id": "lex_3291",
-          "score": 7.5,
+          "score": 7.630929753571458,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "ammartagaq",
           "shard": "a"
@@ -3874,104 +3272,7 @@
         "danish": "Emneord",
         "kalaallisut": "Oqaatsit ujartugassat"
       },
-      "related": [
-        {
-          "id": "lex_187074",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "sulisartulersaarutit",
-          "shard": "s"
-        },
-        {
-          "id": "lex_187076",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "meeraanilersaarutit",
-          "shard": "m"
-        },
-        {
-          "id": "lex_187078",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "oqaluttuat biibilimik tunngavillit",
-          "shard": "o"
-        },
-        {
-          "id": "lex_187080",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "inuk tunngavigalugu oqaluttualiat",
-          "shard": "i"
-        },
-        {
-          "id": "lex_187082",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "ordbogit assiliartallit",
-          "shard": "o"
-        },
-        {
-          "id": "lex_187084",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "allagarsiatut allallugit oqaluttualiat",
-          "shard": "a"
-        },
-        {
-          "id": "lex_187086",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "meeqqanut erinarsuusiat",
-          "shard": "m"
-        },
-        {
-          "id": "lex_187214",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "nunaqarfimmi inuuneq",
-          "shard": "n"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_186682",
@@ -4006,24 +3307,26 @@
       "related": [
         {
           "id": "lex_152230",
-          "score": 7.5,
+          "score": 7.630929753571458,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juullimut ammartagaq",
           "shard": "j"
         },
         {
           "id": "lex_3291",
-          "score": 7.5,
+          "score": 7.630929753571458,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "ammartagaq",
           "shard": "a"
@@ -4075,30 +3378,7 @@
         "cm-h"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_205847",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "orpiliamut pinnersaat",
-          "shard": "o"
-        },
-        {
-          "id": "lex_259839",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullimut pinnersaatit",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259839",
@@ -4116,18 +3396,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_205846",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullimut pinnersaat",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259859",
@@ -4145,18 +3414,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_205843",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullimut ulappunneq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_205843",
@@ -4170,18 +3428,7 @@
         "am"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_259859",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullimut ulapaarneq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_8597",
@@ -4226,104 +3473,7 @@
         "danish": "Emneord",
         "kalaallisut": "Oqaatsit ujartugassat"
       },
-      "related": [
-        {
-          "id": "lex_187470",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "pissuseq",
-          "shard": "p"
-        },
-        {
-          "id": "lex_187472",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tamanut najugassianik inissiaatileqatigiiffiit",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187473",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "atuakkat naalagiartitsinermi najoqqutassiat",
-          "shard": "a"
-        },
-        {
-          "id": "lex_187476",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "toqqorsivimmiititat",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187477",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "issittumi pinngortitaq",
-          "shard": "i"
-        },
-        {
-          "id": "lex_187480",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tusarnaagassianik takusassianillu allattuiffik",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187481",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "saanernik sanalukkat",
-          "shard": "s"
-        },
-        {
-          "id": "lex_187484",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "biibilimut nassuiaatit",
-          "shard": "b"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259788",
@@ -4341,18 +3491,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_183204",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullimi iivangkiiliu",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_152232",
@@ -4371,24 +3510,26 @@
       "related": [
         {
           "id": "lex_152231",
-          "score": 8.508146903670326,
+          "score": 8.639076657241784,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juulimaaq",
           "shard": "j"
         },
         {
           "id": "lex_152234",
-          "score": 8.508146903670326,
+          "score": 8.639076657241784,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "nissimaaq",
           "shard": "n"
@@ -4414,104 +3555,7 @@
         "danish": "Emneord",
         "kalaallisut": "Oqaatsit ujartugassat"
       },
-      "related": [
-        {
-          "id": "lex_187470",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "pissuseq",
-          "shard": "p"
-        },
-        {
-          "id": "lex_187472",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tamanut najugassianik inissiaatileqatigiiffiit",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187473",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "atuakkat naalagiartitsinermi najoqqutassiat",
-          "shard": "a"
-        },
-        {
-          "id": "lex_187476",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "toqqorsivimmiititat",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187477",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "issittumi pinngortitaq",
-          "shard": "i"
-        },
-        {
-          "id": "lex_187480",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tusarnaagassianik takusassianillu allattuiffik",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187481",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "saanernik sanalukkat",
-          "shard": "s"
-        },
-        {
-          "id": "lex_187484",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "biibilimut nassuiaatit",
-          "shard": "b"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259857",
@@ -4543,20 +3587,7 @@
         "per"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_181994",
-          "score": 6.415037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "julefeeria",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_188706",
@@ -4577,104 +3608,7 @@
         "danish": "Emneord",
         "kalaallisut": "Oqaatsit ujartugassat"
       },
-      "related": [
-        {
-          "id": "lex_187470",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "pissuseq",
-          "shard": "p"
-        },
-        {
-          "id": "lex_187472",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tamanut najugassianik inissiaatileqatigiiffiit",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187473",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "atuakkat naalagiartitsinermi najoqqutassiat",
-          "shard": "a"
-        },
-        {
-          "id": "lex_187476",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "toqqorsivimmiititat",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187477",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "issittumi pinngortitaq",
-          "shard": "i"
-        },
-        {
-          "id": "lex_187480",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tusarnaagassianik takusassianillu allattuiffik",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187481",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "saanernik sanalukkat",
-          "shard": "s"
-        },
-        {
-          "id": "lex_187484",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "biibilimut nassuiaatit",
-          "shard": "b"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259827",
@@ -4731,18 +3665,7 @@
       ],
       "semantic_classes": [],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_183206",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullimi tipaatsunneq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259821",
@@ -4795,7 +3718,7 @@
       "related": [
         {
           "id": "lex_181606",
-          "score": 7,
+          "score": 6.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -4916,104 +3839,7 @@
         "danish": "Emneord",
         "kalaallisut": "Oqaatsit ujartugassat"
       },
-      "related": [
-        {
-          "id": "lex_187470",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "pissuseq",
-          "shard": "p"
-        },
-        {
-          "id": "lex_187472",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tamanut najugassianik inissiaatileqatigiiffiit",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187473",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "atuakkat naalagiartitsinermi najoqqutassiat",
-          "shard": "a"
-        },
-        {
-          "id": "lex_187476",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "toqqorsivimmiititat",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187477",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "issittumi pinngortitaq",
-          "shard": "i"
-        },
-        {
-          "id": "lex_187480",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tusarnaagassianik takusassianillu allattuiffik",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187481",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "saanernik sanalukkat",
-          "shard": "s"
-        },
-        {
-          "id": "lex_187484",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "biibilimut nassuiaatit",
-          "shard": "b"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_220513",
@@ -5031,18 +3857,7 @@
         "danish": "SAMF SAMFUNDSVIDENSKAB",
         "kalaallisut": "SAMF INUIAQATIGIILERINEQ"
       },
-      "related": [
-        {
-          "id": "lex_188712",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullisiornermi ileqqut",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_8625",
@@ -5060,24 +3875,26 @@
       "related": [
         {
           "id": "lex_181609",
-          "score": 6.5,
+          "score": 6.639076657241783,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "juulli nalliussivaa",
           "shard": "j"
         },
         {
           "id": "lex_8626",
-          "score": 6.5,
+          "score": 6.639076657241783,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "joorlisiorpoq",
           "shard": "j"
@@ -5118,18 +3935,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_8627",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullisiut",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_8627",
@@ -5146,18 +3952,7 @@
         "sem-l"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_259846",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullisiut",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259802",
@@ -5189,18 +3984,7 @@
         "sem-r"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_221698",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullisiutit",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_188700",
@@ -5222,104 +4006,7 @@
         "danish": "Emneord",
         "kalaallisut": "Oqaatsit ujartugassat"
       },
-      "related": [
-        {
-          "id": "lex_187470",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "pissuseq",
-          "shard": "p"
-        },
-        {
-          "id": "lex_187472",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tamanut najugassianik inissiaatileqatigiiffiit",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187473",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "atuakkat naalagiartitsinermi najoqqutassiat",
-          "shard": "a"
-        },
-        {
-          "id": "lex_187476",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "toqqorsivimmiititat",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187477",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "issittumi pinngortitaq",
-          "shard": "i"
-        },
-        {
-          "id": "lex_187480",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "tusarnaagassianik takusassianillu allattuiffik",
-          "shard": "t"
-        },
-        {
-          "id": "lex_187481",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "saanernik sanalukkat",
-          "shard": "s"
-        },
-        {
-          "id": "lex_187484",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "biibilimut nassuiaatit",
-          "shard": "b"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_221698",
@@ -5337,18 +4024,7 @@
         "danish": "SAMF Religion",
         "kalaallisut": "SAMF Upperisarsiorneq"
       },
-      "related": [
-        {
-          "id": "lex_163079",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juullisiutit",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259816",
@@ -5405,24 +4081,26 @@
       "related": [
         {
           "id": "lex_7103",
-          "score": 10.330074998557688,
+          "score": 10.461004752129146,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "ernisussiortoq",
           "shard": "e"
         },
         {
           "id": "lex_24711",
-          "score": 8.330074998557688,
+          "score": 8.461004752129146,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "paaliorti",
           "shard": "p"
@@ -5505,18 +4183,7 @@
         "Hnat"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_259981",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Jeruusalaap kamippaliortua",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_149293",
@@ -5535,7 +4202,7 @@
       "related": [
         {
           "id": "lex_149212",
-          "score": 7.5,
+          "score": 7.073735245297902,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -5598,7 +4265,7 @@
       "related": [
         {
           "id": "lex_149293",
-          "score": 7.5,
+          "score": 7.073735245297902,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -5606,16 +4273,6 @@
             "reciprocal relatedness"
           ],
           "headword": "juutinik akerliliiniarneq",
-          "shard": "j"
-        },
-        {
-          "id": "lex_259987",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juutinik uumissuineq",
           "shard": "j"
         }
       ]
@@ -5636,18 +4293,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_149212",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juutinik uumissuineq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259990",
@@ -5714,18 +4360,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_8636",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juutiussuseq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_8636",
@@ -5741,18 +4376,7 @@
         "ism"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_259983",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "juutiussuseq",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259947",
@@ -5770,18 +4394,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_8637",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Jyllandimiu",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_8637",
@@ -5797,18 +4410,7 @@
         "Hnat"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_259947",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Jyllandimiu",
-          "shard": "j"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_259949",
@@ -5897,96 +4499,7 @@
         "Hnat"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_167155",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Palæstinamiu",
-          "shard": "p"
-        },
-        {
-          "id": "lex_170101",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Baltikumimiu",
-          "shard": "b"
-        },
-        {
-          "id": "lex_170159",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Indonesiamiu",
-          "shard": "i"
-        },
-        {
-          "id": "lex_170371",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Romamiu",
-          "shard": "r"
-        },
-        {
-          "id": "lex_170466",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Kurdistanimiu",
-          "shard": "k"
-        },
-        {
-          "id": "lex_170494",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Iranimiu",
-          "shard": "i"
-        },
-        {
-          "id": "lex_170502",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Albaniamiu",
-          "shard": "a"
-        },
-        {
-          "id": "lex_170524",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Cubamiu",
-          "shard": "c"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_257187",
@@ -6019,96 +4532,7 @@
         "Hnat"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_167155",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Palæstinamiu",
-          "shard": "p"
-        },
-        {
-          "id": "lex_170101",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Baltikumimiu",
-          "shard": "b"
-        },
-        {
-          "id": "lex_170159",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Indonesiamiu",
-          "shard": "i"
-        },
-        {
-          "id": "lex_170371",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Romamiu",
-          "shard": "r"
-        },
-        {
-          "id": "lex_170466",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Kurdistanimiu",
-          "shard": "k"
-        },
-        {
-          "id": "lex_170494",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Iranimiu",
-          "shard": "i"
-        },
-        {
-          "id": "lex_170502",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Albaniamiu",
-          "shard": "a"
-        },
-        {
-          "id": "lex_170524",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness"
-          ],
-          "headword": "Cubamiu",
-          "shard": "c"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_166216",
@@ -6122,18 +4546,7 @@
         "L"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_180812",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Jyllandip qeqqamiu",
-          "shard": "j"
-        }
-      ]
+      "related": []
     }
   ]
 }

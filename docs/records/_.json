@@ -68,36 +68,39 @@
       "related": [
         {
           "id": "lex_247303",
-          "score": 6,
+          "score": 7,
           "reasons": [
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "ilikkarpaa, pigiliuppaa, pissarsiaraa",
           "shard": "i"
         },
         {
           "id": "lex_251216",
-          "score": 6,
+          "score": 7,
           "reasons": [
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "pigiliuppaa, ilikkarpaa, pissarsiaraa",
           "shard": "p"
         },
         {
           "id": "lex_251344",
-          "score": 6,
+          "score": 7,
           "reasons": [
             "same domain",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "pissarsiaraa, ilikkarpaa, pigiliuppaa",
           "shard": "p"
@@ -424,18 +427,7 @@
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
       },
-      "related": [
-        {
-          "id": "lex_178351",
-          "score": 5,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "qituttoq",
-          "shard": "q"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_243272",
