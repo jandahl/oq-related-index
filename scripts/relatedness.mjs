@@ -8,6 +8,8 @@ export const RELATEDNESS_POLICY = Object.freeze({
   reciprocalBonus: 3,
   sharedNeighbourCap: 1.5,
   sharedNeighbourDiscount: "inverse-log-degree",
+  semanticClassBase: 6,
+  semanticClassFloor: 0.5,
 });
 
 const tokens = (values) => new Set(asArray(values).flatMap((value) =>
@@ -27,7 +29,10 @@ export function scoreRelated(record, indexes) {
   const groups = new Map();
   for (const classId of asArray(record.semantic_classes)) {
     const ids = asArray(indexes.bySemanticClass?.[classId]);
-    const weight = Math.max(1, 6 - Math.log2(Math.max(1, ids.length)));
+    const weight = Math.max(
+      RELATEDNESS_POLICY.semanticClassFloor,
+      RELATEDNESS_POLICY.semanticClassBase - Math.log2(Math.max(1, ids.length)),
+    );
     for (const id of ids) addCandidate(groups, id, "same semantic class", weight);
   }
   if (record.domain?.id) {
