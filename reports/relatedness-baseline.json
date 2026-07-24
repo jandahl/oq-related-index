@@ -1,0 +1,237 @@
+{
+  "generated_at": "2026-07-24T13:07:12.843Z",
+  "source_generated_at": "2026-07-23T14:27:12.171Z",
+  "record_count": 86839,
+  "directed_relation_count": 78595,
+  "reason_combinations": {
+    "reciprocal relatedness + same semantic class + same word class + shared gloss": 29166,
+    "reciprocal relatedness + same semantic class + same word class": 18982,
+    "reciprocal relatedness + shared gloss": 15526,
+    "reciprocal relatedness + same domain + same semantic class + same word class": 7457,
+    "reciprocal relatedness + same domain + same semantic class + same word class + shared gloss": 3555,
+    "reciprocal relatedness + same domain + same word class + shared gloss": 3454,
+    "reciprocal relatedness + same semantic class": 202,
+    "reciprocal relatedness + same semantic class + shared gloss": 190,
+    "reciprocal relatedness + same domain + shared gloss": 35,
+    "reciprocal relatedness + same domain + same word class": 22,
+    "reciprocal relatedness + same domain + same semantic class + shared gloss": 6
+  },
+  "degree": {
+    "min": 0,
+    "p50": 0,
+    "p90": 3,
+    "p99": 8,
+    "max": 8
+  },
+  "semantic_class_only_or_shared_class_links": 26641,
+  "largest_semantic_classes": {
+    "act": 2022,
+    "ac": 1452,
+    "Hprof": 1443,
+    "domain": 1172,
+    "meta-cat-lib": 1018,
+    "cc-h": 986,
+    "f": 928,
+    "V.1.7.1": 706,
+    "H": 652,
+    "am": 638,
+    "sem-r": 633,
+    "geom-line": 597,
+    "B": 569,
+    "f-psych": 566,
+    "inst": 545,
+    "Lh": 531,
+    "HH": 510,
+    "activity": 459,
+    "sick": 356,
+    "Aich": 310
+  },
+  "known": {
+    "illu": [
+      {
+        "id": "lex_215915",
+        "gloss_en": [],
+        "gloss_da": [
+          "hus"
+        ],
+        "semantic_classes": [],
+        "related": []
+      },
+      {
+        "id": "lex_238557",
+        "gloss_en": [],
+        "gloss_da": [
+          "bo"
+        ],
+        "semantic_classes": [],
+        "related": []
+      },
+      {
+        "id": "lex_238751",
+        "gloss_en": [],
+        "gloss_da": [
+          "bolig"
+        ],
+        "semantic_classes": [],
+        "related": []
+      },
+      {
+        "id": "lex_240564",
+        "gloss_en": [],
+        "gloss_da": [
+          "bygning"
+        ],
+        "semantic_classes": [],
+        "related": []
+      },
+      {
+        "id": "lex_253361",
+        "gloss_en": [],
+        "gloss_da": [
+          "ejendom"
+        ],
+        "semantic_classes": [],
+        "related": []
+      },
+      {
+        "id": "lex_33378",
+        "gloss_en": [
+          "house"
+        ],
+        "gloss_da": [
+          "hus",
+          "bygning"
+        ],
+        "semantic_classes": [
+          "build"
+        ],
+        "related": [
+          {
+            "id": "lex_184842",
+            "score": 5,
+            "reasons": [
+              "same semantic class",
+              "shared gloss",
+              "reciprocal relatedness"
+            ],
+            "headword": "Det Hvide Hus",
+            "shard": "d"
+          }
+        ]
+      }
+    ],
+    "kukiusaq": [
+      {
+        "id": "lex_11817",
+        "gloss_en": [],
+        "gloss_da": [
+          "krudthorn"
+        ],
+        "semantic_classes": [
+          "build"
+        ],
+        "related": [
+          {
+            "id": "lex_24899",
+            "score": 6.415037499278844,
+            "reasons": [
+              "same semantic class",
+              "same word class",
+              "shared gloss",
+              "reciprocal relatedness"
+            ],
+            "headword": "paassivik",
+            "shard": "p"
+          },
+          {
+            "id": "lex_24904",
+            "score": 6.415037499278844,
+            "reasons": [
+              "same semantic class",
+              "same word class",
+              "shared gloss",
+              "reciprocal relatedness"
+            ],
+            "headword": "paassaasivik",
+            "shard": "p"
+          }
+        ]
+      },
+      {
+        "id": "lex_209049",
+        "gloss_en": [],
+        "gloss_da": [
+          "neglen"
+        ],
+        "semantic_classes": [
+          "part"
+        ],
+        "related": []
+      }
+    ],
+    "affarleriit": [
+      {
+        "id": "lex_147819",
+        "gloss_en": [
+          "linked house",
+          "rowhouse"
+        ],
+        "gloss_da": [
+          "rækkehus",
+          "nabohus",
+          "kædehus"
+        ],
+        "semantic_classes": [
+          "build"
+        ],
+        "related": [
+          {
+            "id": "lex_180761",
+            "score": 7,
+            "reasons": [
+              "same semantic class",
+              "same word class",
+              "shared gloss",
+              "reciprocal relatedness"
+            ],
+            "headword": "illut uigulukuttut",
+            "shard": "i"
+          },
+          {
+            "id": "lex_180760",
+            "score": 6.415037499278844,
+            "reasons": [
+              "same semantic class",
+              "same word class",
+              "shared gloss",
+              "reciprocal relatedness"
+            ],
+            "headword": "illut uiguleriit",
+            "shard": "i"
+          },
+          {
+            "id": "lex_185398",
+            "score": 6.415037499278844,
+            "reasons": [
+              "same semantic class",
+              "same word class",
+              "shared gloss",
+              "reciprocal relatedness"
+            ],
+            "headword": "rækkehusi",
+            "shard": "r"
+          }
+        ]
+      },
+      {
+        "id": "lex_147820",
+        "gloss_en": [],
+        "gloss_da": [],
+        "semantic_classes": [
+          "HH"
+        ],
+        "related": []
+      }
+    ]
+  }
+}
