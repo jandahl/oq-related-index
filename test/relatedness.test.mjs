@@ -42,3 +42,13 @@ test("shared neighbours provide a weak explainable secondary signal", () => {
   assert.equal(result[0].related[0].id, "b");
   assert.ok(result[0].related[0].reasons.includes("shared related words"));
 });
+
+test("very broad semantic classes do not qualify on their own", () => {
+  const records = [record("a"), record("b")];
+  const broadIndexes = {
+    ...indexes(records),
+    bySemanticClass: { build: ["a", "b", ...Array.from({ length: 1024 }, (_, i) => `noise-${i}`)] },
+  };
+  const result = compileRelatedness(records, broadIndexes);
+  assert.deepEqual(result.map((item) => item.related), [[], []]);
+});
