@@ -1,7 +1,7 @@
 import { createHash } from "node:crypto";
 import { mkdir, writeFile } from "node:fs/promises";
 import { gzipSync } from "node:zlib";
-import { compileRelatedness } from "./relatedness.mjs";
+import { compileRelatedness, RELATEDNESS_POLICY } from "./relatedness.mjs";
 import { addRelationShards, groupRecords, shardManifest } from "./shards.mjs";
 
 const LEXICON_URL = "https://jandahl.github.io/Oqaasileriffik-katersat/lexicon.json";
@@ -99,13 +99,7 @@ const relatedIndex = JSON.stringify({
   meta: {
     schema: "oq-related-index/0.2",
     schema_url: "https://jandahl.github.io/oq-related-index/schema/oq-related-index-0.2.schema.json",
-    relatedness: {
-      algorithm: "bounded-signal-v1",
-      limit: 8,
-      minimum_signal_score: 2,
-      minimum_reasons: 2,
-      reciprocal_bonus: 3,
-    },
+    relatedness: RELATEDNESS_POLICY,
     generated_at: new Date().toISOString(),
     attribution: "Oqaasileriffik / Greenland Language Secretariat",
     license: "CC-BY-SA-4.0",

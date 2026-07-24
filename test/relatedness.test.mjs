@@ -1,6 +1,12 @@
 import assert from "node:assert/strict";
 import test from "node:test";
-import { compileRelatedness } from "../scripts/relatedness.mjs";
+import { compileRelatedness, RELATEDNESS_POLICY } from "../scripts/relatedness.mjs";
+
+test("the published policy identifies its scoring parameters", () => {
+  assert.equal(RELATEDNESS_POLICY.algorithm, "bounded-signal-v2");
+  assert.equal(RELATEDNESS_POLICY.sharedNeighbourCap, 1.5);
+  assert.equal(RELATEDNESS_POLICY.sharedNeighbourDiscount, "inverse-log-degree");
+});
 
 const indexes = (records, byGlossToken = {}) => ({
   bySemanticClass: { build: records.map((record) => record.id) },

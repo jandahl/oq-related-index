@@ -1,5 +1,15 @@
 const asArray = (value) => Array.isArray(value) ? value : [];
 
+export const RELATEDNESS_POLICY = Object.freeze({
+  algorithm: "bounded-signal-v2",
+  limit: 8,
+  minimumSignalScore: 2,
+  minimumReasons: 2,
+  reciprocalBonus: 3,
+  sharedNeighbourCap: 1.5,
+  sharedNeighbourDiscount: "inverse-log-degree",
+});
+
 const tokens = (values) => new Set(asArray(values).flatMap((value) =>
   String(value ?? "").toLowerCase().normalize("NFKC").match(/[\p{L}\p{N}]+/gu) ?? []));
 
@@ -41,12 +51,15 @@ export function scoreRelated(record, indexes) {
 }
 
 /** Compile bounded, explainable relatedness with a reciprocal-support signal. */
-export function compileRelatedness(records, indexes, { limit = 8, minimumReasons = 2 } = {}) {
+export function compileRelatedness(records, indexes, {
+  limit = RELATEDNESS_POLICY.limit,
+  minimumReasons = RELATEDNESS_POLICY.minimumReasons,
+} = {}) {
   const byId = new Map(records.map((record) => [record.id, record]));
   const scoreIndexes = { ...indexes, recordsById: byId };
   const directById = new Map(records.map((record) => {
     const direct = [...scoreRelated(record, scoreIndexes).values()]
-      .filter((candidate) => candidate.signalScore >= 2)
+      .filter((candidate) => candidate.signalScore >= RELATEDNESS_POLICY.minimumSignalScore)
       .sort((a, b) => b.signalScore - a.signalScore || b.score - a.score || a.id.localeCompare(b.id))
       .slice(0, limit * 2);
     return [record.id, direct];
@@ -61,13 +74,13 @@ export function compileRelatedness(records, indexes, { limit = 8, minimumReasons
       const degree = neighbours.get(id)?.size ?? 0;
       return total + 1 / Math.log2(Math.max(2, degree + 1));
     }, 0);
-    return Math.min(1.5, score);
+    return Math.min(RELATEDNESS_POLICY.sharedNeighbourCap, score);
   };
   return records.map((record) => {
     const direct = directById.get(record.id) ?? [];
     const related = direct.map((candidate) => {
       const reverse = scoreRelated(byId.get(candidate.id), scoreIndexes).get(record.id);
-      const reciprocal = reverse?.signalScore >= 2;
+      const reciprocal = reverse?.signalScore >= RELATEDNESS_POLICY.minimumSignalScore;
       if (reciprocal) {
         candidate.score += 3;
         candidate.reasons.push("reciprocal relatedness");
