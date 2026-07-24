@@ -1,0 +1,27 @@
+[
+  {
+    "name": "reciprocity is not a primary signal",
+    "records": [{"id":"a"},{"id":"b"}],
+    "indexes": {"bySemanticClass":{"build":["a","b"]}},
+    "expected": {"a": [], "b": []}
+  },
+  {
+    "name": "shared neighbours explain a weak signal",
+    "records": [
+      {"id":"a"},
+      {"id":"b","gloss_en":["b-gloss"]},
+      {"id":"c","gloss_en":["c-gloss"]}
+    ],
+    "indexes": {
+      "bySemanticClass":{"build":["a","b","c"]},
+      "byGlossToken":{"b-gloss":["b","c"],"c-gloss":["a","c"]}
+    },
+    "expected": {"a": {"id":"b","reason":"shared related words"}}
+  },
+  {
+    "name": "broad classes do not qualify alone",
+    "records": [{"id":"a"},{"id":"b"}],
+    "indexes": {"bySemanticClass":{"build":["a","b","noise-1","noise-2","noise-3","noise-4","noise-5","noise-6","noise-7","noise-8","noise-9","noise-10","noise-11","noise-12","noise-13","noise-14","noise-15","noise-16","noise-17","noise-18","noise-19","noise-20","noise-21","noise-22","noise-23","noise-24","noise-25","noise-26","noise-27","noise-28","noise-29","noise-30","noise-31","noise-32"]}},
+    "expected": {"a": [], "b": []}
+  }
+]
