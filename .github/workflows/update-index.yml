@@ -25,7 +25,7 @@ jobs:
           node-version: 22
       - name: Check upstream checksums
         id: sources
-        run: npm run check:sources >> "$GITHUB_OUTPUT"
+        run: npm run --silent check:sources >> "$GITHUB_OUTPUT"
       - name: Rebuild and validate
         if: steps.sources.outputs.changed == 'true'
         run: |
