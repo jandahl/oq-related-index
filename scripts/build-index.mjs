@@ -102,7 +102,11 @@ const relatedIndex = JSON.stringify({
     relatedness: RELATEDNESS_POLICY,
     generated_at: new Date().toISOString(),
     attribution: "Oqaasileriffik / Greenland Language Secretariat",
-    license: "CC-BY-SA-4.0",
+    // katersat's actual license is GPL-3.0-or-later -- see NOTICE.md. There
+    // is no CC-BY-SA grant to inherit, so this derived index can't claim one
+    // either; a GPLv3 derivative owes GPLv3 (or a compatible license), not a
+    // license of the derivative author's own choosing.
+    license: "GPL-3.0-or-later",
     sources: { lexicon: LEXICON_URL, semantic_classes: SEMANTIC_URL },
     source_checksums: {
       lexicon: lexiconSource.checksum,

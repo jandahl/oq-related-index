@@ -20,7 +20,7 @@ unknown fields and missing optional fields.
     "schema": "oq-related-index/0.2",
     "generated_at": "2026-01-01T00:00:00.000Z",
     "attribution": "Oqaasileriffik / Greenland Language Secretariat",
-    "license": "CC-BY-SA-4.0",
+    "license": "GPL-3.0-or-later",
     "sources": {
       "lexicon": "https://example.invalid/lexicon.json",
       "semantic_classes": "https://example.invalid/semantic_classes.json"
