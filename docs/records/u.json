@@ -19872,7 +19872,7 @@
       "related": [
         {
           "id": "lex_36703",
-          "score": 11.633677785754184,
+          "score": 11.21864028647534,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -20064,7 +20064,7 @@
       "related": [
         {
           "id": "lex_35780",
-          "score": 11.633677785754184,
+          "score": 11.21864028647534,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35797,6 +35797,120 @@
         "kalaallisut": "Oqaatsit ujartugassat"
       },
       "related": []
+    },
+    {
+      "id": "lex_266279",
+      "headword": "umiarsuit mingutsitsinaveersaarnissaannik IMO-mi isumaqatigiissut",
+      "word_class": "prop",
+      "gloss_en": [
+        "IMO Convention for the Prevention of Pollution from ships",
+        "MARPOL"
+      ],
+      "gloss_da": [
+        "IMO-konvention om skibsforurening",
+        "MARPOL"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266280",
+          "score": 17,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "MARPOL",
+          "shard": "m"
+        },
+        {
+          "id": "lex_266267",
+          "score": 10,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imaanut eqqaasarnermik IMO-mi isumaqatigiissut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_266268",
+          "score": 10,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "Londonimi Isumaqatigiissut",
+          "shard": "l"
+        },
+        {
+          "id": "lex_266272",
+          "score": 7.851115894139332,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "naanaveersaatit pillugit IMO-mi isumaqatigiissut",
+          "shard": "n"
+        },
+        {
+          "id": "lex_266275",
+          "score": 7.851115894139332,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imeq uaanaveeqqut pillugu IMO-mi isumaqatigiissut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_266111",
+          "score": 7.2533279132226784,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "Danmarkimi Kalaallit Nunaannilu Nunap Sananeqaataanik Misissuisoqarfik",
+          "shard": "d"
+        },
+        {
+          "id": "lex_266113",
+          "score": 7.2533279132226784,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "GEUS",
+          "shard": "g"
+        }
+      ]
     },
     {
       "id": "lex_185471",
@@ -81115,6 +81229,29 @@
       ]
     },
     {
+      "id": "lex_266290",
+      "headword": "uumassusilik allanertaq",
+      "word_class": "t",
+      "gloss_en": [
+        "invasive species"
+      ],
+      "gloss_da": [
+        "invasiv art"
+      ],
+      "semantic_classes": [
+        "B",
+        "A"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_231444",
       "headword": "uumassusilik atorlugu iluarsaaneq",
       "word_class": "t",
@@ -81168,7 +81305,7 @@
       "related": [
         {
           "id": "lex_185932",
-          "score": 8.167109985835259,
+          "score": 7.752072486556415,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -81202,7 +81339,7 @@
       "related": [
         {
           "id": "lex_185940",
-          "score": 8.167109985835259,
+          "score": 7.752072486556415,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -81232,7 +81369,7 @@
       "related": [
         {
           "id": "lex_181284",
-          "score": 11.401157487963971,
+          "score": 10.816194987242815,
           "reasons": [
             "same semantic class",
             "same word class",

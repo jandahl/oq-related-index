@@ -8869,6 +8869,28 @@
       "related": []
     },
     {
+      "id": "lex_266328",
+      "headword": "qaartartuliineq",
+      "word_class": "t",
+      "gloss_en": [
+        "load"
+      ],
+      "gloss_da": [
+        "ladning"
+      ],
+      "semantic_classes": [
+        "cm"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_132550",
       "headword": "qaartartumeerineq",
       "word_class": "t",

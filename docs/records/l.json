@@ -1986,6 +1986,131 @@
       "related": []
     },
     {
+      "id": "lex_266268",
+      "headword": "Londonimi Isumaqatigiissut",
+      "word_class": "prop",
+      "gloss_en": [
+        "IMO Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter",
+        "London Convention"
+      ],
+      "gloss_da": [
+        "IMO-konvention om affaldsdumpning",
+        "London konvention"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266267",
+          "score": 19.67807190511264,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imaanut eqqaasarnermik IMO-mi isumaqatigiissut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_266279",
+          "score": 10,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "umiarsuit mingutsitsinaveersaarnissaannik IMO-mi isumaqatigiissut",
+          "shard": "u"
+        },
+        {
+          "id": "lex_266280",
+          "score": 10,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "MARPOL",
+          "shard": "m"
+        },
+        {
+          "id": "lex_266272",
+          "score": 7.868984350686937,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "naanaveersaatit pillugit IMO-mi isumaqatigiissut",
+          "shard": "n"
+        },
+        {
+          "id": "lex_266275",
+          "score": 7.868984350686937,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imeq uaanaveeqqut pillugu IMO-mi isumaqatigiissut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_266111",
+          "score": 7.2711963697702835,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "Danmarkimi Kalaallit Nunaannilu Nunap Sananeqaataanik Misissuisoqarfik",
+          "shard": "d"
+        },
+        {
+          "id": "lex_266113",
+          "score": 7.2711963697702835,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "GEUS",
+          "shard": "g"
+        },
+        {
+          "id": "lex_149933",
+          "score": 5.315464876785729,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "meeqqat pisinnaatitaaffii pillugit isumaqatigiissut",
+          "shard": "m"
+        }
+      ]
+    },
+    {
       "id": "lex_185337",
       "headword": "londonimiu",
       "word_class": "t",

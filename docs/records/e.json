@@ -15946,34 +15946,7 @@
         "Lh"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_33454",
-          "score": 6.630929753571458,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "susassaqartitaaffik",
-          "shard": "s"
-        },
-        {
-          "id": "lex_6585",
-          "score": 6.630929753571458,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "eqqartuussisinnaaneq",
-          "shard": "e"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_6585",
@@ -15989,34 +15962,7 @@
         "Lh"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_33454",
-          "score": 6.630929753571458,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "susassaqartitaaffik",
-          "shard": "s"
-        },
-        {
-          "id": "lex_36119",
-          "score": 6.630929753571458,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "eqqartuussisinnaaffik",
-          "shard": "e"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_168579",
@@ -30762,7 +30708,20 @@
         "domain"
       ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_266245",
+          "score": 7.915037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "imeq pillugu ilisimatusarneq",
+          "shard": "i"
+        }
+      ]
     },
     {
       "id": "lex_219333",
@@ -31255,6 +31214,94 @@
         "kalaallisut": "MILJØ Silap pissusia piujuartitsinerlu"
       },
       "related": []
+    },
+    {
+      "id": "lex_266242",
+      "headword": "ermup nukinganik innaallagissiortoq",
+      "word_class": "t",
+      "gloss_en": [
+        "hydroelectric"
+      ],
+      "gloss_da": [
+        "hydroelektrisk"
+      ],
+      "semantic_classes": [
+        "jdomain"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266195",
+          "score": 9.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "geofysikkimut tunngasoq",
+          "shard": "g"
+        },
+        {
+          "id": "lex_266199",
+          "score": 9.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "geokemiimut tunngasoq",
+          "shard": "g"
+        },
+        {
+          "id": "lex_266207",
+          "score": 9.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nunarsuup pisoqaassusianik ilisimatusarnermut tunngasoq",
+          "shard": "n"
+        },
+        {
+          "id": "lex_266211",
+          "score": 9.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "geologiimut tunngasoq",
+          "shard": "g"
+        },
+        {
+          "id": "lex_266225",
+          "score": 9.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "geoteknikkimut tunngasoq",
+          "shard": "g"
+        }
+      ]
     },
     {
       "id": "lex_261549",

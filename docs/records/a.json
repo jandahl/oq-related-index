@@ -142583,6 +142583,28 @@
       "related": []
     },
     {
+      "id": "lex_266318",
+      "headword": "akuiaat",
+      "word_class": "t",
+      "gloss_en": [
+        "concentrator"
+      ],
+      "gloss_da": [
+        "koncentrator"
+      ],
+      "semantic_classes": [
+        "build"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_2314",
       "headword": "akuiaavik",
       "word_class": "t",
@@ -142615,6 +142637,28 @@
       "gloss_da": [],
       "semantic_classes": [],
       "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_266315",
+      "headword": "akuiagaq",
+      "word_class": "t",
+      "gloss_en": [
+        "concentrate"
+      ],
+      "gloss_da": [
+        "koncentrat"
+      ],
+      "semantic_classes": [
+        "mat"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
       "related": []
     },
     {
@@ -142823,6 +142867,28 @@
         "f"
       ],
       "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_266248",
+      "headword": "akuitsorujussuaq",
+      "word_class": "t",
+      "gloss_en": [
+        "high-grade"
+      ],
+      "gloss_da": [
+        "højlødig"
+      ],
+      "semantic_classes": [
+        "mat"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
       "related": []
     },
     {
@@ -251973,6 +252039,28 @@
       "related": []
     },
     {
+      "id": "lex_266309",
+      "headword": "aporujussuarneq",
+      "word_class": "t",
+      "gloss_en": [
+        "impact"
+      ],
+      "gloss_da": [
+        "kollision"
+      ],
+      "semantic_classes": [
+        "act"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_142622",
       "headword": "app",
       "word_class": "t",
@@ -285572,6 +285660,41 @@
       "related": []
     },
     {
+      "id": "lex_266305",
+      "headword": "aserorterivik",
+      "word_class": "t",
+      "gloss_en": [
+        "mill"
+      ],
+      "gloss_da": [
+        "knusemølle"
+      ],
+      "semantic_classes": [
+        "build"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266306",
+          "score": 7.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "aserorterut",
+          "shard": "a"
+        }
+      ]
+    },
+    {
       "id": "lex_4959",
       "headword": "aserorterivik",
       "word_class": "t",
@@ -285635,6 +285758,41 @@
       ],
       "domain": null,
       "related": []
+    },
+    {
+      "id": "lex_266306",
+      "headword": "aserorterut",
+      "word_class": "t",
+      "gloss_en": [
+        "mill"
+      ],
+      "gloss_da": [
+        "knusemølle"
+      ],
+      "semantic_classes": [
+        "tool"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266305",
+          "score": 7.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "aserorterivik",
+          "shard": "a"
+        }
+      ]
     },
     {
       "id": "lex_4961",
@@ -340152,6 +340310,28 @@
       ],
       "semantic_classes": [],
       "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_266257",
+      "headword": "atuutilerfik",
+      "word_class": "t",
+      "gloss_en": [
+        "commencement date"
+      ],
+      "gloss_da": [
+        "ikrafttrædelsesdato"
+      ],
+      "semantic_classes": [
+        "temp"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
       "related": []
     },
     {

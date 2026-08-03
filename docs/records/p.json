@@ -35545,34 +35545,7 @@
         "act"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_23196",
-          "score": 7.045967252850302,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "pinaveersaartitsineq",
-          "shard": "p"
-        },
-        {
-          "id": "lex_23197",
-          "score": 7.045967252850302,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "pitsaaliuineq",
-          "shard": "p"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_219063",
@@ -60952,6 +60925,28 @@
       "related": []
     },
     {
+      "id": "lex_266292",
+      "headword": "pigisat allattorsimaffiat",
+      "word_class": "t",
+      "gloss_en": [
+        "inventory"
+      ],
+      "gloss_da": [
+        "inventarliste"
+      ],
+      "semantic_classes": [
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_224190",
       "headword": "pigisat nalillit",
       "word_class": "t",
@@ -61739,6 +61734,28 @@
         "sem-r"
       ],
       "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_266231",
+      "headword": "piiaaffiup iigaa",
+      "word_class": "t",
+      "gloss_en": [
+        "pit wall"
+      ],
+      "gloss_da": [
+        "grubevæg"
+      ],
+      "semantic_classes": [
+        "part"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
       "related": []
     },
     {
@@ -70123,7 +70140,7 @@
       "related": [
         {
           "id": "lex_266111",
-          "score": 6.356207187108022,
+          "score": 6.289064826317888,
           "reasons": [
             "same domain",
             "same word class",
@@ -70136,7 +70153,7 @@
         },
         {
           "id": "lex_266113",
-          "score": 6.356207187108022,
+          "score": 6.289064826317888,
           "reasons": [
             "same domain",
             "same word class",
@@ -80958,34 +80975,7 @@
         "act"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_161610",
-          "score": 7.045967252850302,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "peqqinneq pitsaaliuinerlu",
-          "shard": "p"
-        },
-        {
-          "id": "lex_23197",
-          "score": 7.045967252850302,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "pitsaaliuineq",
-          "shard": "p"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_251290",
@@ -115999,34 +115989,7 @@
         "act"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_161610",
-          "score": 7.045967252850302,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "peqqinneq pitsaaliuinerlu",
-          "shard": "p"
-        },
-        {
-          "id": "lex_23196",
-          "score": 7.045967252850302,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "pinaveersaartitsineq",
-          "shard": "p"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_251292",
@@ -130767,18 +130730,6 @@
         "kalaallisut": "MILJØ ØKOLOGII AVATANGIISILLU"
       },
       "related": [
-        {
-          "id": "lex_149933",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "meeqqat pisinnaatitaaffii pillugit isumaqatigiissut",
-          "shard": "m"
-        },
         {
           "id": "lex_162365",
           "score": 6.5,
