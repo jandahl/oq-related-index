@@ -28,11 +28,8 @@ GitHub Pages from this repository.
 ## Data and licensing
 
 The source linguistic data is attributed to Oqaasileriffik (Greenlandic
-Language Secretariat). It is published by the source projects under
-**GPL-3.0-or-later** — there is no CC-BY-SA grant, despite what earlier
-versions of this file and `NOTICE.md` claimed. Generated indexes derived from
-that data are published under the same license, GPL-3.0-or-later, since a
-GPLv3 derivative can't be relicensed by its downstream author. See `NOTICE.md`
-and the generated manifest for provenance.
+Language Secretariat) and published under **GPL-3.0-or-later** — there is no
+CC-BY-SA grant. Generated indexes derived from that data are published under
+the same license. See `NOTICE.md` and the generated manifest for provenance.
 
 This repository contains no private grammar data.
