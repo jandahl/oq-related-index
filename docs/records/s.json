@@ -12882,7 +12882,7 @@
       "related": [
         {
           "id": "lex_28560",
-          "score": 8.678071905112638,
+          "score": 8.356143810225277,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -13023,6 +13023,41 @@
         "kalaallisut": "Oqaasersiuut (2012)"
       },
       "related": []
+    },
+    {
+      "id": "lex_266251",
+      "headword": "sakku tigumiartagaq",
+      "word_class": "t",
+      "gloss_en": [
+        "handheld tool"
+      ],
+      "gloss_da": [
+        "håndholdt værktøj"
+      ],
+      "semantic_classes": [
+        "tool"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_28852",
+          "score": 6.178071905112638,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "sannat",
+          "shard": "s"
+        }
+      ]
     },
     {
       "id": "lex_234889",
@@ -15629,7 +15664,7 @@
       "related": [
         {
           "id": "lex_142377",
-          "score": 8.678071905112638,
+          "score": 8.356143810225277,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -28136,7 +28171,20 @@
         "tool"
       ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_266251",
+          "score": 6.178071905112638,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "sakku tigumiartagaq",
+          "shard": "s"
+        }
+      ]
     },
     {
       "id": "lex_28853",
@@ -125351,20 +125399,7 @@
         "sem-r"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_183117",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "tusarniaanermit nalunaarusiaq",
-          "shard": "t"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_258885",
@@ -130280,6 +130315,29 @@
         "ac"
       ],
       "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_266311",
+      "headword": "suliarisassat allassimaffiat",
+      "word_class": "t",
+      "gloss_en": [
+        "Terms of Reference",
+        "ToR"
+      ],
+      "gloss_da": [
+        "kommissorium"
+      ],
+      "semantic_classes": [
+        "sem-r"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
       "related": []
     },
     {
@@ -155587,34 +155645,7 @@
         "Lh"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_36119",
-          "score": 6.630929753571458,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "eqqartuussisinnaaffik",
-          "shard": "e"
-        },
-        {
-          "id": "lex_6585",
-          "score": 6.630929753571458,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "eqqartuussisinnaaneq",
-          "shard": "e"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_23203",
@@ -158029,7 +158060,7 @@
       "related": [
         {
           "id": "lex_185833",
-          "score": 11.401157487963971,
+          "score": 10.816194987242815,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -158042,7 +158073,7 @@
         },
         {
           "id": "lex_148648",
-          "score": 8.915037499278844,
+          "score": 8.901157487963971,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -158054,7 +158085,7 @@
         },
         {
           "id": "lex_188949",
-          "score": 8.915037499278844,
+          "score": 8.901157487963971,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -158066,7 +158097,7 @@
         },
         {
           "id": "lex_163109",
-          "score": 8.901157487963971,
+          "score": 8.870511867837452,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -158078,7 +158109,7 @@
         },
         {
           "id": "lex_188084",
-          "score": 8.901157487963971,
+          "score": 8.870511867837452,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -158876,6 +158907,26 @@
         "Hnat"
       ],
       "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_266263",
+      "headword": "svovleqassusissamik IMO-mit peqqussut; IMO 2020",
+      "word_class": "prop",
+      "gloss_en": [
+        "IMO 2020 low sulphur regulation"
+      ],
+      "gloss_da": [
+        "IMO 2020 svovlkravet"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
       "related": []
     },
     {

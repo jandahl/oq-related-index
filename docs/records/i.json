@@ -4664,6 +4664,28 @@
       "related": []
     },
     {
+      "id": "lex_266237",
+      "headword": "igitassaq",
+      "word_class": "t",
+      "gloss_en": [
+        "waste rock"
+      ],
+      "gloss_da": [
+        "gråbjerg"
+      ],
+      "semantic_classes": [
+        "mat"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_33981",
       "headword": "igitassaq",
       "word_class": "t",
@@ -23144,8 +23166,20 @@
       },
       "related": [
         {
+          "id": "lex_266326",
+          "score": 6.915037499278844,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "kulbrinte",
+          "shard": "k"
+        },
+        {
           "id": "lex_154156",
-          "score": 7.054114156520627,
+          "score": 6.639076657241783,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -23159,7 +23193,7 @@
         },
         {
           "id": "lex_154347",
-          "score": 7.054114156520627,
+          "score": 6.639076657241783,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -23173,7 +23207,7 @@
         },
         {
           "id": "lex_174023",
-          "score": 7.008146903670325,
+          "score": 6.423184402949169,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -23351,19 +23385,6 @@
       },
       "related": [
         {
-          "id": "lex_154066",
-          "score": 7.008146903670325,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "ikummatissaq kulbrintiusoq",
-          "shard": "i"
-        },
-        {
           "id": "lex_232418",
           "score": 6.5,
           "reasons": [
@@ -23373,6 +23394,19 @@
             "reciprocal relatedness"
           ],
           "headword": "ikummatissaq tipilik",
+          "shard": "i"
+        },
+        {
+          "id": "lex_154066",
+          "score": 6.423184402949169,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ikummatissaq kulbrintiusoq",
           "shard": "i"
         },
         {
@@ -23412,7 +23446,7 @@
       "related": [
         {
           "id": "lex_154347",
-          "score": 12.338221902228014,
+          "score": 11.853860961022562,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -23426,7 +23460,7 @@
         },
         {
           "id": "lex_154066",
-          "score": 7.054114156520627,
+          "score": 6.639076657241783,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -23463,7 +23497,7 @@
       "related": [
         {
           "id": "lex_154156",
-          "score": 12.338221902228014,
+          "score": 11.853860961022562,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -23477,7 +23511,7 @@
         },
         {
           "id": "lex_154066",
-          "score": 7.054114156520627,
+          "score": 6.639076657241783,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -52573,7 +52607,7 @@
       "related": [
         {
           "id": "lex_34110",
-          "score": 7.915037499278844,
+          "score": 7.330074998557688,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -54196,7 +54230,7 @@
       "related": [
         {
           "id": "lex_34253",
-          "score": 7.915037499278844,
+          "score": 7.330074998557688,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -64354,6 +64388,28 @@
         "english": "MED MEDICINE",
         "danish": "MED MEDICIN",
         "kalaallisut": "MED NAKORSAANERMIK ILISIMATUSAATIT"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_266254",
+      "headword": "illuatungeq attuumassutilik",
+      "word_class": "t",
+      "gloss_en": [
+        "non-independent party"
+      ],
+      "gloss_da": [
+        "ikke-uafhængig part"
+      ],
+      "semantic_classes": [
+        "part"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
       },
       "related": []
     },
@@ -83198,6 +83254,131 @@
       "related": []
     },
     {
+      "id": "lex_266267",
+      "headword": "imaanut eqqaasarnermik IMO-mi isumaqatigiissut",
+      "word_class": "prop",
+      "gloss_en": [
+        "IMO Convention on the Prevention of Marine Pollution by Dumping of Wastes and Other Matter",
+        "London Convention"
+      ],
+      "gloss_da": [
+        "IMO-konvention om affaldsdumpning",
+        "London konvention"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266268",
+          "score": 19.67807190511264,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "Londonimi Isumaqatigiissut",
+          "shard": "l"
+        },
+        {
+          "id": "lex_266279",
+          "score": 10,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "umiarsuit mingutsitsinaveersaarnissaannik IMO-mi isumaqatigiissut",
+          "shard": "u"
+        },
+        {
+          "id": "lex_266280",
+          "score": 10,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "MARPOL",
+          "shard": "m"
+        },
+        {
+          "id": "lex_266272",
+          "score": 7.868984350686937,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "naanaveersaatit pillugit IMO-mi isumaqatigiissut",
+          "shard": "n"
+        },
+        {
+          "id": "lex_266275",
+          "score": 7.868984350686937,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imeq uaanaveeqqut pillugu IMO-mi isumaqatigiissut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_266111",
+          "score": 7.2711963697702835,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "Danmarkimi Kalaallit Nunaannilu Nunap Sananeqaataanik Misissuisoqarfik",
+          "shard": "d"
+        },
+        {
+          "id": "lex_266113",
+          "score": 7.2711963697702835,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "GEUS",
+          "shard": "g"
+        },
+        {
+          "id": "lex_149933",
+          "score": 5.315464876785729,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "meeqqat pisinnaatitaaffii pillugit isumaqatigiissut",
+          "shard": "m"
+        }
+      ]
+    },
+    {
       "id": "lex_162165",
       "headword": "imaanut igitsineq",
       "word_class": "t",
@@ -87002,6 +87183,41 @@
       "related": []
     },
     {
+      "id": "lex_266245",
+      "headword": "imeq pillugu ilisimatusarneq",
+      "word_class": "t",
+      "gloss_en": [
+        "hydrology"
+      ],
+      "gloss_da": [
+        "hydrologi"
+      ],
+      "semantic_classes": [
+        "domain"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_151534",
+          "score": 7.915037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ermit pillugit ilisimatusaat",
+          "shard": "e"
+        }
+      ]
+    },
+    {
       "id": "lex_207643",
       "headword": "imeq qaqorsaasigaq",
       "word_class": "t",
@@ -87109,6 +87325,92 @@
       ],
       "domain": null,
       "related": []
+    },
+    {
+      "id": "lex_266275",
+      "headword": "imeq uaanaveeqqut pillugu IMO-mi isumaqatigiissut",
+      "word_class": "prop",
+      "gloss_en": [
+        "IMO Ballast Water Management Convention"
+      ],
+      "gloss_da": [
+        "IMO-konvention om ballastvand"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266267",
+          "score": 7.868984350686937,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imaanut eqqaasarnermik IMO-mi isumaqatigiissut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_266268",
+          "score": 7.868984350686937,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "Londonimi Isumaqatigiissut",
+          "shard": "l"
+        },
+        {
+          "id": "lex_266279",
+          "score": 7.851115894139332,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "umiarsuit mingutsitsinaveersaarnissaannik IMO-mi isumaqatigiissut",
+          "shard": "u"
+        },
+        {
+          "id": "lex_266280",
+          "score": 7.851115894139332,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "MARPOL",
+          "shard": "m"
+        },
+        {
+          "id": "lex_266272",
+          "score": 7.797596420238124,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "naanaveersaatit pillugit IMO-mi isumaqatigiissut",
+          "shard": "n"
+        }
+      ]
     },
     {
       "id": "lex_209324",
@@ -103850,6 +104152,26 @@
       "related": []
     },
     {
+      "id": "lex_266260",
+      "headword": "IMO",
+      "word_class": "prop",
+      "gloss_en": [
+        "IMO"
+      ],
+      "gloss_da": [
+        "IMO"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_130691",
       "headword": "imoorivoq",
       "word_class": "v",
@@ -107382,7 +107704,7 @@
         },
         {
           "id": "lex_266111",
-          "score": 5.356207187108022,
+          "score": 5.289064826317888,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -107393,7 +107715,7 @@
         },
         {
           "id": "lex_266113",
-          "score": 5.356207187108022,
+          "score": 5.289064826317888,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -110081,6 +110403,28 @@
         "english": "JUR General topics",
         "danish": "JUR Generelle emner",
         "kalaallisut": "JUR Sammisat nalinginnaasut"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_266299",
+      "headword": "inatsisitigut oqartussaaffik",
+      "word_class": "t",
+      "gloss_en": [
+        "jurisdiction"
+      ],
+      "gloss_da": [
+        "jurisdiktion"
+      ],
+      "semantic_classes": [
+        "f-right"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
       },
       "related": []
     },
@@ -157111,7 +157455,7 @@
         },
         {
           "id": "lex_266111",
-          "score": 5.712414374216045,
+          "score": 5.64527201342591,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -157122,7 +157466,7 @@
         },
         {
           "id": "lex_266113",
-          "score": 5.712414374216045,
+          "score": 5.64527201342591,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -177794,7 +178138,7 @@
         },
         {
           "id": "lex_266111",
-          "score": 5.712414374216045,
+          "score": 5.64527201342591,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -177805,7 +178149,7 @@
         },
         {
           "id": "lex_266113",
-          "score": 5.712414374216045,
+          "score": 5.64527201342591,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -188455,6 +188799,26 @@
         "english": "NATUR Botany",
         "danish": "NATUR Botanik",
         "kalaallisut": "NATUR Naasunik ilisimatusarneq"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_266284",
+      "headword": "issittut imartaanni angalasarneq pillugu IMO-mit malitassiat",
+      "word_class": "prop",
+      "gloss_en": [
+        "IMO Polar Code"
+      ],
+      "gloss_da": [
+        "IMO's polarkode"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
       },
       "related": []
     },

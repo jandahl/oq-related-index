@@ -37401,20 +37401,7 @@
         "sem-r"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_185314",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "karakteri",
-          "shard": "k"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_244352",
@@ -37528,20 +37515,7 @@
         "sem-r"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_9637",
-          "score": 6,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "karakteeri",
-          "shard": "k"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_168023",
@@ -122565,6 +122539,41 @@
       ]
     },
     {
+      "id": "lex_266326",
+      "headword": "kulbrinte",
+      "word_class": "t",
+      "gloss_en": [
+        "hydrocarbon"
+      ],
+      "gloss_da": [
+        "kulbrinte"
+      ],
+      "semantic_classes": [
+        "cm"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_154066",
+          "score": 6.915037499278844,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ikummatissaq kulbrintiusoq",
+          "shard": "i"
+        }
+      ]
+    },
+    {
       "id": "lex_11934",
       "headword": "kullak",
       "word_class": "t",
@@ -131070,6 +131079,28 @@
         "english": "Oqaasersiuut (2012)",
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_266234",
+      "headword": "kussiaq",
+      "word_class": "t",
+      "gloss_en": [
+        "trench"
+      ],
+      "gloss_da": [
+        "grøft"
+      ],
+      "semantic_classes": [
+        "Ltop"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
       },
       "related": []
     },

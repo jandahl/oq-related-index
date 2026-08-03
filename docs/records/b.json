@@ -6691,7 +6691,7 @@
       "related": [
         {
           "id": "lex_188949",
-          "score": 9.915037499278844,
+          "score": 9.901157487963971,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -6704,7 +6704,7 @@
         },
         {
           "id": "lex_148648",
-          "score": 8.915037499278844,
+          "score": 8.901157487963971,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -6713,30 +6713,6 @@
           ],
           "headword": "meeqqanut atuakkiaq",
           "shard": "m"
-        },
-        {
-          "id": "lex_163109",
-          "score": 8.901157487963971,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "meeqqanut erinarsuusiaq",
-          "shard": "m"
-        },
-        {
-          "id": "lex_181284",
-          "score": 8.901157487963971,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "suussuseq",
-          "shard": "s"
         },
         {
           "id": "lex_185833",
@@ -6749,6 +6725,30 @@
           ],
           "headword": "uumassusilik tiguaasoq",
           "shard": "u"
+        },
+        {
+          "id": "lex_163109",
+          "score": 8.870511867837452,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "meeqqanut erinarsuusiaq",
+          "shard": "m"
+        },
+        {
+          "id": "lex_181284",
+          "score": 8.870511867837452,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "suussuseq",
+          "shard": "s"
         }
       ]
     },

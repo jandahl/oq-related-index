@@ -21669,6 +21669,92 @@
       "related": []
     },
     {
+      "id": "lex_266272",
+      "headword": "naanaveersaatit pillugit IMO-mi isumaqatigiissut",
+      "word_class": "prop",
+      "gloss_en": [
+        "IMO Anti-fouling Convention"
+      ],
+      "gloss_da": [
+        "IMO-konvention om antibegroningssystemer"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266267",
+          "score": 7.868984350686937,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imaanut eqqaasarnermik IMO-mi isumaqatigiissut",
+          "shard": "i"
+        },
+        {
+          "id": "lex_266268",
+          "score": 7.868984350686937,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "Londonimi Isumaqatigiissut",
+          "shard": "l"
+        },
+        {
+          "id": "lex_266279",
+          "score": 7.851115894139332,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "umiarsuit mingutsitsinaveersaarnissaannik IMO-mi isumaqatigiissut",
+          "shard": "u"
+        },
+        {
+          "id": "lex_266280",
+          "score": 7.851115894139332,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "MARPOL",
+          "shard": "m"
+        },
+        {
+          "id": "lex_266275",
+          "score": 7.797596420238124,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imeq uaanaveeqqut pillugu IMO-mi isumaqatigiissut",
+          "shard": "i"
+        }
+      ]
+    },
+    {
       "id": "lex_141783",
       "headword": "naaneq",
       "word_class": "t",
@@ -78719,7 +78805,7 @@
       "related": [
         {
           "id": "lex_16432",
-          "score": 9.5,
+          "score": 8.915037499278844,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -78981,7 +79067,7 @@
       "related": [
         {
           "id": "lex_8023",
-          "score": 5.809001658684096,
+          "score": 5.630929753571458,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -78992,7 +79078,7 @@
         },
         {
           "id": "lex_8024",
-          "score": 5.809001658684096,
+          "score": 5.630929753571458,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -80199,7 +80285,7 @@
       "related": [
         {
           "id": "lex_8023",
-          "score": 5.809001658684096,
+          "score": 5.630929753571458,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -80210,7 +80296,7 @@
         },
         {
           "id": "lex_8033",
-          "score": 5.809001658684096,
+          "score": 5.630929753571458,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -80449,7 +80535,7 @@
       "related": [
         {
           "id": "lex_8024",
-          "score": 5.809001658684096,
+          "score": 5.630929753571458,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -80460,7 +80546,7 @@
         },
         {
           "id": "lex_8033",
-          "score": 5.809001658684096,
+          "score": 5.630929753571458,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -194498,7 +194584,20 @@
         "domain"
       ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_266223",
+          "score": 6.5,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "geoteknikki",
+          "shard": "g"
+        }
+      ]
     },
     {
       "id": "lex_266202",
@@ -194539,14 +194638,22 @@
       "id": "lex_175157",
       "headword": "nunap sisoornera",
       "word_class": "t",
-      "gloss_en": [],
+      "gloss_en": [
+        "landslide"
+      ],
       "gloss_da": [
         "jordskred"
       ],
       "semantic_classes": [
         "event"
       ],
-      "domain": null,
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
       "related": []
     },
     {
@@ -196908,21 +197015,8 @@
       },
       "related": [
         {
-          "id": "lex_266199",
-          "score": 9.5,
-          "reasons": [
-            "same semantic class",
-            "same domain",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "geokemiimut tunngasoq",
-          "shard": "g"
-        },
-        {
           "id": "lex_266195",
-          "score": 9.430676558073394,
+          "score": 9.415037499278844,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -196934,8 +197028,21 @@
           "shard": "g"
         },
         {
+          "id": "lex_266199",
+          "score": 9.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "geokemiimut tunngasoq",
+          "shard": "g"
+        },
+        {
           "id": "lex_266211",
-          "score": 9.430676558073394,
+          "score": 9.415037499278844,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -196945,6 +197052,32 @@
           ],
           "headword": "geologiimut tunngasoq",
           "shard": "g"
+        },
+        {
+          "id": "lex_266225",
+          "score": 9.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "geoteknikkimut tunngasoq",
+          "shard": "g"
+        },
+        {
+          "id": "lex_266242",
+          "score": 9.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "ermup nukinganik innaallagissiortoq",
+          "shard": "e"
         }
       ]
     },
@@ -200893,6 +201026,28 @@
           "shard": "t"
         }
       ]
+    },
+    {
+      "id": "lex_266321",
+      "headword": "nunavissuup immap naqqaniittortaa",
+      "word_class": "t",
+      "gloss_en": [
+        "continental shelf"
+      ],
+      "gloss_da": [
+        "kontinentalsokkel"
+      ],
+      "semantic_classes": [
+        "Ltop"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
     },
     {
       "id": "lex_208183",
@@ -212323,7 +212478,7 @@
       "related": [
         {
           "id": "lex_188084",
-          "score": 9.915037499278844,
+          "score": 9.901157487963971,
           "reasons": [
             "same semantic class",
             "same domain",
@@ -212347,8 +212502,20 @@
           "shard": "m"
         },
         {
-          "id": "lex_163109",
+          "id": "lex_185833",
           "score": 8.915037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "uumassusilik tiguaasoq",
+          "shard": "u"
+        },
+        {
+          "id": "lex_163109",
+          "score": 8.901157487963971,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -212360,7 +212527,7 @@
         },
         {
           "id": "lex_181284",
-          "score": 8.915037499278844,
+          "score": 8.901157487963971,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -212369,18 +212536,6 @@
           ],
           "headword": "suussuseq",
           "shard": "s"
-        },
-        {
-          "id": "lex_185833",
-          "score": 8.915037499278844,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uumassusilik tiguaasoq",
-          "shard": "u"
         }
       ]
     },
