@@ -32285,6 +32285,42 @@
       "related": []
     },
     {
+      "id": "lex_266387",
+      "headword": "tangertussuseq",
+      "word_class": "t",
+      "gloss_en": [
+        "density"
+      ],
+      "gloss_da": [
+        "massefylde",
+        "densitet"
+      ],
+      "semantic_classes": [
+        "f-q"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266090",
+          "score": 6.415037499278844,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "silaannartat ilanngullugit tangertussuseq",
+          "shard": "s"
+        }
+      ]
+    },
+    {
       "id": "lex_38092",
       "headword": "tangertuvoq",
       "word_class": "v",
@@ -90450,6 +90486,29 @@
       "related": []
     },
     {
+      "id": "lex_266332",
+      "headword": "toqqorsivik",
+      "word_class": "t",
+      "gloss_en": [
+        "stockpile"
+      ],
+      "gloss_da": [
+        "lager",
+        "depot"
+      ],
+      "semantic_classes": [
+        "Lh"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_35426",
       "headword": "toqqorsivik",
       "word_class": "t",
@@ -114463,7 +114522,7 @@
       "related": [
         {
           "id": "lex_173019",
-          "score": 6.714597781137751,
+          "score": 6.642447995381916,
           "reasons": [
             "same semantic class",
             "same word class",

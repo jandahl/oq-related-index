@@ -19363,7 +19363,7 @@
       "related": [
         {
           "id": "lex_173021",
-          "score": 6.714597781137751,
+          "score": 6.642447995381916,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -49881,7 +49881,7 @@
       "related": [
         {
           "id": "lex_32778",
-          "score": 8.455605880641546,
+          "score": 8.412537158749661,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -58793,20 +58793,7 @@
         "cm"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_29255",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "saviminissaq",
-          "shard": "s"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_177905",
@@ -93453,7 +93440,7 @@
       "related": [
         {
           "id": "lex_184524",
-          "score": 8.629635280416595,
+          "score": 8.55748549466076,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -115526,6 +115513,78 @@
       ],
       "domain": null,
       "related": []
+    },
+    {
+      "id": "lex_266361",
+      "headword": "akilersinnaassutsimik aallaqqaatitut misissuineq",
+      "word_class": "t",
+      "gloss_en": [
+        "pre-feasibility study"
+      ],
+      "gloss_da": [
+        "lønsomhedsforundersøgelse"
+      ],
+      "semantic_classes": [
+        "activity"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266364",
+          "score": 7.678071905112638,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "akilersinnaassutsimik misissuineq",
+          "shard": "a"
+        }
+      ]
+    },
+    {
+      "id": "lex_266364",
+      "headword": "akilersinnaassutsimik misissuineq",
+      "word_class": "t",
+      "gloss_en": [
+        "feasibility study"
+      ],
+      "gloss_da": [
+        "lønsomhedsundersøgelse"
+      ],
+      "semantic_classes": [
+        "activity"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266361",
+          "score": 7.678071905112638,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "akilersinnaassutsimik aallaqqaatitut misissuineq",
+          "shard": "a"
+        }
+      ]
     },
     {
       "id": "lex_1552",
@@ -141454,7 +141513,6 @@
         "tilladelse",
         "koncession",
         "bevilling",
-        "licens",
         "oktroj"
       ],
       "semantic_classes": [
@@ -141673,6 +141731,28 @@
       "related": []
     },
     {
+      "id": "lex_266343",
+      "headword": "akuersissut",
+      "word_class": "t",
+      "gloss_en": [
+        "licence"
+      ],
+      "gloss_da": [
+        "licens"
+      ],
+      "semantic_classes": [
+        "f-right"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_177872",
       "headword": "akuersissuteqarluni isumaqatigiissut",
       "word_class": "t",
@@ -141769,6 +141849,26 @@
           "shard": "a"
         }
       ]
+    },
+    {
+      "id": "lex_266345",
+      "headword": "Akuersissuteqartarnermut Immikkoortortaqarfik",
+      "word_class": "prop",
+      "gloss_en": [
+        "Licence Department"
+      ],
+      "gloss_da": [
+        "Licensafdelingen"
+      ],
+      "semantic_classes": [],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
     },
     {
       "id": "lex_541",
@@ -141916,6 +142016,41 @@
       "related": []
     },
     {
+      "id": "lex_266350",
+      "headword": "akuersissutilik",
+      "word_class": "t",
+      "gloss_en": [
+        "licensee"
+      ],
+      "gloss_da": [
+        "licenshaver"
+      ],
+      "semantic_classes": [
+        "H"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266348",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "ingerlatseqatigiiffik akuersissutilik",
+          "shard": "i"
+        }
+      ]
+    },
+    {
       "id": "lex_163349",
       "headword": "akuersissutinik nakkutilliisoq",
       "word_class": "t",
@@ -141975,6 +142110,28 @@
           "shard": "n"
         }
       ]
+    },
+    {
+      "id": "lex_266356",
+      "headword": "akuersissutip atuuffia",
+      "word_class": "t",
+      "gloss_en": [
+        "license period"
+      ],
+      "gloss_da": [
+        "licensperiode"
+      ],
+      "semantic_classes": [
+        "per"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
     },
     {
       "id": "lex_188764",
@@ -142662,6 +142819,28 @@
       "related": []
     },
     {
+      "id": "lex_266372",
+      "headword": "akuiagassaq",
+      "word_class": "t",
+      "gloss_en": [
+        "ore"
+      ],
+      "gloss_da": [
+        "malm"
+      ],
+      "semantic_classes": [
+        "mat"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_261825",
       "headword": "akuiagassaq piiagaq",
       "word_class": "t",
@@ -142683,6 +142862,64 @@
         "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
       },
       "related": []
+    },
+    {
+      "id": "lex_266375",
+      "headword": "akuiagassaqarfik",
+      "word_class": "t",
+      "gloss_en": [
+        "orebody",
+        "ore resource"
+      ],
+      "gloss_da": [
+        "malmlegeme",
+        "malmressource"
+      ],
+      "semantic_classes": [
+        "mat"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_266381",
+      "headword": "akuiagassaqarfik akilersinnaasoq",
+      "word_class": "t",
+      "gloss_en": [
+        "ore reserve"
+      ],
+      "gloss_da": [],
+      "semantic_classes": [
+        "part"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266380",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "malmreserve",
+          "shard": "m"
+        }
+      ]
     },
     {
       "id": "lex_2298",
@@ -142856,6 +143093,28 @@
       "related": []
     },
     {
+      "id": "lex_266358",
+      "headword": "akuissuseq",
+      "word_class": "t",
+      "gloss_en": [
+        "grade"
+      ],
+      "gloss_da": [
+        "lødighed"
+      ],
+      "semantic_classes": [
+        "f-q"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_2098",
       "headword": "akuitsoq",
       "word_class": "t",
@@ -142899,6 +143158,28 @@
       "gloss_da": [],
       "semantic_classes": [],
       "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_266338",
+      "headword": "akukitsoq",
+      "word_class": "t",
+      "gloss_en": [
+        "low-grade"
+      ],
+      "gloss_da": [
+        "lavlødig"
+      ],
+      "semantic_classes": [
+        "mat"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
       "related": []
     },
     {
@@ -148112,6 +148393,28 @@
       "related": []
     },
     {
+      "id": "lex_266341",
+      "headword": "akusaq saffiugassartalik",
+      "word_class": "t",
+      "gloss_en": [
+        "alloy"
+      ],
+      "gloss_da": [
+        "legering"
+      ],
+      "semantic_classes": [
+        "mat"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_2464",
       "headword": "akusimasoq",
       "word_class": "t",
@@ -152546,7 +152849,7 @@
       "related": [
         {
           "id": "lex_36714",
-          "score": 7.660149997115376,
+          "score": 7.60768257722124,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156259,21 +156562,8 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_2683",
-          "score": 8.545803689613125,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "alimavoq",
-          "shard": "a"
-        },
-        {
           "id": "lex_121563",
-          "score": 8.476480247686519,
+          "score": 8.545803689613125,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156286,7 +156576,7 @@
         },
         {
           "id": "lex_2682",
-          "score": 8.476480247686519,
+          "score": 8.545803689613125,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156295,6 +156585,19 @@
             "shared related words"
           ],
           "headword": "alimasippoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_2683",
+          "score": 8.545803689613125,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "alimavoq",
           "shard": "a"
         }
       ]
@@ -156325,21 +156628,8 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_2683",
-          "score": 8.545803689613125,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "alimavoq",
-          "shard": "a"
-        },
-        {
           "id": "lex_121563",
-          "score": 8.476480247686519,
+          "score": 8.545803689613125,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156352,7 +156642,7 @@
         },
         {
           "id": "lex_2681",
-          "score": 8.476480247686519,
+          "score": 8.545803689613125,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156361,6 +156651,19 @@
             "shared related words"
           ],
           "headword": "alimasiarpoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_2683",
+          "score": 8.545803689613125,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "alimavoq",
           "shard": "a"
         }
       ]
@@ -157445,7 +157748,7 @@
         },
         {
           "id": "lex_2681",
-          "score": 8.476480247686519,
+          "score": 8.545803689613125,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -157458,7 +157761,7 @@
         },
         {
           "id": "lex_2682",
-          "score": 8.476480247686519,
+          "score": 8.545803689613125,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -160035,7 +160338,7 @@
       "related": [
         {
           "id": "lex_3021",
-          "score": 8.129635280416595,
+          "score": 8.05748549466076,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -313977,7 +314280,7 @@
       "related": [
         {
           "id": "lex_172630",
-          "score": 6.8706433799203905,
+          "score": 6.827574658028505,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -314006,7 +314309,7 @@
       "related": [
         {
           "id": "lex_172271",
-          "score": 6.8706433799203905,
+          "score": 6.827574658028505,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -327970,7 +328273,7 @@
       "related": [
         {
           "id": "lex_169537",
-          "score": 6.955605880641547,
+          "score": 6.912537158749661,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -344614,7 +344917,7 @@
       "related": [
         {
           "id": "lex_172297",
-          "score": 12.455605880641546,
+          "score": 12.412537158749661,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -346899,6 +347202,28 @@
       "related": []
     },
     {
+      "id": "lex_266397",
+      "headword": "avatangiisinik innarlitsaaliuineq",
+      "word_class": "t",
+      "gloss_en": [
+        "environmental protection"
+      ],
+      "gloss_da": [
+        "miljøbeskyttelse"
+      ],
+      "semantic_classes": [
+        "activity"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_180991",
       "headword": "avatangiisinik innarlitsaaliuinermut inatsit",
       "word_class": "t",
@@ -348004,6 +348329,30 @@
         "ac"
       ],
       "domain": null,
+      "related": []
+    },
+    {
+      "id": "lex_266404",
+      "headword": "avatangiisit mianeralugit aqutseriaaseq",
+      "word_class": "t",
+      "gloss_en": [
+        "Environmental Management System",
+        "EMS"
+      ],
+      "gloss_da": [
+        "miljøforvaltningssystem",
+        "EMS"
+      ],
+      "semantic_classes": [
+        "sem-c"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
       "related": []
     },
     {

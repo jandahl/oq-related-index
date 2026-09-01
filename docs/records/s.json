@@ -8996,6 +8996,28 @@
       "related": []
     },
     {
+      "id": "lex_266392",
+      "headword": "saffiugassanik ilisimatusarneq",
+      "word_class": "t",
+      "gloss_en": [
+        "metallurgy"
+      ],
+      "gloss_da": [
+        "metallurgi"
+      ],
+      "semantic_classes": [
+        "domain"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_235812",
       "headword": "saffiugassanik kissaanikkut napititerineq",
       "word_class": "t",
@@ -9010,6 +9032,28 @@
         "english": "Oqaasersiuut (2012)",
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_266390",
+      "headword": "saffiugassaq",
+      "word_class": "t",
+      "gloss_en": [
+        "metal"
+      ],
+      "gloss_da": [
+        "metal"
+      ],
+      "semantic_classes": [
+        "mat"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
       },
       "related": []
     },
@@ -43434,20 +43478,7 @@
         "cm"
       ],
       "domain": null,
-      "related": [
-        {
-          "id": "lex_32979",
-          "score": 6.5,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "aatsitassaq",
-          "shard": "a"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_180501",
@@ -44334,6 +44365,28 @@
       "related": []
     },
     {
+      "id": "lex_266370",
+      "headword": "saviup kajungerisaqarfianik uuttuut",
+      "word_class": "t",
+      "gloss_en": [
+        "magnetometer"
+      ],
+      "gloss_da": [
+        "magnetometer"
+      ],
+      "semantic_classes": [
+        "cc-h"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_180910",
       "headword": "saviup kiinaa",
       "word_class": "t",
@@ -44473,6 +44526,41 @@
         "kalaallisut": "Oqaasersiuut (2012)"
       },
       "related": []
+    },
+    {
+      "id": "lex_266368",
+      "headword": "saviup-kajungerisaqarfia",
+      "word_class": "t",
+      "gloss_en": [
+        "magnetic field"
+      ],
+      "gloss_da": [
+        "magnetfelt"
+      ],
+      "semantic_classes": [
+        "L"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_12682",
+          "score": 8.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "magneteqarfik",
+          "shard": "m"
+        }
+      ]
     },
     {
       "id": "lex_266220",
@@ -44728,7 +44816,7 @@
       "related": [
         {
           "id": "lex_261595",
-          "score": 10.830074998557688,
+          "score": 10.508146903670326,
           "reasons": [
             "same domain",
             "same word class",
@@ -44891,7 +44979,7 @@
       "related": [
         {
           "id": "lex_261596",
-          "score": 10.830074998557688,
+          "score": 10.508146903670326,
           "reasons": [
             "same domain",
             "same word class",
@@ -68901,16 +68989,16 @@
       },
       "related": [
         {
-          "id": "lex_232835",
-          "score": 6.5,
+          "id": "lex_266387",
+          "score": 6.415037499278844,
           "reasons": [
             "same domain",
             "same word class",
             "shared gloss",
             "reciprocal relatedness"
           ],
-          "headword": "ussissutsip imermut naleqqiullugu annertussusaa",
-          "shard": "u"
+          "headword": "tangertussuseq",
+          "shard": "t"
         }
       ]
     },
@@ -92237,7 +92325,7 @@
       "related": [
         {
           "id": "lex_2574",
-          "score": 7.245112497836532,
+          "score": 7.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -108592,7 +108680,7 @@
       "related": [
         {
           "id": "lex_185972",
-          "score": 6.955605880641547,
+          "score": 6.912537158749661,
           "reasons": [
             "same semantic class",
             "same word class",

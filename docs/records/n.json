@@ -49655,19 +49655,20 @@
       "related": [
         {
           "id": "lex_2573",
-          "score": 10.07518749639422,
+          "score": 10.522720076500084,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "misissorpaa",
           "shard": "m"
         },
         {
           "id": "lex_166983",
-          "score": 7.245112497836532,
+          "score": 7.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -49676,6 +49677,19 @@
           ],
           "headword": "sissuerpaa",
           "shard": "s"
+        },
+        {
+          "id": "lex_14820",
+          "score": 6.963889764329262,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "misissoqqippaa",
+          "shard": "m"
         }
       ]
     },
@@ -77278,7 +77292,7 @@
       "related": [
         {
           "id": "lex_16362",
-          "score": 7.245112497836532,
+          "score": 7.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -77307,7 +77321,7 @@
       "related": [
         {
           "id": "lex_16363",
-          "score": 7.245112497836532,
+          "score": 7.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -142263,7 +142277,7 @@
       "related": [
         {
           "id": "lex_3020",
-          "score": 8.129635280416595,
+          "score": 8.05748549466076,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -171605,7 +171619,7 @@
       "related": [
         {
           "id": "lex_19189",
-          "score": 6.714597781137751,
+          "score": 6.642447995381916,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -171673,7 +171687,7 @@
       "related": [
         {
           "id": "lex_19188",
-          "score": 6.714597781137751,
+          "score": 6.642447995381916,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -191139,6 +191153,28 @@
       ]
     },
     {
+      "id": "lex_266335",
+      "headword": "nunami ingerlatassanut pilersaarut",
+      "word_class": "t",
+      "gloss_en": [
+        "Land Based Activities Plan"
+      ],
+      "gloss_da": [
+        "landbaseret aktivitetsplan"
+      ],
+      "semantic_classes": [
+        "sem-c"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_161334",
       "headword": "nunami namminermi",
       "word_class": "t",
@@ -191537,6 +191573,28 @@
         "english": "MILJØ Soil",
         "danish": "MILJØ Jord",
         "kalaallisut": "MILJØ Nuna"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_266353",
+      "headword": "nunaminertaq akuersissuteqarfik",
+      "word_class": "t",
+      "gloss_en": [
+        "licence area"
+      ],
+      "gloss_da": [
+        "licensområde"
+      ],
+      "semantic_classes": [
+        "Ltop"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
       },
       "related": []
     },
@@ -198810,7 +198868,7 @@
       "related": [
         {
           "id": "lex_207204",
-          "score": 12.455605880641546,
+          "score": 12.412537158749661,
           "reasons": [
             "same semantic class",
             "same word class",
