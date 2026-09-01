@@ -120622,6 +120622,41 @@
       ]
     },
     {
+      "id": "lex_266348",
+      "headword": "ingerlatseqatigiiffik akuersissutilik",
+      "word_class": "t",
+      "gloss_en": [
+        "licensee company"
+      ],
+      "gloss_da": [
+        "licensehaverselskab"
+      ],
+      "semantic_classes": [
+        "HHorg"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266350",
+          "score": 6.5,
+          "reasons": [
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "akuersissutilik",
+          "shard": "a"
+        }
+      ]
+    },
+    {
       "id": "lex_173317",
       "headword": "ingerlatseqatigiiffik aqutaq",
       "word_class": "t",
@@ -138278,7 +138313,8 @@
       "headword": "inoqatinut attaveqaat",
       "word_class": "t",
       "gloss_en": [
-        "social media"
+        "social media",
+        "SoMe"
       ],
       "gloss_da": [
         "socialt medie",
@@ -138294,9 +138330,11 @@
       "id": "lex_218587",
       "headword": "inoqatinut attaveqaat",
       "word_class": "t",
-      "gloss_en": [],
+      "gloss_en": [
+        "SoMe"
+      ],
       "gloss_da": [
-        "sociale medier"
+        "socialt medie"
       ],
       "semantic_classes": [],
       "domain": {
@@ -138325,7 +138363,7 @@
       "related": [
         {
           "id": "lex_185801",
-          "score": 9.692645077942396,
+          "score": 9.870716983055035,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -145551,7 +145589,7 @@
       "related": [
         {
           "id": "lex_152206",
-          "score": 9.692645077942396,
+          "score": 9.870716983055035,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -197460,7 +197498,7 @@
       "related": [
         {
           "id": "lex_22697",
-          "score": 8.415037499278844,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same word class",
