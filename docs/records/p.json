@@ -10076,7 +10076,7 @@
       "related": [
         {
           "id": "lex_10526",
-          "score": 7.310037210183712,
+          "score": 7.226924170163056,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -10089,7 +10089,7 @@
         },
         {
           "id": "lex_2573",
-          "score": 6.8760422514079895,
+          "score": 6.823574831513854,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -52852,7 +52852,7 @@
       "related": [
         {
           "id": "lex_32776",
-          "score": 8.455605880641546,
+          "score": 8.412537158749661,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -56697,7 +56697,7 @@
       "related": [
         {
           "id": "lex_7706",
-          "score": 8.415037499278844,
+          "score": 8,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -124511,7 +124511,7 @@
         },
         {
           "id": "lex_8774",
-          "score": 6.430676558073393,
+          "score": 6.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -125323,7 +125323,7 @@
       "related": [
         {
           "id": "lex_886",
-          "score": 8.629635280416595,
+          "score": 8.55748549466076,
           "reasons": [
             "same semantic class",
             "same word class",

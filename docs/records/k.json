@@ -69887,7 +69887,20 @@
         "V.35.4"
       ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_14820",
+          "score": 7.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "misissoqqippaa",
+          "shard": "m"
+        }
+      ]
     },
     {
       "id": "lex_10480",

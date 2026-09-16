@@ -4037,7 +4037,20 @@
         "L"
       ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_266368",
+          "score": 8.415037499278844,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "saviup-kajungerisaqarfia",
+          "shard": "s"
+        }
+      ]
     },
     {
       "id": "lex_8771",
@@ -14527,6 +14540,40 @@
       "related": []
     },
     {
+      "id": "lex_266380",
+      "headword": "malmreserve",
+      "word_class": "t",
+      "gloss_en": [
+        "ore reserve"
+      ],
+      "gloss_da": [],
+      "semantic_classes": [
+        "part"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266381",
+          "score": 6,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "akuiagassaqarfik akilersinnaasoq",
+          "shard": "a"
+        }
+      ]
+    },
+    {
       "id": "lex_4583",
       "headword": "malugaa",
       "word_class": "v",
@@ -20827,6 +20874,18 @@
           "shard": "m"
         }
       ]
+    },
+    {
+      "id": "lex_266400",
+      "headword": "mamisarneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "healingsproces"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
     },
     {
       "id": "lex_13248",
@@ -32961,7 +33020,7 @@
       "related": [
         {
           "id": "lex_180301",
-          "score": 6.245112497836532,
+          "score": 6.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -33050,7 +33109,7 @@
       "related": [
         {
           "id": "lex_161561",
-          "score": 6.245112497836532,
+          "score": 6.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -62313,6 +62372,28 @@
       "related": []
     },
     {
+      "id": "lex_266378",
+      "headword": "minerali akuiagassamiittoq",
+      "word_class": "t",
+      "gloss_en": [
+        "ore mineral"
+      ],
+      "gloss_da": [
+        "malmmineral"
+      ],
+      "semantic_classes": [
+        "mat"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_219213",
       "headword": "minerali manngertoq",
       "word_class": "t",
@@ -73233,12 +73314,54 @@
       "word_class": "v",
       "gloss_en": [],
       "gloss_da": [
+        "checke",
         "undersøge igen",
         "afchecke"
       ],
-      "semantic_classes": [],
+      "semantic_classes": [
+        "V.35.4"
+      ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_2573",
+          "score": 7.60768257722124,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "misissorpaa",
+          "shard": "m"
+        },
+        {
+          "id": "lex_151287",
+          "score": 7.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "killiffissiorpaa",
+          "shard": "k"
+        },
+        {
+          "id": "lex_2574",
+          "score": 6.963889764329262,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nakkutigaa",
+          "shard": "n"
+        }
+      ]
     },
     {
       "id": "lex_147225",
@@ -73456,19 +73579,33 @@
       "related": [
         {
           "id": "lex_2574",
-          "score": 10.07518749639422,
+          "score": 10.522720076500084,
           "reasons": [
             "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
           "headword": "nakkutigaa",
           "shard": "n"
         },
         {
+          "id": "lex_14820",
+          "score": 7.60768257722124,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "misissoqqippaa",
+          "shard": "m"
+        },
+        {
           "id": "lex_10526",
-          "score": 7.3760422514079895,
+          "score": 7.323574831513854,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -73481,7 +73618,7 @@
         },
         {
           "id": "lex_10527",
-          "score": 6.8760422514079895,
+          "score": 6.823574831513854,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -75487,7 +75624,7 @@
       "related": [
         {
           "id": "lex_2573",
-          "score": 7.3760422514079895,
+          "score": 7.323574831513854,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -75500,7 +75637,7 @@
         },
         {
           "id": "lex_10527",
-          "score": 7.310037210183712,
+          "score": 7.226924170163056,
           "reasons": [
             "same semantic class",
             "same word class",

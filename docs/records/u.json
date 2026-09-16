@@ -20225,7 +20225,7 @@
       "related": [
         {
           "id": "lex_186638",
-          "score": 7.660149997115376,
+          "score": 7.60768257722124,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -45014,7 +45014,7 @@
       "related": [
         {
           "id": "lex_613",
-          "score": 6.430676558073393,
+          "score": 6.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -68441,18 +68441,6 @@
           ],
           "headword": "ussissutsip imermut naleqqiullugu annertussusaa",
           "shard": "u"
-        },
-        {
-          "id": "lex_266090",
-          "score": 6.5,
-          "reasons": [
-            "same domain",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "silaannartat ilanngullugit tangertussuseq",
-          "shard": "s"
         }
       ]
     },
