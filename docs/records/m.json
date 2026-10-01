@@ -53498,19 +53498,8 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_8494",
-          "score": 6.430676558073393,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "isumassuisoq",
-          "shard": "i"
-        },
-        {
           "id": "lex_8497",
-          "score": 6.430676558073393,
+          "score": 6.108748463186031,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -53520,8 +53509,19 @@
           "shard": "i"
         },
         {
+          "id": "lex_8494",
+          "score": 6.06492471234718,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "isumassuisoq",
+          "shard": "i"
+        },
+        {
           "id": "lex_14253",
-          "score": 6.361353116146786,
+          "score": 5.995601270420573,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",

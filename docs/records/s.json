@@ -73544,21 +73544,8 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_8494",
-          "score": 8.608748463186032,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "isumassuisoq",
-          "shard": "i"
-        },
-        {
           "id": "lex_8497",
-          "score": 8.608748463186032,
+          "score": 8.286820368298669,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -73570,8 +73557,21 @@
           "shard": "i"
         },
         {
+          "id": "lex_8494",
+          "score": 8.242996617459816,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "isumassuisoq",
+          "shard": "i"
+        },
+        {
           "id": "lex_8495",
-          "score": 6.361353116146786,
+          "score": 5.995601270420573,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -104152,8 +104152,21 @@
       "domain": null,
       "related": [
         {
+          "id": "lex_5873",
+          "score": 8.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangippoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -104165,7 +104178,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -104176,8 +104189,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -104189,7 +104214,7 @@
         },
         {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -104201,7 +104226,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -104213,7 +104238,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -104222,30 +104247,6 @@
           ],
           "headword": "akiortuarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_32500",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aammaarpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_35510",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uterpaa",
-          "shard": "u"
         }
       ]
     },
