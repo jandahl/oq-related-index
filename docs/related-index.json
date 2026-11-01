@@ -13,7 +13,7 @@
       "semanticClassBase": 6,
       "semanticClassFloor": 0.5
     },
-    "generated_at": "2026-09-01T03:34:24.966Z",
+    "generated_at": "2026-11-01T03:23:56.151Z",
     "attribution": "Oqaasileriffik / Greenland Language Secretariat",
     "license": "GPL-3.0-or-later",
     "sources": {
@@ -21,8 +21,8 @@
       "semantic_classes": "https://jandahl.github.io/Oqaasileriffik-katersat/semantic_classes.json"
     },
     "source_checksums": {
-      "lexicon": "5024158c5d3684ea6523e8cd9b90f52ca631fbd8867eda93fc59669c8f68f065",
-      "semantic_classes": "ea08099804f7cbe7247692a4647fcbd270622ef9173c1150c86a7fe4663d904b"
+      "lexicon": "ae6ad46b2e5cd78ae7a2d6076e1ecd653da06a0d4dbed0911a3ba36b489c67b0",
+      "semantic_classes": "e440801903d580296bdc8cbab62a8a8aaad3ab5013748227589491b3bb9d5894"
     }
   },
   "records": [
@@ -5440,6 +5440,58 @@
       ],
       "domain": null,
       "related": []
+    },
+    {
+      "id": "lex_266426",
+      "headword": "AAAS",
+      "word_class": "prop",
+      "gloss_en": [
+        "The Environmental Agency for Mineral Resource Activities",
+        "EAMRA"
+      ],
+      "gloss_da": [
+        "Miljøstyrelsen for Råstofområdet",
+        "MR"
+      ],
+      "semantic_classes": [
+        "inst"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266424",
+          "score": 16.0459672528503,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "Avatangiisinut Aqutsisoqarfimmi Aatsitassanik Suliassaqarfik",
+          "shard": "a"
+        },
+        {
+          "id": "lex_182665",
+          "score": 8.045967252850302,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "Aatsitassanik Suliassaqarfinnut Avatangiisinut Aqutsisoqarfik",
+          "shard": "a"
+        }
+      ]
     },
     {
       "id": "lex_147003",
@@ -32422,7 +32474,7 @@
       "related": [
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -32434,7 +32486,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -32445,8 +32497,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -32458,7 +32522,7 @@
         },
         {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -32470,7 +32534,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -32482,7 +32546,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -32494,7 +32558,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -32503,18 +32567,6 @@
           ],
           "headword": "sivitsorpoq",
           "shard": "s"
-        },
-        {
-          "id": "lex_32500",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aammaarpoq",
-          "shard": "a"
         }
       ]
     },
@@ -35529,7 +35581,7 @@
       "related": [
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35541,7 +35593,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35552,8 +35604,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35565,7 +35629,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35577,7 +35641,7 @@
         },
         {
           "id": "lex_167214",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35589,7 +35653,7 @@
         },
         {
           "id": "lex_19926",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35601,7 +35665,7 @@
         },
         {
           "id": "lex_22998",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -35610,18 +35674,6 @@
           ],
           "headword": "pilersaarpoq",
           "shard": "p"
-        },
-        {
-          "id": "lex_32780",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aaqqissuivoq",
-          "shard": "a"
         }
       ]
     },
@@ -36165,7 +36217,7 @@
       "related": [
         {
           "id": "lex_142318",
-          "score": 8.70456683296984,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -36178,7 +36230,7 @@
         },
         {
           "id": "lex_33080",
-          "score": 8.70456683296984,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -36188,6 +36240,19 @@
           ],
           "headword": "aavaa",
           "shard": "a"
+        },
+        {
+          "id": "lex_33805",
+          "score": 8.382638738082479,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imertarpoq",
+          "shard": "i"
         },
         {
           "id": "lex_32368",
@@ -36201,19 +36266,6 @@
           ],
           "headword": "aggiussiartorpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_33805",
-          "score": 7.7045668329698405,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "imertarpoq",
-          "shard": "i"
         }
       ]
     },
@@ -39694,7 +39746,7 @@
       "related": [
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -39706,7 +39758,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -39717,8 +39769,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -39730,7 +39794,7 @@
         },
         {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -39742,7 +39806,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -39754,7 +39818,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -39766,7 +39830,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -39775,18 +39839,6 @@
           ],
           "headword": "sivitsorpoq",
           "shard": "s"
-        },
-        {
-          "id": "lex_35510",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uterpaa",
-          "shard": "u"
         }
       ]
     },
@@ -53836,7 +53888,7 @@
       "related": [
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -53848,7 +53900,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -53859,8 +53911,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -53872,7 +53936,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -53884,7 +53948,7 @@
         },
         {
           "id": "lex_167214",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -53896,7 +53960,7 @@
         },
         {
           "id": "lex_19926",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -53908,7 +53972,7 @@
         },
         {
           "id": "lex_22998",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -53917,18 +53981,6 @@
           ],
           "headword": "pilersaarpoq",
           "shard": "p"
-        },
-        {
-          "id": "lex_32268",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aallassamaarpoq",
-          "shard": "a"
         }
       ]
     },
@@ -55125,7 +55177,7 @@
       "related": [
         {
           "id": "lex_167214",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -55138,7 +55190,7 @@
         },
         {
           "id": "lex_32797",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -55151,7 +55203,7 @@
         },
         {
           "id": "lex_32798",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -55164,7 +55216,7 @@
         },
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -55176,7 +55228,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -55187,8 +55239,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -55200,7 +55264,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -55209,18 +55273,6 @@
           ],
           "headword": "pilersaarusiorpaa",
           "shard": "p"
-        },
-        {
-          "id": "lex_19926",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "nuniassamaarpoq",
-          "shard": "n"
         }
       ]
     },
@@ -63531,15 +63583,29 @@
       },
       "related": [
         {
-          "id": "lex_172036",
-          "score": 6.5,
+          "id": "lex_266424",
+          "score": 8.045967252850302,
           "reasons": [
-            "same domain",
+            "same semantic class",
             "same word class",
             "shared gloss",
-            "reciprocal relatedness"
+            "reciprocal relatedness",
+            "shared related words"
           ],
-          "headword": "Avatagiisinut Aqutsisoqarfik",
+          "headword": "Avatangiisinut Aqutsisoqarfimmi Aatsitassanik Suliassaqarfik",
+          "shard": "a"
+        },
+        {
+          "id": "lex_266426",
+          "score": 8.045967252850302,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "AAAS",
           "shard": "a"
         }
       ]
@@ -65765,7 +65831,7 @@
       "related": [
         {
           "id": "lex_142318",
-          "score": 8.70456683296984,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -65777,8 +65843,21 @@
           "shard": "p"
         },
         {
+          "id": "lex_33805",
+          "score": 8.382638738082479,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imertarpoq",
+          "shard": "i"
+        },
+        {
           "id": "lex_9919",
-          "score": 8.70456683296984,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -65801,19 +65880,6 @@
           ],
           "headword": "aggiussiartorpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_33805",
-          "score": 7.7045668329698405,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "imertarpoq",
-          "shard": "i"
         }
       ]
     },
@@ -65834,7 +65900,7 @@
       "related": [
         {
           "id": "lex_33043",
-          "score": 13.60768257722124,
+          "score": 13.508146903670326,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -65847,7 +65913,7 @@
         },
         {
           "id": "lex_22998",
-          "score": 9.60768257722124,
+          "score": 9.508146903670326,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -65860,7 +65926,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -65873,7 +65939,7 @@
         },
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -65885,7 +65951,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -65896,8 +65962,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -65909,7 +65987,7 @@
         },
         {
           "id": "lex_167214",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -65918,18 +65996,6 @@
           ],
           "headword": "umerpoq",
           "shard": "u"
-        },
-        {
-          "id": "lex_19926",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "nuniassamaarpoq",
-          "shard": "n"
         }
       ]
     },
@@ -73389,7 +73455,7 @@
       "related": [
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -73400,8 +73466,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -73413,7 +73491,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -73425,7 +73503,7 @@
         },
         {
           "id": "lex_167214",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -73437,7 +73515,7 @@
         },
         {
           "id": "lex_19926",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -73449,7 +73527,7 @@
         },
         {
           "id": "lex_22998",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -73461,7 +73539,7 @@
         },
         {
           "id": "lex_32268",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -73469,18 +73547,6 @@
             "shared related words"
           ],
           "headword": "aallassamaarpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_32780",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aaqqissuivoq",
           "shard": "a"
         }
       ]
@@ -128825,7 +128891,7 @@
       "related": [
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -128837,7 +128903,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -128848,8 +128914,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -128861,7 +128939,7 @@
         },
         {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -128873,7 +128951,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -128885,7 +128963,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -128897,7 +128975,7 @@
         },
         {
           "id": "lex_32500",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -128906,18 +128984,6 @@
           ],
           "headword": "aammaarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_35510",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uterpaa",
-          "shard": "u"
         }
       ]
     },
@@ -156843,7 +156909,7 @@
       "related": [
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156854,8 +156920,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156867,7 +156945,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156879,7 +156957,7 @@
         },
         {
           "id": "lex_167214",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156891,7 +156969,7 @@
         },
         {
           "id": "lex_19926",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156903,7 +156981,7 @@
         },
         {
           "id": "lex_22998",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156915,7 +156993,7 @@
         },
         {
           "id": "lex_32268",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -156923,18 +157001,6 @@
             "shared related words"
           ],
           "headword": "aallassamaarpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_32780",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aaqqissuivoq",
           "shard": "a"
         }
       ]
@@ -285201,7 +285267,6 @@
         "ball game"
       ],
       "gloss_da": [
-        "nordlys",
         "boldspil"
       ],
       "semantic_classes": [
@@ -285224,7 +285289,10 @@
       "id": "lex_164950",
       "headword": "arsarnerit",
       "word_class": "t",
-      "gloss_en": [],
+      "gloss_en": [
+        "northern lights",
+        "aurora borealis"
+      ],
       "gloss_da": [
         "nordlys"
       ],
@@ -352243,20 +352311,7 @@
         "danish": "MILJØ ØKOLOGI OG MILJØ",
         "kalaallisut": "MILJØ ØKOLOGII AVATANGIISILLU"
       },
-      "related": [
-        {
-          "id": "lex_182665",
-          "score": 6.5,
-          "reasons": [
-            "same domain",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness"
-          ],
-          "headword": "Aatsitassanik Suliassaqarfinnut Avatangiisinut Aqutsisoqarfik",
-          "shard": "a"
-        }
-      ]
+      "related": []
     },
     {
       "id": "lex_6039",
@@ -352881,6 +352936,28 @@
       "related": []
     },
     {
+      "id": "lex_266421",
+      "headword": "avatangiisinik nakkutiginninneq",
+      "word_class": "t",
+      "gloss_en": [
+        "environmental monitoring"
+      ],
+      "gloss_da": [
+        "miljøovervågning"
+      ],
+      "semantic_classes": [
+        "sem-c"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_182980",
       "headword": "avatangiisinik nakkutilliineq",
       "word_class": "t",
@@ -353098,6 +353175,58 @@
         "kalaallisut": "MILJØ Silap pissusia piujuartitsinerlu"
       },
       "related": []
+    },
+    {
+      "id": "lex_266424",
+      "headword": "Avatangiisinut Aqutsisoqarfimmi Aatsitassanik Suliassaqarfik",
+      "word_class": "prop",
+      "gloss_en": [
+        "The Environmental Agency for Mineral Resource Activities",
+        "EAMRA"
+      ],
+      "gloss_da": [
+        "Miljøstyrelsen for Råstofområdet",
+        "MR"
+      ],
+      "semantic_classes": [
+        "inst"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": [
+        {
+          "id": "lex_266426",
+          "score": 16.0459672528503,
+          "reasons": [
+            "same semantic class",
+            "same domain",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "AAAS",
+          "shard": "a"
+        },
+        {
+          "id": "lex_182665",
+          "score": 8.045967252850302,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "Aatsitassanik Suliassaqarfinnut Avatangiisinut Aqutsisoqarfik",
+          "shard": "a"
+        }
+      ]
     },
     {
       "id": "lex_261458",
@@ -353581,6 +353710,28 @@
       "related": []
     },
     {
+      "id": "lex_266418",
+      "headword": "avatangiisinut tunngasoq",
+      "word_class": "t",
+      "gloss_en": [
+        "environmental"
+      ],
+      "gloss_da": [
+        "miljømæssig"
+      ],
+      "semantic_classes": [
+        "domain"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
+      },
+      "related": []
+    },
+    {
       "id": "lex_172628",
       "headword": "avatangiisinut tunngasunik aqutsisoqarfik",
       "word_class": "t",
@@ -353828,7 +353979,9 @@
       "id": "lex_183113",
       "headword": "avatangiisit eqqarsaatigalugit aqutsinissamut pilersaarut",
       "word_class": "t",
-      "gloss_en": [],
+      "gloss_en": [
+        "environmental management plan"
+      ],
       "gloss_da": [
         "miljøledelsesplan"
       ],
@@ -353836,19 +353989,18 @@
         "sem-r"
       ],
       "domain": {
-        "id": "dom_125",
-        "code": "11.0.0",
-        "english": "MILJØ ECOLOGY and ENVIRONMENT",
-        "danish": "MILJØ ØKOLOGI OG MILJØ",
-        "kalaallisut": "MILJØ ØKOLOGII AVATANGIISILLU"
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
       },
       "related": [
         {
           "id": "lex_183112",
-          "score": 7,
+          "score": 6.5,
           "reasons": [
             "same semantic class",
-            "same domain",
             "same word class",
             "shared gloss",
             "reciprocal relatedness"
@@ -354386,10 +354538,9 @@
       "related": [
         {
           "id": "lex_183113",
-          "score": 7,
+          "score": 6.5,
           "reasons": [
             "same semantic class",
-            "same domain",
             "same word class",
             "shared gloss",
             "reciprocal relatedness"
@@ -534298,7 +534449,9 @@
       "id": "lex_33805",
       "headword": "imertarpoq",
       "word_class": "v",
-      "gloss_en": [],
+      "gloss_en": [
+        "fetch water"
+      ],
       "gloss_da": [
         "hente vand"
       ],
@@ -534309,7 +534462,7 @@
       "related": [
         {
           "id": "lex_142318",
-          "score": 7.7045668329698405,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -534321,21 +534474,8 @@
           "shard": "p"
         },
         {
-          "id": "lex_32368",
-          "score": 7.7045668329698405,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aggiussiartorpoq",
-          "shard": "a"
-        },
-        {
           "id": "lex_33080",
-          "score": 7.7045668329698405,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -534348,7 +534488,7 @@
         },
         {
           "id": "lex_9919",
-          "score": 7.7045668329698405,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -534357,6 +534497,19 @@
             "shared related words"
           ],
           "headword": "aallerpoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_32368",
+          "score": 7.7045668329698405,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "aggiussiartorpoq",
           "shard": "a"
         }
       ]
@@ -560577,6 +560730,18 @@
       "related": []
     },
     {
+      "id": "lex_266434",
+      "headword": "ingeniøriuneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
       "id": "lex_248275",
       "headword": "ingeq",
       "word_class": "t",
@@ -563254,7 +563419,7 @@
       "related": [
         {
           "id": "lex_7653",
-          "score": 8.87329552715681,
+          "score": 8.766380323240298,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563267,7 +563432,7 @@
         },
         {
           "id": "lex_5873",
-          "score": 8.299560281858907,
+          "score": 8.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563280,7 +563445,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563292,7 +563457,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563303,8 +563468,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563316,7 +563493,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563328,7 +563505,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563337,18 +563514,6 @@
           ],
           "headword": "akiortuarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_30744",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "sivitsorpoq",
-          "shard": "s"
         }
       ]
     },
@@ -563369,7 +563534,7 @@
       "related": [
         {
           "id": "lex_180430",
-          "score": 9.099120563717817,
+          "score": 8.992205359801304,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563381,7 +563546,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563393,7 +563558,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563404,8 +563569,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563417,7 +563594,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563429,7 +563606,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563441,7 +563618,7 @@
         },
         {
           "id": "lex_32500",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -563450,18 +563627,6 @@
           ],
           "headword": "aammaarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_35510",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uterpaa",
-          "shard": "u"
         }
       ]
     },
@@ -565717,7 +565882,7 @@
       "related": [
         {
           "id": "lex_180430",
-          "score": 8.299560281858907,
+          "score": 8.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -565730,7 +565895,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -565741,8 +565906,20 @@
           "shard": "p"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -565754,7 +565931,7 @@
         },
         {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -565766,7 +565943,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -565778,7 +565955,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -565790,7 +565967,7 @@
         },
         {
           "id": "lex_32500",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -565799,18 +565976,6 @@
           ],
           "headword": "aammaarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_35510",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uterpaa",
-          "shard": "u"
         }
       ]
     },
@@ -641118,7 +641283,7 @@
       "related": [
         {
           "id": "lex_22697",
-          "score": 8,
+          "score": 7.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -647215,7 +647380,7 @@
       "related": [
         {
           "id": "lex_8497",
-          "score": 8.678071905112638,
+          "score": 8.356143810225277,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -647228,7 +647393,7 @@
         },
         {
           "id": "lex_14253",
-          "score": 8.608748463186032,
+          "score": 8.242996617459816,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -647241,7 +647406,7 @@
         },
         {
           "id": "lex_8495",
-          "score": 6.430676558073393,
+          "score": 6.06492471234718,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -647373,7 +647538,7 @@
       "related": [
         {
           "id": "lex_8494",
-          "score": 8.678071905112638,
+          "score": 8.356143810225277,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -647386,7 +647551,7 @@
         },
         {
           "id": "lex_14253",
-          "score": 8.608748463186032,
+          "score": 8.286820368298669,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -647399,7 +647564,7 @@
         },
         {
           "id": "lex_8495",
-          "score": 6.430676558073393,
+          "score": 6.108748463186031,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -647724,8 +647889,13 @@
       "headword": "isumatuvoq",
       "word_class": "v",
       "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
+      "gloss_da": [
+        "være dybsindig",
+        "være betænksom"
+      ],
+      "semantic_classes": [
+        "V.1.7.1"
+      ],
       "domain": null,
       "related": []
     },
@@ -744343,6 +744513,36 @@
       ]
     },
     {
+      "id": "lex_266414",
+      "headword": "kinequt",
+      "word_class": "t",
+      "gloss_en": [
+        "thickener",
+        "slurry"
+      ],
+      "gloss_da": [
+        "jævning"
+      ],
+      "semantic_classes": [
+        "food-m-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_10784",
+          "score": 9.178071905112638,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "kinersaat",
+          "shard": "k"
+        }
+      ]
+    },
+    {
       "id": "lex_10777",
       "headword": "kinequtaavoq",
       "word_class": "v",
@@ -744725,8 +744925,9 @@
       "headword": "kinersaat",
       "word_class": "t",
       "gloss_en": [
-        "thickening",
-        "arrowroot"
+        "arrowroot",
+        "thickener",
+        "slurry"
       ],
       "gloss_da": [
         "jævning",
@@ -744736,7 +744937,20 @@
         "food-m-h"
       ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_266414",
+          "score": 9.178071905112638,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "kinequt",
+          "shard": "k"
+        }
+      ]
     },
     {
       "id": "lex_259977",
@@ -746854,7 +747068,7 @@
       "related": [
         {
           "id": "lex_170364",
-          "score": 9.099120563717817,
+          "score": 8.992205359801304,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -746866,7 +747080,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 8.299560281858907,
+          "score": 8.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -746879,7 +747093,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -746890,8 +747104,20 @@
           "shard": "p"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -746903,7 +747129,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -746915,7 +747141,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -746927,7 +747153,7 @@
         },
         {
           "id": "lex_32500",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -746936,18 +747162,6 @@
           ],
           "headword": "aammaarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_35510",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uterpaa",
-          "shard": "u"
         }
       ]
     },
@@ -857421,19 +857635,8 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_8494",
-          "score": 6.430676558073393,
-          "reasons": [
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "isumassuisoq",
-          "shard": "i"
-        },
-        {
           "id": "lex_8497",
-          "score": 6.430676558073393,
+          "score": 6.108748463186031,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -857443,8 +857646,19 @@
           "shard": "i"
         },
         {
+          "id": "lex_8494",
+          "score": 6.06492471234718,
+          "reasons": [
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "isumassuisoq",
+          "shard": "i"
+        },
+        {
           "id": "lex_14253",
-          "score": 6.361353116146786,
+          "score": 5.995601270420573,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -972527,7 +972741,7 @@
       "related": [
         {
           "id": "lex_7653",
-          "score": 8.299560281858907,
+          "score": 8.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -972540,7 +972754,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -972552,7 +972766,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -972563,8 +972777,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -972576,7 +972802,7 @@
         },
         {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -972588,7 +972814,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -972600,7 +972826,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -972609,18 +972835,6 @@
           ],
           "headword": "akiortuarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_30744",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "sivitsorpoq",
-          "shard": "s"
         }
       ]
     },
@@ -973338,7 +973552,7 @@
       "related": [
         {
           "id": "lex_5873",
-          "score": 8.977632186971546,
+          "score": 8.870716983055033,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973351,7 +973565,7 @@
         },
         {
           "id": "lex_166793",
-          "score": 8.87329552715681,
+          "score": 8.766380323240298,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973364,7 +973578,7 @@
         },
         {
           "id": "lex_7654",
-          "score": 8.299560281858907,
+          "score": 8.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973377,7 +973591,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973389,7 +973603,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973400,8 +973614,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973413,7 +973639,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973422,18 +973648,6 @@
           ],
           "headword": "kingornussassiaraa",
           "shard": "k"
-        },
-        {
-          "id": "lex_1849",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "akiortuarpoq",
-          "shard": "a"
         }
       ]
     },
@@ -973442,7 +973656,8 @@
       "headword": "nangippoq",
       "word_class": "v",
       "gloss_en": [
-        "continue"
+        "continue",
+        "go on"
       ],
       "gloss_da": [
         "fortsætte",
@@ -973455,7 +973670,7 @@
       "related": [
         {
           "id": "lex_7653",
-          "score": 8.977632186971546,
+          "score": 8.870716983055033,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973468,7 +973683,7 @@
         },
         {
           "id": "lex_166793",
-          "score": 8.299560281858907,
+          "score": 8.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973480,8 +973695,21 @@
           "shard": "i"
         },
         {
+          "id": "lex_30744",
+          "score": 8.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "sivitsorpoq",
+          "shard": "s"
+        },
+        {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973493,7 +973721,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973504,8 +973732,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973517,7 +973757,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -973526,30 +973766,6 @@
           ],
           "headword": "kingornussassiaraa",
           "shard": "k"
-        },
-        {
-          "id": "lex_1849",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "akiortuarpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_30744",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "sivitsorpoq",
-          "shard": "s"
         }
       ]
     },
@@ -973926,9 +974142,108 @@
       "word_class": "v",
       "gloss_en": [],
       "gloss_da": [],
-      "semantic_classes": [],
+      "semantic_classes": [
+        "V.55.3"
+      ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_125382",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "peqqippoq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_154030",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "ingerlavoq",
+          "shard": "i"
+        },
+        {
+          "id": "lex_166793",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "ingerlateqqippaa",
+          "shard": "i"
+        },
+        {
+          "id": "lex_170364",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "ingerlateqqippaa",
+          "shard": "i"
+        },
+        {
+          "id": "lex_180430",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "kingornussassiaraa",
+          "shard": "k"
+        },
+        {
+          "id": "lex_1849",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "akiortuarpoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_30744",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "sivitsorpoq",
+          "shard": "s"
+        },
+        {
+          "id": "lex_32500",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "aammaarpoq",
+          "shard": "a"
+        }
+      ]
     },
     {
       "id": "lex_16589",
@@ -1092060,7 +1092375,7 @@
       "related": [
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1092072,7 +1092387,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1092083,8 +1092398,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1092096,7 +1092423,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1092108,7 +1092435,7 @@
         },
         {
           "id": "lex_167214",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1092120,7 +1092447,7 @@
         },
         {
           "id": "lex_22998",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1092132,7 +1092459,7 @@
         },
         {
           "id": "lex_32268",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1092140,18 +1092467,6 @@
             "shared related words"
           ],
           "headword": "aallassamaarpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_32780",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aaqqissuivoq",
           "shard": "a"
         }
       ]
@@ -1182713,7 +1183028,7 @@
       "related": [
         {
           "id": "lex_35510",
-          "score": 10.214597781137751,
+          "score": 10.10768257722124,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1182726,7 +1183041,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1182737,8 +1183052,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1182750,7 +1183077,7 @@
         },
         {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1182762,7 +1183089,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1182774,7 +1183101,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1182786,7 +1183113,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1182795,18 +1183122,6 @@
           ],
           "headword": "sivitsorpoq",
           "shard": "s"
-        },
-        {
-          "id": "lex_32500",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aammaarpoq",
-          "shard": "a"
         }
       ]
     },
@@ -1199721,7 +1200036,7 @@
       "related": [
         {
           "id": "lex_33080",
-          "score": 8.70456683296984,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1199733,8 +1200048,21 @@
           "shard": "a"
         },
         {
+          "id": "lex_33805",
+          "score": 8.382638738082479,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "imertarpoq",
+          "shard": "i"
+        },
+        {
           "id": "lex_9919",
-          "score": 8.70456683296984,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1199757,19 +1200085,6 @@
           ],
           "headword": "aggiussiartorpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_33805",
-          "score": 7.7045668329698405,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "imertarpoq",
-          "shard": "i"
         }
       ]
     },
@@ -1202654,7 +1202969,7 @@
       "related": [
         {
           "id": "lex_7706",
-          "score": 8,
+          "score": 7.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1207676,6 +1207991,28 @@
         "english": "Oqaasersiuut (2012)",
         "danish": "Oqaasersiuut (2012)",
         "kalaallisut": "Oqaasersiuut (2012)"
+      },
+      "related": []
+    },
+    {
+      "id": "lex_266432",
+      "headword": "piiaaffik",
+      "word_class": "t",
+      "gloss_en": [
+        "mine"
+      ],
+      "gloss_da": [
+        "mine"
+      ],
+      "semantic_classes": [
+        "Lh"
+      ],
+      "domain": {
+        "id": "dom_120",
+        "code": "10.0.0",
+        "english": "RÅSTOF RAW MATERIALS INDUSTRY",
+        "danish": "RÅSTOF RÅSTOFINDUSTRI",
+        "kalaallisut": "RÅSTOF AATSITASSALERINEQ IKUMMATISSALERINERLU"
       },
       "related": []
     },
@@ -1215819,7 +1216156,7 @@
       "related": [
         {
           "id": "lex_33042",
-          "score": 9.60768257722124,
+          "score": 9.508146903670326,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1215832,7 +1216169,7 @@
         },
         {
           "id": "lex_33043",
-          "score": 9.60768257722124,
+          "score": 9.508146903670326,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1215845,7 +1216182,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 8.692645077942396,
+          "score": 8.59310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1215858,7 +1216195,7 @@
         },
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1215870,7 +1216207,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1215881,8 +1216218,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1215894,7 +1216243,7 @@
         },
         {
           "id": "lex_167214",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1215903,18 +1216252,6 @@
           ],
           "headword": "umerpoq",
           "shard": "u"
-        },
-        {
-          "id": "lex_19926",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "nuniassamaarpoq",
-          "shard": "n"
         }
       ]
     },
@@ -1216187,7 +1216524,7 @@
       "related": [
         {
           "id": "lex_22998",
-          "score": 8.692645077942396,
+          "score": 8.59310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1216200,7 +1216537,7 @@
         },
         {
           "id": "lex_33042",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1216213,7 +1216550,7 @@
         },
         {
           "id": "lex_33043",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1216226,7 +1216563,7 @@
         },
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1216238,7 +1216575,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1216249,8 +1216586,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1216262,7 +1216611,7 @@
         },
         {
           "id": "lex_167214",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1216271,18 +1216620,6 @@
           ],
           "headword": "umerpoq",
           "shard": "u"
-        },
-        {
-          "id": "lex_19926",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "nuniassamaarpoq",
-          "shard": "n"
         }
       ]
     },
@@ -1267993,7 +1268330,7 @@
       "related": [
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1268005,7 +1268342,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1268016,8 +1268353,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_164873",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1268029,7 +1268378,7 @@
         },
         {
           "id": "lex_167214",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1268041,7 +1268390,7 @@
         },
         {
           "id": "lex_19926",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1268053,7 +1268402,7 @@
         },
         {
           "id": "lex_22998",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1268065,7 +1268414,7 @@
         },
         {
           "id": "lex_32268",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1268073,18 +1268422,6 @@
             "shared related words"
           ],
           "headword": "aallassamaarpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_32780",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aaqqissuivoq",
           "shard": "a"
         }
       ]
@@ -1501209,21 +1501546,8 @@
       "domain": null,
       "related": [
         {
-          "id": "lex_8494",
-          "score": 8.608748463186032,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "isumassuisoq",
-          "shard": "i"
-        },
-        {
           "id": "lex_8497",
-          "score": 8.608748463186032,
+          "score": 8.286820368298669,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1501235,8 +1501559,21 @@
           "shard": "i"
         },
         {
+          "id": "lex_8494",
+          "score": 8.242996617459816,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "isumassuisoq",
+          "shard": "i"
+        },
+        {
           "id": "lex_8495",
-          "score": 6.361353116146786,
+          "score": 5.995601270420573,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -1531817,8 +1532154,21 @@
       "domain": null,
       "related": [
         {
+          "id": "lex_5873",
+          "score": 8.192645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangippoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1531830,7 +1532180,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1531841,8 +1532191,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1531854,7 +1532216,7 @@
         },
         {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1531866,7 +1532228,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1531878,7 +1532240,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1531887,30 +1532249,6 @@
           ],
           "headword": "akiortuarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_32500",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aammaarpoq",
-          "shard": "a"
-        },
-        {
-          "id": "lex_35510",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uterpaa",
-          "shard": "u"
         }
       ]
     },
@@ -1589878,6 +1590216,18 @@
       "related": []
     },
     {
+      "id": "lex_132654",
+      "headword": "taamaaliasoq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [
+        "disponeret"
+      ],
+      "semantic_classes": [],
+      "domain": null,
+      "related": []
+    },
+    {
       "id": "lex_207721",
       "headword": "taamaalilluni",
       "word_class": "v",
@@ -1590730,18 +1591080,6 @@
           "shard": "k"
         }
       ]
-    },
-    {
-      "id": "lex_132654",
-      "headword": "taamaarliasoq",
-      "word_class": "t",
-      "gloss_en": [],
-      "gloss_da": [
-        "disponeret"
-      ],
-      "semantic_classes": [],
-      "domain": null,
-      "related": []
     },
     {
       "id": "lex_37746",
@@ -1607711,13 +1608049,114 @@
       "id": "lex_146864",
       "headword": "takussutissippaa",
       "word_class": "v",
-      "gloss_en": [],
+      "gloss_en": [
+        "visualize"
+      ],
       "gloss_da": [
         "visualisere"
       ],
-      "semantic_classes": [],
+      "semantic_classes": [
+        "V.62"
+      ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_143295",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "alakkariartoraluarniarpaa",
+          "shard": "a"
+        },
+        {
+          "id": "lex_143353",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "aggorniaraluarsimavaa",
+          "shard": "a"
+        },
+        {
+          "id": "lex_147737",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "piumaarpaa",
+          "shard": "p"
+        },
+        {
+          "id": "lex_164873",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "pilersaarusiorpaa",
+          "shard": "p"
+        },
+        {
+          "id": "lex_167214",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "umerpoq",
+          "shard": "u"
+        },
+        {
+          "id": "lex_19926",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nuniassamaarpoq",
+          "shard": "n"
+        },
+        {
+          "id": "lex_22998",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "pilersaarpoq",
+          "shard": "p"
+        },
+        {
+          "id": "lex_32268",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "aallassamaarpoq",
+          "shard": "a"
+        }
+      ]
     },
     {
       "id": "lex_37965",
@@ -1721160,7 +1721599,7 @@
       "related": [
         {
           "id": "lex_33042",
-          "score": 13.60768257722124,
+          "score": 13.508146903670326,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1721173,7 +1721612,7 @@
         },
         {
           "id": "lex_22998",
-          "score": 9.60768257722124,
+          "score": 9.508146903670326,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1721186,7 +1721625,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1721199,7 +1721638,7 @@
         },
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1721211,7 +1721650,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1721222,8 +1721661,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1721235,7 +1721686,7 @@
         },
         {
           "id": "lex_167214",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1721244,18 +1721695,6 @@
           ],
           "headword": "umerpoq",
           "shard": "u"
-        },
-        {
-          "id": "lex_19926",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "nuniassamaarpoq",
-          "shard": "n"
         }
       ]
     },
@@ -1757457,7 +1757896,7 @@
       "related": [
         {
           "id": "lex_167214",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757470,7 +1757909,7 @@
         },
         {
           "id": "lex_32796",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757483,7 +1757922,7 @@
         },
         {
           "id": "lex_32797",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757496,7 +1757935,7 @@
         },
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757508,7 +1757947,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757519,8 +1757958,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757532,7 +1757983,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757541,18 +1757992,6 @@
           ],
           "headword": "pilersaarusiorpaa",
           "shard": "p"
-        },
-        {
-          "id": "lex_19926",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "nuniassamaarpoq",
-          "shard": "n"
         }
       ]
     },
@@ -1757571,7 +1758010,7 @@
       "related": [
         {
           "id": "lex_32796",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757584,7 +1758023,7 @@
         },
         {
           "id": "lex_32797",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757597,7 +1758036,7 @@
         },
         {
           "id": "lex_32798",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757610,7 +1758049,7 @@
         },
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757622,7 +1758061,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757633,8 +1758072,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757646,7 +1758097,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1757655,18 +1758106,6 @@
           ],
           "headword": "pilersaarusiorpaa",
           "shard": "p"
-        },
-        {
-          "id": "lex_19926",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "nuniassamaarpoq",
-          "shard": "n"
         }
       ]
     },
@@ -1763394,7 +1763833,7 @@
       "related": [
         {
           "id": "lex_167214",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1763407,7 +1763846,7 @@
         },
         {
           "id": "lex_32796",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1763420,7 +1763859,7 @@
         },
         {
           "id": "lex_32798",
-          "score": 8.192645077942396,
+          "score": 8.09310940439148,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1763433,7 +1763872,7 @@
         },
         {
           "id": "lex_143295",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1763445,7 +1763884,7 @@
         },
         {
           "id": "lex_143353",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1763456,8 +1763895,20 @@
           "shard": "a"
         },
         {
+          "id": "lex_146864",
+          "score": 7.593109404391481,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "takussutissippaa",
+          "shard": "t"
+        },
+        {
           "id": "lex_147737",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1763469,7 +1763920,7 @@
         },
         {
           "id": "lex_164873",
-          "score": 7.692645077942396,
+          "score": 7.593109404391481,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1763478,18 +1763929,6 @@
           ],
           "headword": "pilersaarusiorpaa",
           "shard": "p"
-        },
-        {
-          "id": "lex_19926",
-          "score": 7.692645077942396,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "nuniassamaarpoq",
-          "shard": "n"
         }
       ]
     },
@@ -1795161,7 +1795600,7 @@
       "related": [
         {
           "id": "lex_125382",
-          "score": 10.214597781137751,
+          "score": 10.10768257722124,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1795174,7 +1795613,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1795185,8 +1795624,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1795198,7 +1795649,7 @@
         },
         {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1795210,7 +1795661,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1795222,7 +1795673,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1795234,7 +1795685,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -1795243,18 +1795694,6 @@
           ],
           "headword": "sivitsorpoq",
           "shard": "s"
-        },
-        {
-          "id": "lex_32500",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aammaarpoq",
-          "shard": "a"
         }
       ]
     },
@@ -1823787,6 +1824226,7 @@
       "lex_25969",
       "lex_26093",
       "lex_26478",
+      "lex_266434",
       "lex_26699",
       "lex_26721",
       "lex_26724",
@@ -1824996,6 +1825436,555 @@
       "lex_7821",
       "lex_7822"
     ],
+    "inst": [
+      "lex_10171",
+      "lex_10858",
+      "lex_11055",
+      "lex_11639",
+      "lex_11714",
+      "lex_11884",
+      "lex_11885",
+      "lex_120534",
+      "lex_120537",
+      "lex_12398",
+      "lex_125255",
+      "lex_12634",
+      "lex_130839",
+      "lex_130841",
+      "lex_130957",
+      "lex_131105",
+      "lex_131267",
+      "lex_131497",
+      "lex_131545",
+      "lex_131567",
+      "lex_131660",
+      "lex_131663",
+      "lex_131752",
+      "lex_131993",
+      "lex_13200",
+      "lex_132088",
+      "lex_132362",
+      "lex_132521",
+      "lex_13913",
+      "lex_14062",
+      "lex_141832",
+      "lex_141860",
+      "lex_142322",
+      "lex_142383",
+      "lex_142430",
+      "lex_142559",
+      "lex_142561",
+      "lex_142562",
+      "lex_142563",
+      "lex_142627",
+      "lex_142889",
+      "lex_142890",
+      "lex_14372",
+      "lex_14585",
+      "lex_14586",
+      "lex_146122",
+      "lex_146202",
+      "lex_146522",
+      "lex_146524",
+      "lex_146526",
+      "lex_147015",
+      "lex_147422",
+      "lex_14749",
+      "lex_14750",
+      "lex_147627",
+      "lex_147632",
+      "lex_147877",
+      "lex_147950",
+      "lex_148527",
+      "lex_148528",
+      "lex_148682",
+      "lex_14937",
+      "lex_14938",
+      "lex_14939",
+      "lex_149618",
+      "lex_150123",
+      "lex_150218",
+      "lex_150887",
+      "lex_151316",
+      "lex_151367",
+      "lex_151930",
+      "lex_151973",
+      "lex_151976",
+      "lex_15206",
+      "lex_15207",
+      "lex_15208",
+      "lex_15209",
+      "lex_15210",
+      "lex_152625",
+      "lex_152626",
+      "lex_152648",
+      "lex_152649",
+      "lex_153597",
+      "lex_15760",
+      "lex_15761",
+      "lex_161364",
+      "lex_161408",
+      "lex_161413",
+      "lex_161423",
+      "lex_161446",
+      "lex_161509",
+      "lex_161516",
+      "lex_161541",
+      "lex_161543",
+      "lex_161545",
+      "lex_161588",
+      "lex_161590",
+      "lex_161593",
+      "lex_161594",
+      "lex_161595",
+      "lex_161597",
+      "lex_161599",
+      "lex_161601",
+      "lex_161614",
+      "lex_161616",
+      "lex_161617",
+      "lex_161619",
+      "lex_161622",
+      "lex_161624",
+      "lex_161626",
+      "lex_161630",
+      "lex_161633",
+      "lex_161635",
+      "lex_161637",
+      "lex_161639",
+      "lex_161641",
+      "lex_161917",
+      "lex_162264",
+      "lex_162520",
+      "lex_162522",
+      "lex_1627",
+      "lex_163113",
+      "lex_16312",
+      "lex_163146",
+      "lex_163337",
+      "lex_163340",
+      "lex_163341",
+      "lex_163399",
+      "lex_163474",
+      "lex_163538",
+      "lex_163671",
+      "lex_163676",
+      "lex_163791",
+      "lex_163792",
+      "lex_163822",
+      "lex_163997",
+      "lex_164000",
+      "lex_164013",
+      "lex_164071",
+      "lex_164073",
+      "lex_164354",
+      "lex_164584",
+      "lex_164703",
+      "lex_164717",
+      "lex_164954",
+      "lex_164959",
+      "lex_165143",
+      "lex_165156",
+      "lex_165241",
+      "lex_165242",
+      "lex_165314",
+      "lex_165315",
+      "lex_165329",
+      "lex_165332",
+      "lex_165336",
+      "lex_165337",
+      "lex_165339",
+      "lex_165341",
+      "lex_165343",
+      "lex_165347",
+      "lex_165349",
+      "lex_165352",
+      "lex_165353",
+      "lex_165441",
+      "lex_166247",
+      "lex_166283",
+      "lex_166363",
+      "lex_166387",
+      "lex_166392",
+      "lex_166393",
+      "lex_166395",
+      "lex_166530",
+      "lex_166559",
+      "lex_166594",
+      "lex_167044",
+      "lex_167045",
+      "lex_167536",
+      "lex_167543",
+      "lex_167580",
+      "lex_167610",
+      "lex_167732",
+      "lex_167734",
+      "lex_167759",
+      "lex_167768",
+      "lex_167775",
+      "lex_16795",
+      "lex_167953",
+      "lex_167956",
+      "lex_16796",
+      "lex_16797",
+      "lex_16798",
+      "lex_168054",
+      "lex_16806",
+      "lex_168087",
+      "lex_168480",
+      "lex_168542",
+      "lex_168544",
+      "lex_168546",
+      "lex_168612",
+      "lex_168672",
+      "lex_169026",
+      "lex_169190",
+      "lex_169192",
+      "lex_169193",
+      "lex_16925",
+      "lex_169541",
+      "lex_169561",
+      "lex_169573",
+      "lex_169607",
+      "lex_169625",
+      "lex_169681",
+      "lex_169714",
+      "lex_169767",
+      "lex_170047",
+      "lex_170105",
+      "lex_170112",
+      "lex_170113",
+      "lex_170114",
+      "lex_170167",
+      "lex_170235",
+      "lex_170333",
+      "lex_170344",
+      "lex_170357",
+      "lex_170416",
+      "lex_170418",
+      "lex_170687",
+      "lex_170695",
+      "lex_170769",
+      "lex_170817",
+      "lex_170818",
+      "lex_170820",
+      "lex_170822",
+      "lex_170834",
+      "lex_170838",
+      "lex_170854",
+      "lex_171993",
+      "lex_172154",
+      "lex_172168",
+      "lex_172185",
+      "lex_172225",
+      "lex_172226",
+      "lex_172231",
+      "lex_172233",
+      "lex_172252",
+      "lex_172255",
+      "lex_172256",
+      "lex_172280",
+      "lex_172343",
+      "lex_172608",
+      "lex_172609",
+      "lex_172611",
+      "lex_172612",
+      "lex_172642",
+      "lex_172721",
+      "lex_172752",
+      "lex_172851",
+      "lex_172908",
+      "lex_172923",
+      "lex_172936",
+      "lex_172937",
+      "lex_173245",
+      "lex_173255",
+      "lex_173256",
+      "lex_173264",
+      "lex_173303",
+      "lex_173315",
+      "lex_173317",
+      "lex_173318",
+      "lex_173724",
+      "lex_173736",
+      "lex_173805",
+      "lex_173825",
+      "lex_174037",
+      "lex_174199",
+      "lex_174243",
+      "lex_174461",
+      "lex_174588",
+      "lex_174932",
+      "lex_174982",
+      "lex_175232",
+      "lex_175466",
+      "lex_175473",
+      "lex_175475",
+      "lex_175609",
+      "lex_175624",
+      "lex_17582",
+      "lex_176129",
+      "lex_176224",
+      "lex_176369",
+      "lex_176409",
+      "lex_176430",
+      "lex_176457",
+      "lex_176496",
+      "lex_176498",
+      "lex_176502",
+      "lex_176507",
+      "lex_176512",
+      "lex_176524",
+      "lex_176554",
+      "lex_176599",
+      "lex_176612",
+      "lex_176822",
+      "lex_176845",
+      "lex_176846",
+      "lex_176896",
+      "lex_176943",
+      "lex_176944",
+      "lex_176946",
+      "lex_176949",
+      "lex_176959",
+      "lex_176960",
+      "lex_176968",
+      "lex_176970",
+      "lex_176971",
+      "lex_176976",
+      "lex_176986",
+      "lex_176990",
+      "lex_177008",
+      "lex_177009",
+      "lex_177026",
+      "lex_177027",
+      "lex_177029",
+      "lex_177036",
+      "lex_177040",
+      "lex_177048",
+      "lex_177052",
+      "lex_177063",
+      "lex_177067",
+      "lex_177085",
+      "lex_177086",
+      "lex_17732",
+      "lex_17733",
+      "lex_177448",
+      "lex_177452",
+      "lex_177577",
+      "lex_177595",
+      "lex_177596",
+      "lex_177817",
+      "lex_177819",
+      "lex_177944",
+      "lex_178995",
+      "lex_178996",
+      "lex_178997",
+      "lex_179369",
+      "lex_179373",
+      "lex_179378",
+      "lex_179384",
+      "lex_179385",
+      "lex_179391",
+      "lex_179405",
+      "lex_179896",
+      "lex_179899",
+      "lex_179902",
+      "lex_179905",
+      "lex_179909",
+      "lex_179911",
+      "lex_179913",
+      "lex_179915",
+      "lex_179917",
+      "lex_179919",
+      "lex_179921",
+      "lex_179924",
+      "lex_180175",
+      "lex_180177",
+      "lex_180179",
+      "lex_181173",
+      "lex_181178",
+      "lex_181459",
+      "lex_181494",
+      "lex_181537",
+      "lex_181664",
+      "lex_181747",
+      "lex_181748",
+      "lex_182150",
+      "lex_182154",
+      "lex_182203",
+      "lex_182368",
+      "lex_182467",
+      "lex_182539",
+      "lex_182544",
+      "lex_182561",
+      "lex_182659",
+      "lex_182660",
+      "lex_182665",
+      "lex_182689",
+      "lex_182770",
+      "lex_182791",
+      "lex_182922",
+      "lex_183013",
+      "lex_183015",
+      "lex_183019",
+      "lex_183185",
+      "lex_183199",
+      "lex_183279",
+      "lex_183281",
+      "lex_183283",
+      "lex_183287",
+      "lex_183290",
+      "lex_183292",
+      "lex_183294",
+      "lex_183296",
+      "lex_183298",
+      "lex_183300",
+      "lex_183633",
+      "lex_183989",
+      "lex_184404",
+      "lex_184666",
+      "lex_185079",
+      "lex_185383",
+      "lex_185394",
+      "lex_185768",
+      "lex_185955",
+      "lex_185987",
+      "lex_186042",
+      "lex_186051",
+      "lex_186067",
+      "lex_186093",
+      "lex_186094",
+      "lex_186501",
+      "lex_186789",
+      "lex_191229",
+      "lex_19487",
+      "lex_19649",
+      "lex_19974",
+      "lex_20149",
+      "lex_205836",
+      "lex_206042",
+      "lex_206060",
+      "lex_206319",
+      "lex_206320",
+      "lex_206321",
+      "lex_206322",
+      "lex_206323",
+      "lex_206324",
+      "lex_206326",
+      "lex_206333",
+      "lex_207596",
+      "lex_207938",
+      "lex_207968",
+      "lex_207969",
+      "lex_20857",
+      "lex_20858",
+      "lex_20904",
+      "lex_209634",
+      "lex_209638",
+      "lex_21675",
+      "lex_21820",
+      "lex_22135",
+      "lex_22298",
+      "lex_22314",
+      "lex_22489",
+      "lex_22674",
+      "lex_22675",
+      "lex_22982",
+      "lex_23388",
+      "lex_2449",
+      "lex_2450",
+      "lex_24758",
+      "lex_24762",
+      "lex_2576",
+      "lex_266180",
+      "lex_266424",
+      "lex_266426",
+      "lex_2736",
+      "lex_2743",
+      "lex_2744",
+      "lex_2763",
+      "lex_2764",
+      "lex_2867",
+      "lex_2868",
+      "lex_29351",
+      "lex_29847",
+      "lex_29848",
+      "lex_31132",
+      "lex_31138",
+      "lex_31499",
+      "lex_31727",
+      "lex_32774",
+      "lex_3312",
+      "lex_33387",
+      "lex_33393",
+      "lex_33406",
+      "lex_33423",
+      "lex_33424",
+      "lex_33554",
+      "lex_33585",
+      "lex_33640",
+      "lex_33683",
+      "lex_33799",
+      "lex_3388",
+      "lex_34222",
+      "lex_34257",
+      "lex_34271",
+      "lex_34423",
+      "lex_34819",
+      "lex_34881",
+      "lex_35145",
+      "lex_3532",
+      "lex_35607",
+      "lex_36061",
+      "lex_36065",
+      "lex_36129",
+      "lex_3822",
+      "lex_389",
+      "lex_39702",
+      "lex_41653",
+      "lex_5533",
+      "lex_5561",
+      "lex_5733",
+      "lex_5734",
+      "lex_5738",
+      "lex_5758",
+      "lex_6090",
+      "lex_6091",
+      "lex_6214",
+      "lex_6251",
+      "lex_6268",
+      "lex_6269",
+      "lex_6276",
+      "lex_6323",
+      "lex_6592",
+      "lex_7243",
+      "lex_7264",
+      "lex_7280",
+      "lex_7283",
+      "lex_7303",
+      "lex_7325",
+      "lex_7354",
+      "lex_7383",
+      "lex_7384",
+      "lex_7606",
+      "lex_7756",
+      "lex_7904",
+      "lex_7905",
+      "lex_7993",
+      "lex_7994",
+      "lex_8027",
+      "lex_8034",
+      "lex_8106",
+      "lex_8108",
+      "lex_8109",
+      "lex_8110",
+      "lex_8642",
+      "lex_9063",
+      "lex_9748",
+      "lex_9833",
+      "lex_9834"
+    ],
     "L": [
       "lex_10093",
       "lex_10338",
@@ -1825837,6 +1826826,7 @@
       "lex_266324",
       "lex_266335",
       "lex_266404",
+      "lex_266421",
       "lex_2778",
       "lex_28700",
       "lex_28703",
@@ -1827028,6 +1828018,7 @@
       "lex_266223",
       "lex_266245",
       "lex_266392",
+      "lex_266418",
       "lex_28727",
       "lex_29253",
       "lex_29849",
@@ -1827058,553 +1828049,6 @@
       "lex_7317",
       "lex_7700",
       "lex_9903"
-    ],
-    "inst": [
-      "lex_10171",
-      "lex_10858",
-      "lex_11055",
-      "lex_11639",
-      "lex_11714",
-      "lex_11884",
-      "lex_11885",
-      "lex_120534",
-      "lex_120537",
-      "lex_12398",
-      "lex_125255",
-      "lex_12634",
-      "lex_130839",
-      "lex_130841",
-      "lex_130957",
-      "lex_131105",
-      "lex_131267",
-      "lex_131497",
-      "lex_131545",
-      "lex_131567",
-      "lex_131660",
-      "lex_131663",
-      "lex_131752",
-      "lex_131993",
-      "lex_13200",
-      "lex_132088",
-      "lex_132362",
-      "lex_132521",
-      "lex_13913",
-      "lex_14062",
-      "lex_141832",
-      "lex_141860",
-      "lex_142322",
-      "lex_142383",
-      "lex_142430",
-      "lex_142559",
-      "lex_142561",
-      "lex_142562",
-      "lex_142563",
-      "lex_142627",
-      "lex_142889",
-      "lex_142890",
-      "lex_14372",
-      "lex_14585",
-      "lex_14586",
-      "lex_146122",
-      "lex_146202",
-      "lex_146522",
-      "lex_146524",
-      "lex_146526",
-      "lex_147015",
-      "lex_147422",
-      "lex_14749",
-      "lex_14750",
-      "lex_147627",
-      "lex_147632",
-      "lex_147877",
-      "lex_147950",
-      "lex_148527",
-      "lex_148528",
-      "lex_148682",
-      "lex_14937",
-      "lex_14938",
-      "lex_14939",
-      "lex_149618",
-      "lex_150123",
-      "lex_150218",
-      "lex_150887",
-      "lex_151316",
-      "lex_151367",
-      "lex_151930",
-      "lex_151973",
-      "lex_151976",
-      "lex_15206",
-      "lex_15207",
-      "lex_15208",
-      "lex_15209",
-      "lex_15210",
-      "lex_152625",
-      "lex_152626",
-      "lex_152648",
-      "lex_152649",
-      "lex_153597",
-      "lex_15760",
-      "lex_15761",
-      "lex_161364",
-      "lex_161408",
-      "lex_161413",
-      "lex_161423",
-      "lex_161446",
-      "lex_161509",
-      "lex_161516",
-      "lex_161541",
-      "lex_161543",
-      "lex_161545",
-      "lex_161588",
-      "lex_161590",
-      "lex_161593",
-      "lex_161594",
-      "lex_161595",
-      "lex_161597",
-      "lex_161599",
-      "lex_161601",
-      "lex_161614",
-      "lex_161616",
-      "lex_161617",
-      "lex_161619",
-      "lex_161622",
-      "lex_161624",
-      "lex_161626",
-      "lex_161630",
-      "lex_161633",
-      "lex_161635",
-      "lex_161637",
-      "lex_161639",
-      "lex_161641",
-      "lex_161917",
-      "lex_162264",
-      "lex_162520",
-      "lex_162522",
-      "lex_1627",
-      "lex_163113",
-      "lex_16312",
-      "lex_163146",
-      "lex_163337",
-      "lex_163340",
-      "lex_163341",
-      "lex_163399",
-      "lex_163474",
-      "lex_163538",
-      "lex_163671",
-      "lex_163676",
-      "lex_163791",
-      "lex_163792",
-      "lex_163822",
-      "lex_163997",
-      "lex_164000",
-      "lex_164013",
-      "lex_164071",
-      "lex_164073",
-      "lex_164354",
-      "lex_164584",
-      "lex_164703",
-      "lex_164717",
-      "lex_164954",
-      "lex_164959",
-      "lex_165143",
-      "lex_165156",
-      "lex_165241",
-      "lex_165242",
-      "lex_165314",
-      "lex_165315",
-      "lex_165329",
-      "lex_165332",
-      "lex_165336",
-      "lex_165337",
-      "lex_165339",
-      "lex_165341",
-      "lex_165343",
-      "lex_165347",
-      "lex_165349",
-      "lex_165352",
-      "lex_165353",
-      "lex_165441",
-      "lex_166247",
-      "lex_166283",
-      "lex_166363",
-      "lex_166387",
-      "lex_166392",
-      "lex_166393",
-      "lex_166395",
-      "lex_166530",
-      "lex_166559",
-      "lex_166594",
-      "lex_167044",
-      "lex_167045",
-      "lex_167536",
-      "lex_167543",
-      "lex_167580",
-      "lex_167610",
-      "lex_167732",
-      "lex_167734",
-      "lex_167759",
-      "lex_167768",
-      "lex_167775",
-      "lex_16795",
-      "lex_167953",
-      "lex_167956",
-      "lex_16796",
-      "lex_16797",
-      "lex_16798",
-      "lex_168054",
-      "lex_16806",
-      "lex_168087",
-      "lex_168480",
-      "lex_168542",
-      "lex_168544",
-      "lex_168546",
-      "lex_168612",
-      "lex_168672",
-      "lex_169026",
-      "lex_169190",
-      "lex_169192",
-      "lex_169193",
-      "lex_16925",
-      "lex_169541",
-      "lex_169561",
-      "lex_169573",
-      "lex_169607",
-      "lex_169625",
-      "lex_169681",
-      "lex_169714",
-      "lex_169767",
-      "lex_170047",
-      "lex_170105",
-      "lex_170112",
-      "lex_170113",
-      "lex_170114",
-      "lex_170167",
-      "lex_170235",
-      "lex_170333",
-      "lex_170344",
-      "lex_170357",
-      "lex_170416",
-      "lex_170418",
-      "lex_170687",
-      "lex_170695",
-      "lex_170769",
-      "lex_170817",
-      "lex_170818",
-      "lex_170820",
-      "lex_170822",
-      "lex_170834",
-      "lex_170838",
-      "lex_170854",
-      "lex_171993",
-      "lex_172154",
-      "lex_172168",
-      "lex_172185",
-      "lex_172225",
-      "lex_172226",
-      "lex_172231",
-      "lex_172233",
-      "lex_172252",
-      "lex_172255",
-      "lex_172256",
-      "lex_172280",
-      "lex_172343",
-      "lex_172608",
-      "lex_172609",
-      "lex_172611",
-      "lex_172612",
-      "lex_172642",
-      "lex_172721",
-      "lex_172752",
-      "lex_172851",
-      "lex_172908",
-      "lex_172923",
-      "lex_172936",
-      "lex_172937",
-      "lex_173245",
-      "lex_173255",
-      "lex_173256",
-      "lex_173264",
-      "lex_173303",
-      "lex_173315",
-      "lex_173317",
-      "lex_173318",
-      "lex_173724",
-      "lex_173736",
-      "lex_173805",
-      "lex_173825",
-      "lex_174037",
-      "lex_174199",
-      "lex_174243",
-      "lex_174461",
-      "lex_174588",
-      "lex_174932",
-      "lex_174982",
-      "lex_175232",
-      "lex_175466",
-      "lex_175473",
-      "lex_175475",
-      "lex_175609",
-      "lex_175624",
-      "lex_17582",
-      "lex_176129",
-      "lex_176224",
-      "lex_176369",
-      "lex_176409",
-      "lex_176430",
-      "lex_176457",
-      "lex_176496",
-      "lex_176498",
-      "lex_176502",
-      "lex_176507",
-      "lex_176512",
-      "lex_176524",
-      "lex_176554",
-      "lex_176599",
-      "lex_176612",
-      "lex_176822",
-      "lex_176845",
-      "lex_176846",
-      "lex_176896",
-      "lex_176943",
-      "lex_176944",
-      "lex_176946",
-      "lex_176949",
-      "lex_176959",
-      "lex_176960",
-      "lex_176968",
-      "lex_176970",
-      "lex_176971",
-      "lex_176976",
-      "lex_176986",
-      "lex_176990",
-      "lex_177008",
-      "lex_177009",
-      "lex_177026",
-      "lex_177027",
-      "lex_177029",
-      "lex_177036",
-      "lex_177040",
-      "lex_177048",
-      "lex_177052",
-      "lex_177063",
-      "lex_177067",
-      "lex_177085",
-      "lex_177086",
-      "lex_17732",
-      "lex_17733",
-      "lex_177448",
-      "lex_177452",
-      "lex_177577",
-      "lex_177595",
-      "lex_177596",
-      "lex_177817",
-      "lex_177819",
-      "lex_177944",
-      "lex_178995",
-      "lex_178996",
-      "lex_178997",
-      "lex_179369",
-      "lex_179373",
-      "lex_179378",
-      "lex_179384",
-      "lex_179385",
-      "lex_179391",
-      "lex_179405",
-      "lex_179896",
-      "lex_179899",
-      "lex_179902",
-      "lex_179905",
-      "lex_179909",
-      "lex_179911",
-      "lex_179913",
-      "lex_179915",
-      "lex_179917",
-      "lex_179919",
-      "lex_179921",
-      "lex_179924",
-      "lex_180175",
-      "lex_180177",
-      "lex_180179",
-      "lex_181173",
-      "lex_181178",
-      "lex_181459",
-      "lex_181494",
-      "lex_181537",
-      "lex_181664",
-      "lex_181747",
-      "lex_181748",
-      "lex_182150",
-      "lex_182154",
-      "lex_182203",
-      "lex_182368",
-      "lex_182467",
-      "lex_182539",
-      "lex_182544",
-      "lex_182561",
-      "lex_182659",
-      "lex_182660",
-      "lex_182665",
-      "lex_182689",
-      "lex_182770",
-      "lex_182791",
-      "lex_182922",
-      "lex_183013",
-      "lex_183015",
-      "lex_183019",
-      "lex_183185",
-      "lex_183199",
-      "lex_183279",
-      "lex_183281",
-      "lex_183283",
-      "lex_183287",
-      "lex_183290",
-      "lex_183292",
-      "lex_183294",
-      "lex_183296",
-      "lex_183298",
-      "lex_183300",
-      "lex_183633",
-      "lex_183989",
-      "lex_184404",
-      "lex_184666",
-      "lex_185079",
-      "lex_185383",
-      "lex_185394",
-      "lex_185768",
-      "lex_185955",
-      "lex_185987",
-      "lex_186042",
-      "lex_186051",
-      "lex_186067",
-      "lex_186093",
-      "lex_186094",
-      "lex_186501",
-      "lex_186789",
-      "lex_191229",
-      "lex_19487",
-      "lex_19649",
-      "lex_19974",
-      "lex_20149",
-      "lex_205836",
-      "lex_206042",
-      "lex_206060",
-      "lex_206319",
-      "lex_206320",
-      "lex_206321",
-      "lex_206322",
-      "lex_206323",
-      "lex_206324",
-      "lex_206326",
-      "lex_206333",
-      "lex_207596",
-      "lex_207938",
-      "lex_207968",
-      "lex_207969",
-      "lex_20857",
-      "lex_20858",
-      "lex_20904",
-      "lex_209634",
-      "lex_209638",
-      "lex_21675",
-      "lex_21820",
-      "lex_22135",
-      "lex_22298",
-      "lex_22314",
-      "lex_22489",
-      "lex_22674",
-      "lex_22675",
-      "lex_22982",
-      "lex_23388",
-      "lex_2449",
-      "lex_2450",
-      "lex_24758",
-      "lex_24762",
-      "lex_2576",
-      "lex_266180",
-      "lex_2736",
-      "lex_2743",
-      "lex_2744",
-      "lex_2763",
-      "lex_2764",
-      "lex_2867",
-      "lex_2868",
-      "lex_29351",
-      "lex_29847",
-      "lex_29848",
-      "lex_31132",
-      "lex_31138",
-      "lex_31499",
-      "lex_31727",
-      "lex_32774",
-      "lex_3312",
-      "lex_33387",
-      "lex_33393",
-      "lex_33406",
-      "lex_33423",
-      "lex_33424",
-      "lex_33554",
-      "lex_33585",
-      "lex_33640",
-      "lex_33683",
-      "lex_33799",
-      "lex_3388",
-      "lex_34222",
-      "lex_34257",
-      "lex_34271",
-      "lex_34423",
-      "lex_34819",
-      "lex_34881",
-      "lex_35145",
-      "lex_3532",
-      "lex_35607",
-      "lex_36061",
-      "lex_36065",
-      "lex_36129",
-      "lex_3822",
-      "lex_389",
-      "lex_39702",
-      "lex_41653",
-      "lex_5533",
-      "lex_5561",
-      "lex_5733",
-      "lex_5734",
-      "lex_5738",
-      "lex_5758",
-      "lex_6090",
-      "lex_6091",
-      "lex_6214",
-      "lex_6251",
-      "lex_6268",
-      "lex_6269",
-      "lex_6276",
-      "lex_6323",
-      "lex_6592",
-      "lex_7243",
-      "lex_7264",
-      "lex_7280",
-      "lex_7283",
-      "lex_7303",
-      "lex_7325",
-      "lex_7354",
-      "lex_7383",
-      "lex_7384",
-      "lex_7606",
-      "lex_7756",
-      "lex_7904",
-      "lex_7905",
-      "lex_7993",
-      "lex_7994",
-      "lex_8027",
-      "lex_8034",
-      "lex_8106",
-      "lex_8108",
-      "lex_8109",
-      "lex_8110",
-      "lex_8642",
-      "lex_9063",
-      "lex_9748",
-      "lex_9833",
-      "lex_9834"
     ],
     "f-right": [
       "lex_12048",
@@ -1833094,6 +1833538,7 @@
       "lex_26573",
       "lex_266142",
       "lex_266332",
+      "lex_266432",
       "lex_26705",
       "lex_26911",
       "lex_27094",
@@ -1836429,6 +1836874,7 @@
       "lex_208132",
       "lex_24450",
       "lex_25556",
+      "lex_266414",
       "lex_29646",
       "lex_30021",
       "lex_31078",
@@ -1840140,6 +1840586,7 @@
       "lex_34502",
       "lex_34509",
       "lex_34514",
+      "lex_34550",
       "lex_34589",
       "lex_34607",
       "lex_34865",
@@ -1846409,6 +1846856,7 @@
     "V.55.3": [
       "lex_125382",
       "lex_154030",
+      "lex_16588",
       "lex_166793",
       "lex_170364",
       "lex_180430",
@@ -1846486,6 +1846934,7 @@
     "V.62": [
       "lex_143295",
       "lex_143353",
+      "lex_146864",
       "lex_147737",
       "lex_164873",
       "lex_167214",
@@ -1870637,6 +1871086,423 @@
       "lex_180631",
       "lex_229748"
     ],
+    "dom_120": [
+      "lex_14568",
+      "lex_147458",
+      "lex_150225",
+      "lex_150648",
+      "lex_150650",
+      "lex_153893",
+      "lex_153926",
+      "lex_153929",
+      "lex_153933",
+      "lex_153936",
+      "lex_153940",
+      "lex_153948",
+      "lex_153949",
+      "lex_153952",
+      "lex_153955",
+      "lex_153958",
+      "lex_153962",
+      "lex_153964",
+      "lex_153967",
+      "lex_153970",
+      "lex_153973",
+      "lex_153976",
+      "lex_153978",
+      "lex_153980",
+      "lex_153982",
+      "lex_153984",
+      "lex_153987",
+      "lex_153990",
+      "lex_153993",
+      "lex_153996",
+      "lex_154000",
+      "lex_154003",
+      "lex_154006",
+      "lex_154009",
+      "lex_154012",
+      "lex_154032",
+      "lex_154035",
+      "lex_154038",
+      "lex_154041",
+      "lex_154044",
+      "lex_154047",
+      "lex_154050",
+      "lex_154051",
+      "lex_154054",
+      "lex_154057",
+      "lex_154063",
+      "lex_154066",
+      "lex_154069",
+      "lex_154072",
+      "lex_154075",
+      "lex_154078",
+      "lex_154079",
+      "lex_154080",
+      "lex_154081",
+      "lex_154084",
+      "lex_154087",
+      "lex_154090",
+      "lex_154093",
+      "lex_154096",
+      "lex_154103",
+      "lex_154108",
+      "lex_154109",
+      "lex_154112",
+      "lex_154113",
+      "lex_154131",
+      "lex_154134",
+      "lex_154137",
+      "lex_154143",
+      "lex_154149",
+      "lex_154153",
+      "lex_154156",
+      "lex_154159",
+      "lex_154162",
+      "lex_154165",
+      "lex_154168",
+      "lex_154171",
+      "lex_154174",
+      "lex_154176",
+      "lex_154178",
+      "lex_154182",
+      "lex_154185",
+      "lex_154188",
+      "lex_154191",
+      "lex_154192",
+      "lex_154195",
+      "lex_154198",
+      "lex_154201",
+      "lex_154204",
+      "lex_154206",
+      "lex_154209",
+      "lex_154213",
+      "lex_154216",
+      "lex_154219",
+      "lex_154220",
+      "lex_154224",
+      "lex_154228",
+      "lex_154238",
+      "lex_154245",
+      "lex_154248",
+      "lex_154333",
+      "lex_154334",
+      "lex_154336",
+      "lex_154339",
+      "lex_154340",
+      "lex_154346",
+      "lex_154347",
+      "lex_154348",
+      "lex_154349",
+      "lex_154350",
+      "lex_154354",
+      "lex_154355",
+      "lex_154361",
+      "lex_161066",
+      "lex_161070",
+      "lex_161071",
+      "lex_161075",
+      "lex_161082",
+      "lex_161083",
+      "lex_161095",
+      "lex_161097",
+      "lex_161100",
+      "lex_161102",
+      "lex_161106",
+      "lex_161110",
+      "lex_161111",
+      "lex_161112",
+      "lex_161123",
+      "lex_161129",
+      "lex_161130",
+      "lex_161137",
+      "lex_161138",
+      "lex_161149",
+      "lex_161152",
+      "lex_161153",
+      "lex_16809",
+      "lex_173800",
+      "lex_173802",
+      "lex_173839",
+      "lex_173842",
+      "lex_173848",
+      "lex_174016",
+      "lex_174020",
+      "lex_174023",
+      "lex_174024",
+      "lex_174064",
+      "lex_174065",
+      "lex_174073",
+      "lex_174074",
+      "lex_174077",
+      "lex_174080",
+      "lex_174083",
+      "lex_174088",
+      "lex_174171",
+      "lex_175157",
+      "lex_177549",
+      "lex_183113",
+      "lex_184989",
+      "lex_192026",
+      "lex_2121",
+      "lex_215867",
+      "lex_215872",
+      "lex_216021",
+      "lex_216023",
+      "lex_216027",
+      "lex_216029",
+      "lex_220036",
+      "lex_220039",
+      "lex_220173",
+      "lex_220543",
+      "lex_220956",
+      "lex_221473",
+      "lex_230768",
+      "lex_230772",
+      "lex_231444",
+      "lex_231449",
+      "lex_231457",
+      "lex_231460",
+      "lex_231463",
+      "lex_231467",
+      "lex_231471",
+      "lex_231474",
+      "lex_231477",
+      "lex_231487",
+      "lex_231501",
+      "lex_231584",
+      "lex_231585",
+      "lex_231591",
+      "lex_231594",
+      "lex_231599",
+      "lex_231607",
+      "lex_231627",
+      "lex_231631",
+      "lex_231673",
+      "lex_231824",
+      "lex_231827",
+      "lex_231830",
+      "lex_231834",
+      "lex_231838",
+      "lex_231850",
+      "lex_231853",
+      "lex_231856",
+      "lex_231859",
+      "lex_231863",
+      "lex_231866",
+      "lex_231869",
+      "lex_231872",
+      "lex_231875",
+      "lex_232115",
+      "lex_232134",
+      "lex_232143",
+      "lex_232170",
+      "lex_232418",
+      "lex_232422",
+      "lex_232425",
+      "lex_232429",
+      "lex_232432",
+      "lex_232436",
+      "lex_232607",
+      "lex_232610",
+      "lex_232613",
+      "lex_232616",
+      "lex_232623",
+      "lex_232649",
+      "lex_232652",
+      "lex_232662",
+      "lex_232671",
+      "lex_232675",
+      "lex_232678",
+      "lex_232682",
+      "lex_232685",
+      "lex_232690",
+      "lex_232693",
+      "lex_232697",
+      "lex_232702",
+      "lex_232705",
+      "lex_232708",
+      "lex_232713",
+      "lex_232716",
+      "lex_232719",
+      "lex_232726",
+      "lex_232730",
+      "lex_232734",
+      "lex_232749",
+      "lex_232750",
+      "lex_232760",
+      "lex_232768",
+      "lex_232771",
+      "lex_232831",
+      "lex_232835",
+      "lex_233385",
+      "lex_233388",
+      "lex_261711",
+      "lex_261714",
+      "lex_261717",
+      "lex_261720",
+      "lex_261723",
+      "lex_261727",
+      "lex_261731",
+      "lex_261732",
+      "lex_261736",
+      "lex_261741",
+      "lex_261744",
+      "lex_261746",
+      "lex_261747",
+      "lex_261754",
+      "lex_261757",
+      "lex_261760",
+      "lex_261763",
+      "lex_261767",
+      "lex_261772",
+      "lex_261773",
+      "lex_261777",
+      "lex_261782",
+      "lex_261784",
+      "lex_261785",
+      "lex_261788",
+      "lex_261792",
+      "lex_261794",
+      "lex_261796",
+      "lex_261798",
+      "lex_261809",
+      "lex_261812",
+      "lex_261814",
+      "lex_261817",
+      "lex_261819",
+      "lex_261822",
+      "lex_261825",
+      "lex_261828",
+      "lex_266079",
+      "lex_266082",
+      "lex_266084",
+      "lex_266087",
+      "lex_266090",
+      "lex_266093",
+      "lex_266096",
+      "lex_266097",
+      "lex_266101",
+      "lex_266105",
+      "lex_266108",
+      "lex_266111",
+      "lex_266113",
+      "lex_266116",
+      "lex_266119",
+      "lex_266122",
+      "lex_266125",
+      "lex_266128",
+      "lex_266132",
+      "lex_266135",
+      "lex_266138",
+      "lex_266142",
+      "lex_266145",
+      "lex_266148",
+      "lex_266151",
+      "lex_266154",
+      "lex_266157",
+      "lex_266160",
+      "lex_266162",
+      "lex_266165",
+      "lex_266168",
+      "lex_266171",
+      "lex_266172",
+      "lex_266175",
+      "lex_266177",
+      "lex_266180",
+      "lex_266182",
+      "lex_266183",
+      "lex_266185",
+      "lex_266188",
+      "lex_266191",
+      "lex_266193",
+      "lex_266195",
+      "lex_266197",
+      "lex_266199",
+      "lex_266202",
+      "lex_266204",
+      "lex_266207",
+      "lex_266209",
+      "lex_266211",
+      "lex_266214",
+      "lex_266217",
+      "lex_266220",
+      "lex_266223",
+      "lex_266225",
+      "lex_266228",
+      "lex_266231",
+      "lex_266234",
+      "lex_266237",
+      "lex_266240",
+      "lex_266242",
+      "lex_266245",
+      "lex_266248",
+      "lex_266251",
+      "lex_266254",
+      "lex_266257",
+      "lex_266260",
+      "lex_266263",
+      "lex_266267",
+      "lex_266268",
+      "lex_266272",
+      "lex_266275",
+      "lex_266279",
+      "lex_266280",
+      "lex_266284",
+      "lex_266287",
+      "lex_266290",
+      "lex_266292",
+      "lex_266295",
+      "lex_266299",
+      "lex_266302",
+      "lex_266305",
+      "lex_266306",
+      "lex_266309",
+      "lex_266311",
+      "lex_266315",
+      "lex_266318",
+      "lex_266321",
+      "lex_266324",
+      "lex_266326",
+      "lex_266328",
+      "lex_266332",
+      "lex_266335",
+      "lex_266338",
+      "lex_266341",
+      "lex_266343",
+      "lex_266345",
+      "lex_266348",
+      "lex_266350",
+      "lex_266353",
+      "lex_266356",
+      "lex_266358",
+      "lex_266361",
+      "lex_266364",
+      "lex_266368",
+      "lex_266370",
+      "lex_266372",
+      "lex_266375",
+      "lex_266378",
+      "lex_266380",
+      "lex_266381",
+      "lex_266387",
+      "lex_266390",
+      "lex_266392",
+      "lex_266397",
+      "lex_266404",
+      "lex_266418",
+      "lex_266421",
+      "lex_266424",
+      "lex_266426",
+      "lex_266432",
+      "lex_32477",
+      "lex_32539",
+      "lex_35492",
+      "lex_35552",
+      "lex_4979",
+      "lex_7639"
+    ],
     "dom_45": [
       "lex_148148",
       "lex_148407",
@@ -1871211,7 +1872077,6 @@
       "lex_183021",
       "lex_183026",
       "lex_183112",
-      "lex_183113",
       "lex_183115",
       "lex_183116",
       "lex_183117",
@@ -1871298,417 +1872163,6 @@
       "lex_4416",
       "lex_5958",
       "lex_64124"
-    ],
-    "dom_120": [
-      "lex_14568",
-      "lex_147458",
-      "lex_150225",
-      "lex_150648",
-      "lex_150650",
-      "lex_153893",
-      "lex_153926",
-      "lex_153929",
-      "lex_153933",
-      "lex_153936",
-      "lex_153940",
-      "lex_153948",
-      "lex_153949",
-      "lex_153952",
-      "lex_153955",
-      "lex_153958",
-      "lex_153962",
-      "lex_153964",
-      "lex_153967",
-      "lex_153970",
-      "lex_153973",
-      "lex_153976",
-      "lex_153978",
-      "lex_153980",
-      "lex_153982",
-      "lex_153984",
-      "lex_153987",
-      "lex_153990",
-      "lex_153993",
-      "lex_153996",
-      "lex_154000",
-      "lex_154003",
-      "lex_154006",
-      "lex_154009",
-      "lex_154012",
-      "lex_154032",
-      "lex_154035",
-      "lex_154038",
-      "lex_154041",
-      "lex_154044",
-      "lex_154047",
-      "lex_154050",
-      "lex_154051",
-      "lex_154054",
-      "lex_154057",
-      "lex_154063",
-      "lex_154066",
-      "lex_154069",
-      "lex_154072",
-      "lex_154075",
-      "lex_154078",
-      "lex_154079",
-      "lex_154080",
-      "lex_154081",
-      "lex_154084",
-      "lex_154087",
-      "lex_154090",
-      "lex_154093",
-      "lex_154096",
-      "lex_154103",
-      "lex_154108",
-      "lex_154109",
-      "lex_154112",
-      "lex_154113",
-      "lex_154131",
-      "lex_154134",
-      "lex_154137",
-      "lex_154143",
-      "lex_154149",
-      "lex_154153",
-      "lex_154156",
-      "lex_154159",
-      "lex_154162",
-      "lex_154165",
-      "lex_154168",
-      "lex_154171",
-      "lex_154174",
-      "lex_154176",
-      "lex_154178",
-      "lex_154182",
-      "lex_154185",
-      "lex_154188",
-      "lex_154191",
-      "lex_154192",
-      "lex_154195",
-      "lex_154198",
-      "lex_154201",
-      "lex_154204",
-      "lex_154206",
-      "lex_154209",
-      "lex_154213",
-      "lex_154216",
-      "lex_154219",
-      "lex_154220",
-      "lex_154224",
-      "lex_154228",
-      "lex_154238",
-      "lex_154245",
-      "lex_154248",
-      "lex_154333",
-      "lex_154334",
-      "lex_154336",
-      "lex_154339",
-      "lex_154340",
-      "lex_154346",
-      "lex_154347",
-      "lex_154348",
-      "lex_154349",
-      "lex_154350",
-      "lex_154354",
-      "lex_154355",
-      "lex_154361",
-      "lex_161066",
-      "lex_161070",
-      "lex_161071",
-      "lex_161075",
-      "lex_161082",
-      "lex_161083",
-      "lex_161095",
-      "lex_161097",
-      "lex_161100",
-      "lex_161102",
-      "lex_161106",
-      "lex_161110",
-      "lex_161111",
-      "lex_161112",
-      "lex_161123",
-      "lex_161129",
-      "lex_161130",
-      "lex_161137",
-      "lex_161138",
-      "lex_161149",
-      "lex_161152",
-      "lex_161153",
-      "lex_16809",
-      "lex_173800",
-      "lex_173802",
-      "lex_173839",
-      "lex_173842",
-      "lex_173848",
-      "lex_174016",
-      "lex_174020",
-      "lex_174023",
-      "lex_174024",
-      "lex_174064",
-      "lex_174065",
-      "lex_174073",
-      "lex_174074",
-      "lex_174077",
-      "lex_174080",
-      "lex_174083",
-      "lex_174088",
-      "lex_174171",
-      "lex_175157",
-      "lex_177549",
-      "lex_184989",
-      "lex_192026",
-      "lex_2121",
-      "lex_215867",
-      "lex_215872",
-      "lex_216021",
-      "lex_216023",
-      "lex_216027",
-      "lex_216029",
-      "lex_220036",
-      "lex_220039",
-      "lex_220173",
-      "lex_220543",
-      "lex_220956",
-      "lex_221473",
-      "lex_230768",
-      "lex_230772",
-      "lex_231444",
-      "lex_231449",
-      "lex_231457",
-      "lex_231460",
-      "lex_231463",
-      "lex_231467",
-      "lex_231471",
-      "lex_231474",
-      "lex_231477",
-      "lex_231487",
-      "lex_231501",
-      "lex_231584",
-      "lex_231585",
-      "lex_231591",
-      "lex_231594",
-      "lex_231599",
-      "lex_231607",
-      "lex_231627",
-      "lex_231631",
-      "lex_231673",
-      "lex_231824",
-      "lex_231827",
-      "lex_231830",
-      "lex_231834",
-      "lex_231838",
-      "lex_231850",
-      "lex_231853",
-      "lex_231856",
-      "lex_231859",
-      "lex_231863",
-      "lex_231866",
-      "lex_231869",
-      "lex_231872",
-      "lex_231875",
-      "lex_232115",
-      "lex_232134",
-      "lex_232143",
-      "lex_232170",
-      "lex_232418",
-      "lex_232422",
-      "lex_232425",
-      "lex_232429",
-      "lex_232432",
-      "lex_232436",
-      "lex_232607",
-      "lex_232610",
-      "lex_232613",
-      "lex_232616",
-      "lex_232623",
-      "lex_232649",
-      "lex_232652",
-      "lex_232662",
-      "lex_232671",
-      "lex_232675",
-      "lex_232678",
-      "lex_232682",
-      "lex_232685",
-      "lex_232690",
-      "lex_232693",
-      "lex_232697",
-      "lex_232702",
-      "lex_232705",
-      "lex_232708",
-      "lex_232713",
-      "lex_232716",
-      "lex_232719",
-      "lex_232726",
-      "lex_232730",
-      "lex_232734",
-      "lex_232749",
-      "lex_232750",
-      "lex_232760",
-      "lex_232768",
-      "lex_232771",
-      "lex_232831",
-      "lex_232835",
-      "lex_233385",
-      "lex_233388",
-      "lex_261711",
-      "lex_261714",
-      "lex_261717",
-      "lex_261720",
-      "lex_261723",
-      "lex_261727",
-      "lex_261731",
-      "lex_261732",
-      "lex_261736",
-      "lex_261741",
-      "lex_261744",
-      "lex_261746",
-      "lex_261747",
-      "lex_261754",
-      "lex_261757",
-      "lex_261760",
-      "lex_261763",
-      "lex_261767",
-      "lex_261772",
-      "lex_261773",
-      "lex_261777",
-      "lex_261782",
-      "lex_261784",
-      "lex_261785",
-      "lex_261788",
-      "lex_261792",
-      "lex_261794",
-      "lex_261796",
-      "lex_261798",
-      "lex_261809",
-      "lex_261812",
-      "lex_261814",
-      "lex_261817",
-      "lex_261819",
-      "lex_261822",
-      "lex_261825",
-      "lex_261828",
-      "lex_266079",
-      "lex_266082",
-      "lex_266084",
-      "lex_266087",
-      "lex_266090",
-      "lex_266093",
-      "lex_266096",
-      "lex_266097",
-      "lex_266101",
-      "lex_266105",
-      "lex_266108",
-      "lex_266111",
-      "lex_266113",
-      "lex_266116",
-      "lex_266119",
-      "lex_266122",
-      "lex_266125",
-      "lex_266128",
-      "lex_266132",
-      "lex_266135",
-      "lex_266138",
-      "lex_266142",
-      "lex_266145",
-      "lex_266148",
-      "lex_266151",
-      "lex_266154",
-      "lex_266157",
-      "lex_266160",
-      "lex_266162",
-      "lex_266165",
-      "lex_266168",
-      "lex_266171",
-      "lex_266172",
-      "lex_266175",
-      "lex_266177",
-      "lex_266180",
-      "lex_266182",
-      "lex_266183",
-      "lex_266185",
-      "lex_266188",
-      "lex_266191",
-      "lex_266193",
-      "lex_266195",
-      "lex_266197",
-      "lex_266199",
-      "lex_266202",
-      "lex_266204",
-      "lex_266207",
-      "lex_266209",
-      "lex_266211",
-      "lex_266214",
-      "lex_266217",
-      "lex_266220",
-      "lex_266223",
-      "lex_266225",
-      "lex_266228",
-      "lex_266231",
-      "lex_266234",
-      "lex_266237",
-      "lex_266240",
-      "lex_266242",
-      "lex_266245",
-      "lex_266248",
-      "lex_266251",
-      "lex_266254",
-      "lex_266257",
-      "lex_266260",
-      "lex_266263",
-      "lex_266267",
-      "lex_266268",
-      "lex_266272",
-      "lex_266275",
-      "lex_266279",
-      "lex_266280",
-      "lex_266284",
-      "lex_266287",
-      "lex_266290",
-      "lex_266292",
-      "lex_266295",
-      "lex_266299",
-      "lex_266302",
-      "lex_266305",
-      "lex_266306",
-      "lex_266309",
-      "lex_266311",
-      "lex_266315",
-      "lex_266318",
-      "lex_266321",
-      "lex_266324",
-      "lex_266326",
-      "lex_266328",
-      "lex_266332",
-      "lex_266335",
-      "lex_266338",
-      "lex_266341",
-      "lex_266343",
-      "lex_266345",
-      "lex_266348",
-      "lex_266350",
-      "lex_266353",
-      "lex_266356",
-      "lex_266358",
-      "lex_266361",
-      "lex_266364",
-      "lex_266368",
-      "lex_266370",
-      "lex_266372",
-      "lex_266375",
-      "lex_266378",
-      "lex_266380",
-      "lex_266381",
-      "lex_266387",
-      "lex_266390",
-      "lex_266392",
-      "lex_266397",
-      "lex_266404",
-      "lex_32477",
-      "lex_32539",
-      "lex_35492",
-      "lex_35552",
-      "lex_4979",
-      "lex_7639"
     ],
     "dom_58": [
       "lex_214352",
@@ -1880859,6 +1881313,8 @@
       "lex_266113",
       "lex_266279",
       "lex_266280",
+      "lex_266424",
+      "lex_266426",
       "lex_2665",
       "lex_2666",
       "lex_26684",
@@ -1881543,12 +1881999,6 @@
       "lex_247022",
       "lex_256089"
     ],
-    "nbc": [
-      "lex_124930"
-    ],
-    "abc": [
-      "lex_124930"
-    ],
     "the": [
       "lex_11184",
       "lex_11794",
@@ -1881705,6 +1882155,8 @@
       "lex_266268",
       "lex_266279",
       "lex_266280",
+      "lex_266424",
+      "lex_266426",
       "lex_26715",
       "lex_26738",
       "lex_27127",
@@ -1881770,6 +1882222,94 @@
       "lex_8357",
       "lex_9280",
       "lex_9340"
+    ],
+    "environmental": [
+      "lex_125310",
+      "lex_131155",
+      "lex_154108",
+      "lex_161387",
+      "lex_161391",
+      "lex_161400",
+      "lex_161402",
+      "lex_162564",
+      "lex_183113",
+      "lex_219529",
+      "lex_219532",
+      "lex_221524",
+      "lex_232726",
+      "lex_232749",
+      "lex_232750",
+      "lex_266397",
+      "lex_266404",
+      "lex_266418",
+      "lex_266421",
+      "lex_266424",
+      "lex_266426"
+    ],
+    "agency": [
+      "lex_130963",
+      "lex_153717",
+      "lex_170529",
+      "lex_173823",
+      "lex_20149",
+      "lex_266424",
+      "lex_266426",
+      "lex_3532"
+    ],
+    "mineral": [
+      "lex_148527",
+      "lex_148528",
+      "lex_161372",
+      "lex_178593",
+      "lex_182998",
+      "lex_208075",
+      "lex_219213",
+      "lex_221606",
+      "lex_266116",
+      "lex_266188",
+      "lex_266287",
+      "lex_266378",
+      "lex_266424",
+      "lex_266426"
+    ],
+    "resource": [
+      "lex_218527",
+      "lex_22697",
+      "lex_266375",
+      "lex_266424",
+      "lex_266426",
+      "lex_7706"
+    ],
+    "activities": [
+      "lex_205414",
+      "lex_266335",
+      "lex_266424",
+      "lex_266426"
+    ],
+    "eamra": [
+      "lex_266424",
+      "lex_266426"
+    ],
+    "miljøstyrelsen": [
+      "lex_172036",
+      "lex_182665",
+      "lex_266424",
+      "lex_266426"
+    ],
+    "råstofområdet": [
+      "lex_182665",
+      "lex_266424",
+      "lex_266426"
+    ],
+    "mr": [
+      "lex_266424",
+      "lex_266426"
+    ],
+    "nbc": [
+      "lex_124930"
+    ],
+    "abc": [
+      "lex_124930"
     ],
     "abm": [
       "lex_167729"
@@ -1882577,24 +1883117,6 @@
       "lex_35764",
       "lex_39270",
       "lex_6396"
-    ],
-    "environmental": [
-      "lex_125310",
-      "lex_131155",
-      "lex_154108",
-      "lex_161387",
-      "lex_161391",
-      "lex_161400",
-      "lex_161402",
-      "lex_162564",
-      "lex_219529",
-      "lex_219532",
-      "lex_221524",
-      "lex_232726",
-      "lex_232749",
-      "lex_232750",
-      "lex_266397",
-      "lex_266404"
     ],
     "protection": [
       "lex_125310",
@@ -1884320,13 +1884842,6 @@
       "lex_173351",
       "lex_173604",
       "lex_26098"
-    ],
-    "miljøstyrelsen": [
-      "lex_172036",
-      "lex_182665"
-    ],
-    "råstofområdet": [
-      "lex_182665"
     ],
     "råstofstyrelse": [
       "lex_164034"
@@ -1886450,6 +1886965,7 @@
       "lex_34531",
       "lex_34541",
       "lex_34542",
+      "lex_34550",
       "lex_34589",
       "lex_34601",
       "lex_34607",
@@ -1889462,6 +1889978,7 @@
       "lex_164873",
       "lex_169044",
       "lex_172275",
+      "lex_183113",
       "lex_190292",
       "lex_190294",
       "lex_219819",
@@ -1889710,14 +1890227,6 @@
       "lex_9071",
       "lex_9072"
     ],
-    "agency": [
-      "lex_130963",
-      "lex_153717",
-      "lex_170529",
-      "lex_173823",
-      "lex_20149",
-      "lex_3532"
-    ],
     "digitisation": [
       "lex_153717"
     ],
@@ -1889948,6 +1890457,7 @@
       "lex_164437",
       "lex_164455",
       "lex_164487",
+      "lex_164950",
       "lex_214777",
       "lex_214872",
       "lex_214873",
@@ -1890919,10 +1891429,6 @@
       "lex_205414",
       "lex_266142"
     ],
-    "activities": [
-      "lex_205414",
-      "lex_266335"
-    ],
     "ministery": [
       "lex_148527",
       "lex_148528"
@@ -1890934,20 +1891440,6 @@
       "lex_232726",
       "lex_32980",
       "lex_34298"
-    ],
-    "mineral": [
-      "lex_148527",
-      "lex_148528",
-      "lex_161372",
-      "lex_178593",
-      "lex_182998",
-      "lex_208075",
-      "lex_219213",
-      "lex_221606",
-      "lex_266116",
-      "lex_266188",
-      "lex_266287",
-      "lex_266378"
     ],
     "resources": [
       "lex_146610",
@@ -1891028,6 +1891520,7 @@
       "lex_168164",
       "lex_173828",
       "lex_173829",
+      "lex_183113",
       "lex_218401",
       "lex_218402",
       "lex_219529",
@@ -1893873,6 +1894366,7 @@
       "lex_38895",
       "lex_5476",
       "lex_5710",
+      "lex_5873",
       "lex_6052",
       "lex_6559",
       "lex_7254",
@@ -1898716,6 +1899210,7 @@
       "lex_420",
       "lex_5760",
       "lex_5761",
+      "lex_5873",
       "lex_6106",
       "lex_6117",
       "lex_6150",
@@ -1907940,6 +1908435,7 @@
     "fetch": [
       "lex_142318",
       "lex_33080",
+      "lex_33805",
       "lex_40418",
       "lex_9919"
     ],
@@ -1908462,6 +1908958,7 @@
       "lex_216029",
       "lex_218923",
       "lex_261825",
+      "lex_266432",
       "lex_28308",
       "lex_32476",
       "lex_32980",
@@ -1929917,12 +1930414,6 @@
     "orebody": [
       "lex_266375"
     ],
-    "resource": [
-      "lex_218527",
-      "lex_22697",
-      "lex_266375",
-      "lex_7706"
-    ],
     "malmlegeme": [
       "lex_266375"
     ],
@@ -1940300,6 +1940791,7 @@
       "lex_261361",
       "lex_266275",
       "lex_27190",
+      "lex_33805",
       "lex_33807",
       "lex_33811",
       "lex_33822",
@@ -1951988,9 +1952480,18 @@
       "lex_180607",
       "lex_245436"
     ],
-    "nordlys": [
+    "lights": [
       "lex_164950",
-      "lex_4776"
+      "lex_165145"
+    ],
+    "aurora": [
+      "lex_164950"
+    ],
+    "borealis": [
+      "lex_164950"
+    ],
+    "nordlys": [
+      "lex_164950"
     ],
     "tipsmidler": [
       "lex_207555"
@@ -1961228,7 +1961729,8 @@
       "lex_183116"
     ],
     "miljøovervågning": [
-      "lex_182979"
+      "lex_182979",
+      "lex_266421"
     ],
     "miljømonitering": [
       "lex_182979"
@@ -1961241,6 +1961743,10 @@
     ],
     "miljøundersøgelse": [
       "lex_179157"
+    ],
+    "monitoring": [
+      "lex_258431",
+      "lex_266421"
     ],
     "miljøtilsyn": [
       "lex_182980"
@@ -1961324,6 +1961830,9 @@
       "lex_220214",
       "lex_231106",
       "lex_244631"
+    ],
+    "miljømæssig": [
+      "lex_266418"
     ],
     "mijjøstyrelse": [
       "lex_172628"
@@ -1984477,9 +1984986,6 @@
     "acoustic": [
       "lex_258431"
     ],
-    "monitoring": [
-      "lex_258431"
-    ],
     "akvakultur": [
       "lex_179846"
     ],
@@ -1996634,6 +1997140,7 @@
     ],
     "betænksom": [
       "lex_14253",
+      "lex_34550",
       "lex_8494",
       "lex_8495",
       "lex_8497"
@@ -1996669,6 +1997176,7 @@
       "lex_8497"
     ],
     "dybsindig": [
+      "lex_34550",
       "lex_8497"
     ],
     "tænksom": [
@@ -2007136,6 +2007644,21 @@
       "lex_10772",
       "lex_10776"
     ],
+    "thickener": [
+      "lex_10784",
+      "lex_266414"
+    ],
+    "slurry": [
+      "lex_10784",
+      "lex_266414"
+    ],
+    "jævning": [
+      "lex_10784",
+      "lex_132340",
+      "lex_259977",
+      "lex_266414",
+      "lex_5172"
+    ],
     "finds": [
       "lex_10791",
       "lex_183143",
@@ -2007149,15 +2007672,6 @@
       "lex_183143",
       "lex_183144",
       "lex_183145"
-    ],
-    "thickening": [
-      "lex_10784"
-    ],
-    "jævning": [
-      "lex_10784",
-      "lex_132340",
-      "lex_259977",
-      "lex_5172"
     ],
     "tyktflydende": [
       "lex_14578",
@@ -2060090,9 +2060604,6 @@
       "lex_29851",
       "lex_33213"
     ],
-    "lights": [
-      "lex_165145"
-    ],
     "lyskæde": [
       "lex_165145"
     ],
@@ -2071929,6 +2072440,9 @@
     ],
     "oversigtsartikel": [
       "lex_248169"
+    ],
+    "visualize": [
+      "lex_146864"
     ],
     "demonstrere": [
       "lex_13083",
