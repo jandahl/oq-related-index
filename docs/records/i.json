@@ -90678,7 +90678,9 @@
       "id": "lex_33805",
       "headword": "imertarpoq",
       "word_class": "v",
-      "gloss_en": [],
+      "gloss_en": [
+        "fetch water"
+      ],
       "gloss_da": [
         "hente vand"
       ],
@@ -90689,7 +90691,7 @@
       "related": [
         {
           "id": "lex_142318",
-          "score": 7.7045668329698405,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -90701,21 +90703,8 @@
           "shard": "p"
         },
         {
-          "id": "lex_32368",
-          "score": 7.7045668329698405,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "shared gloss",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "aggiussiartorpoq",
-          "shard": "a"
-        },
-        {
           "id": "lex_33080",
-          "score": 7.7045668329698405,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -90728,7 +90717,7 @@
         },
         {
           "id": "lex_9919",
-          "score": 7.7045668329698405,
+          "score": 8.382638738082479,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -90737,6 +90726,19 @@
             "shared related words"
           ],
           "headword": "aallerpoq",
+          "shard": "a"
+        },
+        {
+          "id": "lex_32368",
+          "score": 7.7045668329698405,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "aggiussiartorpoq",
           "shard": "a"
         }
       ]
@@ -116957,6 +116959,18 @@
       "related": []
     },
     {
+      "id": "lex_266434",
+      "headword": "ingeniøriuneq",
+      "word_class": "t",
+      "gloss_en": [],
+      "gloss_da": [],
+      "semantic_classes": [
+        "Hprof"
+      ],
+      "domain": null,
+      "related": []
+    },
+    {
       "id": "lex_248275",
       "headword": "ingeq",
       "word_class": "t",
@@ -119634,7 +119648,7 @@
       "related": [
         {
           "id": "lex_7653",
-          "score": 8.87329552715681,
+          "score": 8.766380323240298,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119647,7 +119661,7 @@
         },
         {
           "id": "lex_5873",
-          "score": 8.299560281858907,
+          "score": 8.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119660,7 +119674,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119672,7 +119686,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119683,8 +119697,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119696,7 +119722,7 @@
         },
         {
           "id": "lex_180430",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119708,7 +119734,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119717,18 +119743,6 @@
           ],
           "headword": "akiortuarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_30744",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "sivitsorpoq",
-          "shard": "s"
         }
       ]
     },
@@ -119749,7 +119763,7 @@
       "related": [
         {
           "id": "lex_180430",
-          "score": 9.099120563717817,
+          "score": 8.992205359801304,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119761,7 +119775,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119773,7 +119787,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119784,8 +119798,20 @@
           "shard": "i"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119797,7 +119823,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119809,7 +119835,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119821,7 +119847,7 @@
         },
         {
           "id": "lex_32500",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -119830,18 +119856,6 @@
           ],
           "headword": "aammaarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_35510",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uterpaa",
-          "shard": "u"
         }
       ]
     },
@@ -122097,7 +122111,7 @@
       "related": [
         {
           "id": "lex_180430",
-          "score": 8.299560281858907,
+          "score": 8.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -122110,7 +122124,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -122121,8 +122135,20 @@
           "shard": "p"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -122134,7 +122160,7 @@
         },
         {
           "id": "lex_170364",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -122146,7 +122172,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -122158,7 +122184,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -122170,7 +122196,7 @@
         },
         {
           "id": "lex_32500",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -122179,18 +122205,6 @@
           ],
           "headword": "aammaarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_35510",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uterpaa",
-          "shard": "u"
         }
       ]
     },
@@ -197498,7 +197512,7 @@
       "related": [
         {
           "id": "lex_22697",
-          "score": 8,
+          "score": 7.5,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -203595,7 +203609,7 @@
       "related": [
         {
           "id": "lex_8497",
-          "score": 8.678071905112638,
+          "score": 8.356143810225277,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -203608,7 +203622,7 @@
         },
         {
           "id": "lex_14253",
-          "score": 8.608748463186032,
+          "score": 8.242996617459816,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -203621,7 +203635,7 @@
         },
         {
           "id": "lex_8495",
-          "score": 6.430676558073393,
+          "score": 6.06492471234718,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -203753,7 +203767,7 @@
       "related": [
         {
           "id": "lex_8494",
-          "score": 8.678071905112638,
+          "score": 8.356143810225277,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -203766,7 +203780,7 @@
         },
         {
           "id": "lex_14253",
-          "score": 8.608748463186032,
+          "score": 8.286820368298669,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -203779,7 +203793,7 @@
         },
         {
           "id": "lex_8495",
-          "score": 6.430676558073393,
+          "score": 6.108748463186031,
           "reasons": [
             "shared gloss",
             "reciprocal relatedness",
@@ -204104,8 +204118,13 @@
       "headword": "isumatuvoq",
       "word_class": "v",
       "gloss_en": [],
-      "gloss_da": [],
-      "semantic_classes": [],
+      "gloss_da": [
+        "være dybsindig",
+        "være betænksom"
+      ],
+      "semantic_classes": [
+        "V.1.7.1"
+      ],
       "domain": null,
       "related": []
     },

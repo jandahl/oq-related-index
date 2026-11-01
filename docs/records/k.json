@@ -79442,6 +79442,36 @@
       ]
     },
     {
+      "id": "lex_266414",
+      "headword": "kinequt",
+      "word_class": "t",
+      "gloss_en": [
+        "thickener",
+        "slurry"
+      ],
+      "gloss_da": [
+        "jævning"
+      ],
+      "semantic_classes": [
+        "food-m-h"
+      ],
+      "domain": null,
+      "related": [
+        {
+          "id": "lex_10784",
+          "score": 9.178071905112638,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "kinersaat",
+          "shard": "k"
+        }
+      ]
+    },
+    {
       "id": "lex_10777",
       "headword": "kinequtaavoq",
       "word_class": "v",
@@ -79824,8 +79854,9 @@
       "headword": "kinersaat",
       "word_class": "t",
       "gloss_en": [
-        "thickening",
-        "arrowroot"
+        "arrowroot",
+        "thickener",
+        "slurry"
       ],
       "gloss_da": [
         "jævning",
@@ -79835,7 +79866,20 @@
         "food-m-h"
       ],
       "domain": null,
-      "related": []
+      "related": [
+        {
+          "id": "lex_266414",
+          "score": 9.178071905112638,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "shared gloss",
+            "reciprocal relatedness"
+          ],
+          "headword": "kinequt",
+          "shard": "k"
+        }
+      ]
     },
     {
       "id": "lex_259977",
@@ -81953,7 +81997,7 @@
       "related": [
         {
           "id": "lex_170364",
-          "score": 9.099120563717817,
+          "score": 8.992205359801304,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -81965,7 +82009,7 @@
         },
         {
           "id": "lex_154030",
-          "score": 8.299560281858907,
+          "score": 8.192645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -81978,7 +82022,7 @@
         },
         {
           "id": "lex_125382",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -81989,8 +82033,20 @@
           "shard": "p"
         },
         {
+          "id": "lex_16588",
+          "score": 7.692645077942396,
+          "reasons": [
+            "same semantic class",
+            "same word class",
+            "reciprocal relatedness",
+            "shared related words"
+          ],
+          "headword": "nangitsivoq",
+          "shard": "n"
+        },
+        {
           "id": "lex_166793",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -82002,7 +82058,7 @@
         },
         {
           "id": "lex_1849",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -82014,7 +82070,7 @@
         },
         {
           "id": "lex_30744",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -82026,7 +82082,7 @@
         },
         {
           "id": "lex_32500",
-          "score": 7.799560281858907,
+          "score": 7.692645077942396,
           "reasons": [
             "same semantic class",
             "same word class",
@@ -82035,18 +82091,6 @@
           ],
           "headword": "aammaarpoq",
           "shard": "a"
-        },
-        {
-          "id": "lex_35510",
-          "score": 7.799560281858907,
-          "reasons": [
-            "same semantic class",
-            "same word class",
-            "reciprocal relatedness",
-            "shared related words"
-          ],
-          "headword": "uterpaa",
-          "shard": "u"
         }
       ]
     },
